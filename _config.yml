@@ -1,13 +1,12 @@
 # Site wide configuration
 
-title:            Site Title
+title:            l.magnu.se
 locale:           en_US
 url:              http://localhost:4000
+teaser: teaser.jpg
 
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
+# Jekyll configurkramdown
+permalink:   /:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -26,12 +25,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Magnus Eriksson
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  bio: "Internet and beyond. Pre-modern, post-human, para-academic."
+  email: ok@blay.se
+  disqus-shortname: blay 
+  twitter: monki
   facebook: #username
   google:
     plus: #username
@@ -40,7 +39,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: blay
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username

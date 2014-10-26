@@ -39,9 +39,9 @@
       {% else %}
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
-    </div><!--/ .headline-wrap -->
+  </div><!--/ .headline-wrap -->
     <div class="article-wrap">
-      {{ content }}
+     {{ content }}
       <hr />
       <footer role="contentinfo">
         <div class="article-author-bottom">
@@ -58,7 +58,7 @@
 
 <div class="footer-wrap">
   <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
+  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/archive/">View all posts</a>)</small></h4>
     <ul>
     {% for post in site.related_posts limit:3 %}
       <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>

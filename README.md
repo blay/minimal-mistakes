@@ -1,3 +1,7 @@
+# l.magnu.se
+
+This is my fork of the theme by Michael Rose. Original README below.
+
 # Minimal Mistakes
 
 **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog. 
