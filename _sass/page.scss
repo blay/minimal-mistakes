@@ -436,7 +436,6 @@ $button-size: 1.5rem;
 		position: absolute;
 		top: 5.5em;
 		right: 0;
-		background-color: $white;
 	}
 	header {
 		background: lighten($black, 10);
@@ -452,13 +451,13 @@ $button-size: 1.5rem;
 		}
 	}
 	ul {
-		margin: 2px 0 0;
+		margin: 0px 0 0;
 		padding: 0;
 		line-height: 1;
 	}
 	li {
 		display: block;
-		margin: 0 0 1px 10px;
+		margin: 0 0 0px 10px;
 		padding: 0;
 		font-family: $heading-font;
 		list-style-type: none;
@@ -467,18 +466,18 @@ $button-size: 1.5rem;
 		}
 		a {
 			padding: 10px;
+			border-bottom: 1px solid;
 			display: block;
 			color: $white;
 			text-decoration: none;
 			background: lighten($black, 30);
-			@include opacity(0.7);
 			@include transition(opacity 0.2s ease-in-out);
 			&:hover {
 				@include opacity(1);
 			}
 		}
 		ul {
-			margin: 1px 0 0;
+			margin: 0px 0 0;
 		}
 	}
 }
