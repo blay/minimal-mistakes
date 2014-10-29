@@ -30,7 +30,7 @@ owner:
   bio: "Internet and beyond. Pre-modern, post-human, para-academic."
   email: ok@blay.se
   disqus-shortname: blay 
-  twitter: monki
+  twitter: monki #username
   facebook: #username
   google:
     plus: #username
@@ -39,7 +39,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: blay
+  github: blay #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -51,6 +51,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
+  zotero: magnu.se #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
