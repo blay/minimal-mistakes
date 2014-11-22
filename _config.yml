@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            l.magnu.se
+title:            blay.se
 locale:           en_US
-url:              http://localhost:4000
+url:              http://www.blay.se
 teaser: teaser.jpg
 
 # Jekyll configure
