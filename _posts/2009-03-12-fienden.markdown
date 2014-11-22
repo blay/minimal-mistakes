@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 296 
+layout: post
+title: Fienden 
+categories: notswedish
+date: 2009-03-12 21:06:21 +01:00 
+wordpress_url: http://www.blay.se/?p=296 
+---
+
+Det känns hemsk att säga det, men inom en snar framtid kanske vi får se följande scenario i Sverige. [Reportrar utan gränser rapporterar.](http://www.svd.se/nyheter/utrikes/artikel_2584979.svd) ![fienden](http://www.blay.se/wp-content/uploads/2009/03/fienden.jpg "fienden") 

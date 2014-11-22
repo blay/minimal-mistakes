@@ -1,0 +1,12 @@
+---
+layout: post
+title: Gothenburg Hackerspace
+summary: Hackerspace in Gothenburg
+categories: internet
+image:
+ feature:
+ thumb: ghs.jpg
+link: http://ghs.hackerspace.se/
+---
+
+

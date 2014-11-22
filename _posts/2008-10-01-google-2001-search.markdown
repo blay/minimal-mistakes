@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 126 
+layout: post
+title: Google 2001 search 
+categories: notswedish
+date: 2008-10-01 01:44:00 +02:00 
+wordpress_url: http://www.blay.se/2008/10/01/google-2001-search/ 
+---
+
+[Sök i Googles index från 2001](http://www.google.com/search2001.html). MYCKET intressant att se hur begrepp som vi tar för givet idag saknade träffar då eller hade en helt annan betydelse. Testa t.ex. att söka på [fildelning](http://www.google.com/search2001/search?q=fildelning)eller [War on Terror.](http://www.google.com/search2001/search?q=fildelning)Diskursanalys![](http://www.google.com/search2001/search?q=fildelning) 

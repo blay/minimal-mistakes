@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 594 
+layout: post
+title: "re: Lazzaratos Puissances de l'invention" 
+categories: swedish 
+date: 2010-01-21 11:33:07 +01:00 
+wordpress_url: http://www.blay.se/?p=594 
+---
+
+Eftersom Karl Palmås har problem med kommenteringsfunktionen på sin blogg får jag svara med ett eget inlägg här. Läs alltså först [99 our 68: Lazzaratos Puissances de l’invention](http://www.isk-gbg.org/99our68/?p=383) och betrakta detta som en kommentar. Jag har lämnat liknande kommentarer tidigare om Tardes begreppsapparat som i sitt uttryck ter sig lite klumpig och daterad ibland, men som lätt kan hackas samtidigt som filosofin hålls intakt. Exempelvis citerar Palmås:
+
+> Tarde vände på den debatt som utvecklades i slutet av artonhundratalet > kring begreppet samarbete, och beskrev samhället som en kollektiv > hjärna, vars synapser utgörs av individers enskilda hjärnor.
+
+Jag ser främst två problem med den här meningen som också återkommer i andra delar av Tardes begreppsapparat, t.ex. "imitative rays". 1) Fokus på hjärna. En av Tardes stora poänger är att han betonar samarbetet, kunskapen och andra "lätta", föränderliga delar av ekonomin. Dock är likställandet med kunskap och samarbete som en hjärna en aning naivt. Det verkar som att Lazzarato följer detta väl mycket när han talar om att den kollektiva hjärnan sammankopplas av associativa begär.För Lazzarato är detta ett sätt att peka mot ett överskridande av kapitalismen, och det kan ju verka muntert, men samtidigt är ju den immateriella produktionen helt beroende på en infrastruktur som i dagsläget inte känns helt stabil. Samarbete är (bara) inte utbyte av information, sker inte bara mellan hjärnor, utan är även samarbete mellan och (re-)lokalisering av kroppar, genom medlingen av icke-mänskliga objekt. Latour är ju såklart den som tydligast visat att kunskapsproduktion också förutsätter ett laboratorium med all dess apparatur. 2)  Fokus på helhet. Att samhället är EN hjärna fördunklar mer än det ger klarhet. Är varje nation en hjärna, eller finns det en enda global hjärna? Är inte vissa delar av "samhället" i det närmaste helt frikopplade från varandra? Kanske är "hjärna" i det här sammanhanget en allt för rigid helhet. Vi kan nöja oss med att beskriva samhället som synapser i blivande-hjärna. Synapser som kopplar samman sig i nätverk och uppnår tillfälliga hjärn-liknande tillstånd (som under intensivt pad-skrivande, eller musicerande). När Tarde måste tweakas på det här sättet för att funka undrar jag hur stabil han är att bygga på egentligen. Det är kul att upptäcka en bastardlinje inom sociologin så tidigt som Tarde verkade, men har inte hittat vad det går att göra med honom som inte täcks av t.ex. Deluxe & Atari. En grundläggande bastard-tolkning av Tarde, monografin som Deleuze aldrig skrev, skulle kanske vara något... 

@@ -1,0 +1,6 @@
+<article class="tile" itemscope itemtype="http://schema.org/Article">
+<a href="{{ post.link }}" title="{{ post.title }}" class="post-teaser">{% if post.image.thumb  %}<img src="{{ site.url }}/images/{{ post.image.thumb }}" alt="teaser" itemprop="image">
+{% else %}<img src="{{ site.url }}/images/{{ site.thumb }}" alt="teaser" itemprop="image">{% endif %}</a>
+<h2 class="post-title" itemprop="name"><a href="{{ post.link }}">{{ post.title }}</a></h2>
+<p class="post-excerpt" itemprop="description">{{ post.summary | strip_html | truncate: 160 }}</p>
+</article><!-- /.tile -->
