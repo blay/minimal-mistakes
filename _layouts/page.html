@@ -38,7 +38,9 @@
       {{ content }}
     </div><!-- /.article-wrap -->
     {% if site.owner.disqus-shortname and page.comments == true %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+      <section id="disqus_thread">
+	   {% include _disqus_comments.html %}
+	  </section><!-- /#disqus_thread -->
     {% endif %}
   </article>
 </div><!-- /#index -->
