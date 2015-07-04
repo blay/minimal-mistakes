@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            blay.se
+title:            omxi.se
 locale:           en_US
-url:              http://www.blay.se
+url:              http://www.omxi.se
 teaser: teaser.jpg
 
 # Jekyll configure
@@ -32,15 +32,15 @@ transfer:
   command: rsync
   settings: -havz --delete
   source: _site/
-  destination: monki@blay.se:www/blay.se/www/
-  destination_dev: monki@blay.se:www/dev.blay.se/www/
+  destination: monki@omxi.se:www/omxi.se/www/
+  destination_dev: monki@omxi.se:www/dev.omxi.se/www/
 
 # Site owner
 owner:
   name: Magnus Eriksson
   avatar: bio-photo.jpg
   bio: "Internet and beyond. Pre-modern, post-human, para-academic."
-  email: ok@blay.se
+  email: ok@omxi.se
   disqus-shortname: blay 
   twitter: monki #username
   facebook: #username
@@ -51,7 +51,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: blay #username
+  github: omxi #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
