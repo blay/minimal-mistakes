@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 1000 
+
 layout: post
 title: "Det ytliga nätet" 
 categories: english swedish 
 date: 2010-07-28 12:31:47 +02:00 
-wordpress_url: http://www.blay.se/?p=1000
+
 ---
 
 Vi snuddade vid det i diskussionen på [KAPITAL.IDENTITÄT.MACKT.DO](http://derkapitalism.us/)S och igår dök det upp på irc. Det handlar om en växande kritik mot internets effekter på våra hjärnor. Det hela tog fart med Nihcolas Carr:s artikel ["Is Google Making Us Stupid"](http://en.wikipedia.org/wiki/Is_Google_Making_Us_Stupid) som publicerades i The Atlantic 2008. Artikeln fick stor uppmärksamhet och en bok som utvecklar argumenten; "[The Shallows: What the Internet Is Doing to Our Brains](http://www.theshallowsbook.com/nicholascarr/The_Shallows.html)", har just släppts. Argumentet går kortfattat ut på att våra hjärnor är plastiska och därför influeras av de teknologier vi använder. Forskare har upptäckt att folk som använder internet mycket får hjärnor med försämrat korttidsminne och sämre koncentrationsförmåga. Detta ställer Carr mot en hjärna som är kapabel till långa tankebanor, kreativt tänkande och - framförallt - bokläsande.

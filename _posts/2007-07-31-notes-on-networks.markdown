@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 25 
+
 layout: post
 title: Notes on Networks 
 categories: english notswedish
 date: 2007-07-31 09:14:58 +02:00 
-wordpress_url: http://fadetogrey.wordpress.com/2007/07/31/notes-on-networks/ 
+
 ---
 
 1)When people meet a stranger on the other side of the world and they find out that they have some common acquaintance, the reaction is usually one of surprise about the meeting."What a coincidence that we had this acquaintance!"

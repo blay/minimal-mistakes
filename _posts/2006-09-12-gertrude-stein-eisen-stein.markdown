@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 6 
+
 layout: post
 title: Gertrude Stein, Eisen-stein 
 categories: swedish 
 date: 2006-09-12 21:00:10 +02:00 
-wordpress_url: http://fadetogrey.wordpress.com/2006/09/12/gertrude-stein-eisen-stein/ 
+
 ---
 
 (analys av Gertrude Stein – Lucy Church Amiably)

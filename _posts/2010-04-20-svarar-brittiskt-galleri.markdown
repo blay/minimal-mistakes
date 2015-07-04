@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 630 
+
 layout: post
 title: Svarar brittiskt galleri 
 categories: english swedish 
 date: 2010-04-20 19:55:57 +02:00 
-wordpress_url: http://www.blay.se/?p=630
+
 ---
 
 Visst, jag är en kass bloggare som återanvänder intervjusvar och inte skriver kontinuerligt. Jag känner skammen! Här kommer i varje fall ett svar till ett brittiskt galleri som undrar om piratbyrån är oroliga för att våra idéer ska kuppas av "the mainstream" och urholkas. Det kommer nog med i en antologi.

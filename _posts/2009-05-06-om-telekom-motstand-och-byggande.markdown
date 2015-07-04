@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 437 
+
 layout: post
 title: "Om telekom, motstånd och byggande" 
 categories: swedish 
 date: 2009-05-06 22:13:47 +02:00 
-wordpress_url: http://www.blay.se/?p=437 
+
 ---
 
 Telekompaketet gick... [sådär](http://newsmill.se/artikel/2009/05/06/bloggarna-star-den-basta-rapporteringen-om-eus-viktigaste-fraga). Men för varje drabbning uppdagas [undermåliga strukturer](www.sr.se/sida/artikel.aspx?programid=3402&artikel=2791412), vi blåser in affekt i systemet (som Karl Palmås säger) och [vi bygger](http://werebuild.eu/). Måns på Cybernormer [skriver om detta](http://cybernormer.se/2009/05/06/telekompaketet-och-natkulturernas-identitet)utifrån Castells uppdelning i motståndsidentiteter och [projektidentieter](http://www.google.co.uk/search?q=projektidentiteter)där han, likt Castells, menar att nätpolitiken inte får stirra sig förblindad på motstånd utan måste bygga upp ett eget civilsamhälle. Jag kommenterade på inlägget så som följer nedan och la dit extra kommentarer längst ner. 

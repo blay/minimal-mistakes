@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 958 
+
 layout: post
 title: Vibrant Matter reading group 
 categories: english notswedish
 date: 2010-05-16 03:42:55 +02:00 
-wordpress_url: http://www.blay.se/?p=958 
+
 ---
 
 Eftersom jag ändå nämnde [Jane Bennets Vibrant Matter](http://philosophyinatimeoferror.wordpress.com/2010/04/22/vibrant-matters-an-interview-with-jane-bennett/)i [förra inlägget](http://www.blay.se/2010/05/15/internetnoll-i-mexico-del-tva-motorvagen/) vill jag passa på att nämna att det komemr ske en läsgrupp bland ett flertal bloggar av den boken. Den har redan blåst upp några [småstormar](http://aivakhiv.blog.uvm.edu/2010/05/im_looking_forward_to_graham.html) bland engelskspråkiga filosofibloggar. Gissningsvis kommer [ooo-lägret](http://doctorzamalek2.wordpress.com/2010/05/04/review-of-bennett/) att tycka om den men dissa den som alldeles för flödesinriktad. Jag citerar schemat här:

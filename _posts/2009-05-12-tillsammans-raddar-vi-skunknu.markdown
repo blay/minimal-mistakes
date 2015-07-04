@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 441 
+
 layout: post
 title: "Tillsammans räddar vi skunk.nu!" 
 categories: swedish 
 date: 2009-05-12 14:01:28 +02:00 
-wordpress_url: http://www.blay.se/?p=441 
+
 ---
 
 Knappt hann [Copyriot skriva](http://copyriot.se/2009/05/10/arkivhjaltar-raddar-geocities/) om att Geocities håller på att [räddas från undergång](http://www.archiveteam.org/index.php?title=Geocities) tills nyheten når oss om att skunk.nu, förvaltat av Spray, kan komma att [läggas ner](http://www.blay.se/2009/05/05/internet-noll-del-2-fel-moln/) inom en månad. Senaste dygnet har [kampanjen för att rädda skunk](http://www.facebook.com/group.php?gid=92311341966) verkligen tagit fart. I skrivande stund är det 552 medlemmar i gruppen och livlig diskussion om hur en gemensam förvaltning av Skunk skulle kunna se ut, om eventuell omkodning, gamla skunkminnen, med mera. För många människor har Skunk varit en betydande del av ungdomsåren och det märks verkligen på känslorna som är involverade här. Entusiaster finns det gott om, några verkar även vara kompetenta i programmering som tur är. Allt började med Cretins (som själv förvaltade Skunk under en tid) meddelande

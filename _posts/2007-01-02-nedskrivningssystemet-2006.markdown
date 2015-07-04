@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 12 
+
 layout: post
 title: Nedskrivningssystemet 2006 
 categories: swedish 
 date: 2007-01-02 16:16:29 +01:00 
-wordpress_url: http://fadetogrey.wordpress.com/2007/01/02/nedskrivningssystemet-2006/ 
+
 ---
 
 År 2006 skedde en oväntad vändning av den digitala kulturkonsumtionen från decentraliserade fildelningsnätverk till centraliserade sajter för distribution av musik och film. Den nya musiken förflyttades från Soulseek till MySpace och de populära filmklippen emigrerade från The Pirate Bay till YouTube.

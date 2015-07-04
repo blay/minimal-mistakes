@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 8 
+
 layout: post
 title: "Författarfunktionären" 
 categories: swedish 
 date: 2006-10-06 10:10:51 +02:00 
-wordpress_url: http://fadetogrey.wordpress.com/2006/10/06/forfattarfunktionaren/ 
+
 ---
 
 Författarens död syftar inte på att författarfunktionen förlorat sin poäng, att ett verk skapas av sig självt eller att "vi" försvunnit ur språket. Vad som dött är idén om författarens ursprungliga kreativa gnista som möjlig att uttrycka med språkets hjälp. Denna miljö ur vilket skrivandet uppstår har försvunnit. Upphovsmannen är inte originalet till diskursen utan en komplex funktion som uppstår inom den. Foucault har inte rensat bort läsaren utan analyserar villkoren genom vilka vi avkodar en text till att bli vår egen.

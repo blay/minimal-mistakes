@@ -3,7 +3,7 @@ layout: post
 title: "Nätpolitikens nollpunkt" 
 categories: swedish 
 date: 2009-05-16 20:08:21 +02:00 
-wordpress_url: http://www.blay.se/?p=447 
+
 ---
 
 *Efter föreläsning av chrisk och kallep efter Fredrika Spindlers. Föreläsningen var upplagd efter ett antal punkter som var ämnat att bidra till en kartografi över samtiden.* 

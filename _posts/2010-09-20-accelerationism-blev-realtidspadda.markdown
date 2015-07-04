@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 1025 
+
 layout: post
 title: Accelerationism blev realtidspadda 
 categories: swedish 
 date: 2010-09-20 22:37:01 +02:00 
-wordpress_url: http://www.blay.se/2010/09/20/accelerationism-blev-realtidspadda/
+
 ---
 
 [*@macdeleuzian*](http://twitter.com/macdeleuzian)*skapade*[*en padda*](http://pad.telecomix.org/kooopimi)*som hakade i*[*senaste inlägget om accelerationism*](http://www.blay.se/2010/09/17/accelerationism-iii-eskalationism-pirateri-och-den-absoluta-horisonten-for-manskligheten/)*. Jag skrev en lång kommentar på den paddan som jag återpublicerar här. Den står sig bara delvis på egen hand så ha gärna*[*paddan*](http://pad.telecomix.org/kooopimi)*till hands också.*

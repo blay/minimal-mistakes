@@ -1,11 +1,11 @@
 --- 
-wordpress_id: 1009 
+
 layout: post
 title: "Accelerationism II"
 categories: swedish tldr
 summary: Resan mot den kosmiska schizofrenin 
 date: 2010-09-17 07:43:44 +02:00 
-wordpress_url: http://www.blay.se/?p=1009
+
 ---
 
 [Vi befinner oss fortfarande på Goldsmiths](http://www.blay.se/2010/09/16/accelerationism-i-nick-land-skynet-och-den-cybernetiska-intensifieringen/). Nästa talare är [Ray Brassier](http://en.wikipedia.org/wiki/Ray_Brassier). Om Mark Fisher lugnt läste en strukturerad text innantill gör Brassier [motsatsen](http://www.youtube.com/watch?v=fbQ6p0ZwW_s). Han freestylar, blir exalterad och avbryter sig ofta med att kasta huvudet i händerna i långa tankepauser för att sedan komma med ett nytt teoriutbrott. Här gäller det att lyssna oerhört koncentrerat. Det här kan också vara en bra bild att ha i huvudet när man läser hans böcker. Jag tror att han skriver med precis samma stil.

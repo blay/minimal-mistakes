@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 27 
+
 layout: post
 title: P2P seminar @ ku.dk 
 categories: english notswedish
 date: 2007-10-12 22:52:18 +02:00 
-wordpress_url: http://fadetogrey.wordpress.com/2007/10/12/p2p-seminar-kudk/ 
+
 ---
 
 Seminar with Michel Bauwens at Copenhagen University today. Bauwens is the head of the P2P Foundation and a full time advocate of p2p as a new, emergent form of social dynamic on all fields of human endeavors. Read more on his arguments here. http://www.ctheory.net/articles.aspx?id=499

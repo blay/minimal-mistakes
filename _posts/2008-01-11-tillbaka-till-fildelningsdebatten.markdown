@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 32 
+
 layout: post
 title: Tillbaka till fildelningsdebatten 
 categories: swedish tldr 
 date: 2008-01-11 15:54:40 +01:00 
-wordpress_url: http://fadetogrey.wordpress.com/2008/01/11/tillbaka-till-fildelningsdebatten/ 
+
 ---
 
 Jag kan inte motstå att kommentera några av de punkter som [Anders Ekström tar upp i Sydsvenskan](http://sydsvenskan.se/kultur/article292145.ece "Anders Ekström tar upp i Sydsvenskan") när han synar upphovsrättskritikernas "tunna argumentation". I stort sätt håller jag inte med honom. Dels för att många av de punkter han tar upp missar målet och dels för att jag inte håller med honom om vad kärnfrågan är ("den om kreatörernas rätt till ersättning för sitt jobb").

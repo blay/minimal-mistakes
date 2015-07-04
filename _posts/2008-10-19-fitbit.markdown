@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 133 
+
 layout: post
 title: Fitbit 
 categories: english swedish 
 date: 2008-10-19 16:04:47 +02:00 
-wordpress_url: http://www.blay.se/?p=133 
+
 ---
 
 Istället för att skriva långt om [slemminarium i Göteborg](http://christopherkullenberg.se/?p=299) fortsätter jag på spåret om panoptikon och panspektron som två komponenter i samma assemblage. Dagens objekt är något som kallas [Fitbit](http://www.fitbit.com/) och är en liten manick som du hela tiden bär med dig och som registrerar sömn, träning och annan hälsodata. Denna kan sedan koppla upp sig mot datorn och dina vänner som kan sätta upp gemensamma mål. ![](http://www.fitbit.com/images/press/pocket_thumb.jpg)![](http://www.fitbit.com/images/press/inhand_thumb.jpg)![](http://www.fitbit.com/images/press/charger_thumb.jpg) Här kan vi både se den panoptiska disciplineringen. Bara at tha Fitbitten (?) konstant närvarande kan få dig att sova bättre och tänka mer på hälsan, oavsett dess funktion. Alternativt bara bli stressad. Hursom så arbetar panoptikon på en symbolisk nivå. Ett symboliskt objekt verkar diskursivt på din subjektivitet med en föreställning om en möjlig verklig eller fiktiv konsekvens om disciplineringen inte skulle skötas. Samtidigt skapar Fitbitten panspektrisk data. Det är en rörelsedetektor som mäter rörelse i ett tredimensionellt rum och sedan mer eller mindre korrekt översätter det till hälsodata.

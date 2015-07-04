@@ -1,11 +1,11 @@
 --- 
-wordpress_id: 1008 
+
 layout: post
 title: "Accelerationism I"
 categories: english swedish tldr 
 summary: Nick Land, Skynet och den cybernetiska intensifieringen 
 date: 2010-09-16 09:52:04 +02:00 
-wordpress_url: http://www.blay.se/2010/09/16/accelerationism-i-nick-land-skynet-och-den-cybernetiska-intensifieringen/
+
 ---
 
 

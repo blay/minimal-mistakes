@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 7 
+
 layout: post
 title: Free establishment of communications (abstract) 
 categories: english notswedish
 date: 2006-09-20 01:49:11 +02:00 
-wordpress_url: http://fadetogrey.wordpress.com/2006/09/20/free-establishment-of-communications-abstract-2/
+
 ---
 
 A lot of ideas and concepts of open wireless networks being experimental and visionary just a few years ago are now reality, ready to be implemented commercially as with the FON routers or as free hive networks by private individuals opening their wireless connecitons. We have also seen the rize of services making it harder to connect an ip-number with a physical individual, like relakks or [dold.se](http://dold.se/). And so far we also have the opportunity to communicate anonymously at internet cafés or with cash card mobile phones.

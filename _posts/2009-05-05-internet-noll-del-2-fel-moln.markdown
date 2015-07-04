@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 425
+
 layout: post
 title: Internet noll - Del 2. Fel moln!
 categories: english swedish tldr 
 date: 2009-05-05 13:11:31 +02:00
-wordpress_url: http://www.blay.se/?p=425
+
 ---
 Ett lågintensivt, mikroskopisk, distribuerat och gemensamt <a href="http://www.angelpage.co.uk/todolist/internetZero.htm">internet noll</a>, enklare och långsammare, men mer hållbart? Parallellt med ett högintensivt med hierarkiskt <a href="http://en.wikipedia.org/wiki/Internet2)">internet2</a> där allt är snabbare större och starkare? I mitten, dagens internet som en uppstyckad innehållsförsäljningsplats? <a href="http://www.webupon.com/Web-Talk/Internet-0-and-Internet-2.39894">Kanske.</a>
 

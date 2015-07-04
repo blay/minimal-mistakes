@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 496 
+
 layout: post
 title: "Presentation in Milan: Hackmeeting 2009" 
 categories: english swedish tldr 
 date: 2009-06-22 14:41:48 +02:00 
-wordpress_url: http://www.blay.se/?p=496 
+
 ---
 
 This is a re-write of the presentation I held at the Hackmeeting in Milan last Saturday. As I had already published the [other](http://www.blay.se/2009/06/19/presentation-in-milano-on-the-pirate-party-and-internet-swarms/) [two](http://www.blay.se/2009/06/20/presentation-in-milano-variations-on-the-theme-of-openess/) presentations I decided to build on them. Some things were added to the themes I talked about there because of questions and comments I had gotten during the days. For example, several people expressed sceptisism over the narrow political program of the Pirate Party and asked why they did not include other importat social issues. I realized that we had developed a view of the former political process that is very different from what the italians thought. Maybe it can be described as us viewing a political party as a tactical intervention in a particular process while them viewing it as a strategy to gain political influence for all their issues. So I began to describe the LA Quadrature method of looking at the EU law as code as a way demystifying parliaments, political processes or political parties. PP is not a future governing party with a complete political solution, but a narrow focusparty. You have to look at it more as an event within a broader more chaotic constellaton than a political solution. One way of translating discourses for the specific situation of the EU parliament. Or perhaps one piece of hard rock within a flow of lava that eventually might dissolve, crack or incorporate in other entities. Maybe the Pirate Party can reorganize itself to open up for a multitude of political issues, but you have to see them as constituted in the same way as this volcanic rock. They are a heterogenous collection of materials that has cooled down and hardened into one form that would not have formed a coherent entity in other situations. Only the protocol, which is the specific issues they deal with, could assemble this collection. So it might not be a strong fundament but it works very well right now and will perform a crucial function when it comes to keeping the network open. But this is all good as long as you don't go all in with the pirate party. 

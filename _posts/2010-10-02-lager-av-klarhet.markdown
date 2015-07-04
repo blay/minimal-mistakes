@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 1032 
+
 layout: post
 title: Lager av klarhet 
 categories: english swedish 
 date: 2010-10-02 13:37:03 +02:00 
-wordpress_url: http://www.blay.se/2010/10/02/lager-av-klarhet/
+
 ---
 
 Inlägget [här](http://www.farmckon.net/2010/04/layers-of-simplicity/) från Far McKon om komplexa och komplicerade system är så bra att jag citerar det i sin helhet. Det baseras delvis på [The Collapse of Complex Business Models](http://www.shirky.com/weblog/2010/04/the-collapse-of-complex-business-models/), som också är väldigt bra läsning.

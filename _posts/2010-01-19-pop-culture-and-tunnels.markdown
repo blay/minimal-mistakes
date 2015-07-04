@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 592 
+
 layout: post
 title: Pop culture and tunnels 
 categories: english notswedish
 date: 2010-01-19 13:41:55 +01:00 
-wordpress_url: http://www.blay.se/?p=592 
+
 ---
 
 I used to love pop. Pop in the various indies of the 90's was great, when it was taken as a serious subject of analysis and being. Styles evolved, tastes were developed and refined. Pop in the beginning of 2000 was AMAZING, when it popped up everywhere; mutated and freed from all anxiety. This is when we started Piratbyrån. Piratbyrån was pop to the bone. Piratbyrån was about going to awards and sippin champagne, hustling free tickets for movie premiers that was already out on the pirate bay, about being super good looking and fine connoisseur of movie, music, software and philosophy, living the life-style to the fullest, but getting it all for free. Piratbyrån was about accelerating contemporary culture. Wellfare begins at 100mbit, yes, let's all live life anti-oedipal, now! ![](http://www.piratbyran.org/articlepics/1_1.jpg)

@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 351 
+
 layout: post
 title: "Riksinternets fria nät hotat" 
 categories: swedish 
 date: 2009-03-25 02:24:43 +01:00 
-wordpress_url: http://www.blay.se/?p=351 
+
 ---
 
 [Sveriges Riksinternet](http://www.riksinternet.se) - portalen för Ditt fria nät - har idag fått en kravbrev från Sveriges television som kräver att "stjärnblomman" som finns på siten plockas ner, annars kommer rättsliga åtgärder att vidtas. Upphovsrätten används som vapen för att tysta ner satir? Riksinternet.se kommer såklart inte vika sig utan står stolt upp för det fria nätet. Läs bara [programförklaringen:](http://www.riksinternet.se/content2.html)

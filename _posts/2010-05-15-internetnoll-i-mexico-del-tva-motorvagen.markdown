@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 949 
+
 layout: post
 title: "InternetNoll i Mexico: Del två - Motorvägen" 
 categories: swedish 
 date: 2010-05-15 23:50:38 +02:00 
-wordpress_url: http://www.blay.se/2010/05/16/internetnoll-i-mexico-del-tva-motorvagen/
+
 ---
 
 [![](http://www.blay.se/wp-content/uploads/2010/05/mexico-city-thumb.jpg)](http://www.blay.se/wp-content/uploads/2010/05/mexico-city-full.jpg)Mexico är ett bilälskande land. Mexico City är en av världens mest avgasade städer där tiofiliga motorvägar i tre nivåer korsar rakt igenom stadskärnan. Landsbygden är än mer bil- och lastbildsdominerad. En gång i tiden fanns det en järnväg men den slutade fungera så nu används den inte, även om man kör över järnvägsspår lite då och då. Mexico är bilfanatiskt som USA fast helt klart mer low-end. Detta skapar en hel del hemska upplevelser, så som en nio timmars resa i 35+ värme tillbaks till staden efter ett besök i Catemacos djungel som innefattar skräpiga vägar som skickar metallföremål in i däcket med punka och åtlöje bland mexikanska truckers för att man inte kan byta hjul (tur att de inte fick reda på att jag inte ens kan köra en bil) som följd, två timmars skräckresa genom kurviga dimtäckta berg med max 20 meters sikt och feta lastbilar som blåser förbi i 80 knyck och en fem-filig motorväg mitt i nattens trötta ögon som tvingas avbrytas och som slutar på ett prostitutionsmotell som hyrs ut per timme med enbart porr på TVn, kondom och två halstabletter på nattduksbordet, plastöverkast och en automat med servetter bredvid sängen. Ja, jag är rätt traumatiserad. Men på grund av Mexicos oerhörda förmåga att skapa superfunktionalitet på den distribuerade mikronivån så ger motorvägen också utrymme till en hel del hacking, informella strukturer och gatuinnovation.

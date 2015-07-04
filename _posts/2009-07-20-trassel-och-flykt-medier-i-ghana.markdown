@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 512 
+
 layout: post
 title: "Trassel och flykt: medier i Ghana" 
 categories: english swedish 
 date: 2009-07-20 14:14:20 +02:00 
-wordpress_url: http://www.blay.se/?p=512 
+
 ---
 
 Från Don Slater och Janet Kwami kommer studien "[Embeddedness and escape: Internet and mobile use as poverty reduction strategies in Ghana](http://www.civilsociety.developmentgateway.org/uploads/media/civilsociety/internet.pdf)". Studien handlar om medieanvändande bland unga i huvudstaden Accra i Ghana och jämför intenretanvändande med mobiltelefonanvändande och vilka relationer som skapas och upprätthålls med dem samt hur medierna används som fattigdomsreducerande strategier. Det studien kommer fram till är att internet nästan uteslutande används för att skapa nya relationer med européer eller amerikaner, medan mobilanvändandet används för att odla redan existerande relationer med släkt och vänner i Ghana. Dessa två motsatta strategier är fortsättningar på historiskt etablerade strategier för att reducera fattigdom - antingen skapa nära gemenskaper och använda det utökade släktskapet som en resurs ([strong ties](http://en.wikipedia.org/wiki/Interpersonal_ties)) eller drömmen om att fly till andra, rikare områden och idealiserandet av möjligheterna "abroad" ([weak ties](http://en.wikipedia.org/wiki/Mark_Granovetter#The_strength_of_weak_ties)). Huvudpoängen är att jämföra med hur biståndsprogrammen i Ghana föreställer sig användandet. Vi kan också se en slagsida mot projekt som [OLPC](http://laptop.org/en/) som likaställer "empowerment" med tillgång till teknik och kunskap i form av information som är skiljd från existerande sociala relationer och etablerade användningar av internet. 

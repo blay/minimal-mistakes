@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 300 
+
 layout: post
 title: Rapid Prototyping I - personlig tillverkning 
 categories: english swedish 
 date: 2009-03-13 17:55:16 +01:00 
-wordpress_url: http://www.blay.se/?p=300 
+
 ---
 
 Hårdvara och digital information börjar närma sig varandra. 3d-skrivare störtdyker i pris och möjliggör en ny skön värld där former fildelas och din 3d-printer skriver ut en exakt replika. Se dig omkring och fundera i hur många objekt värdet ligger i att halvhårda material som plast formas på ett visst sätt. Både estetik och form i en mängd vardsgsföremål ligger i formgivningen. [Rapid prototyping](http://en.wikipedia.org/wiki/Rapid_prototyping) är designkonceptet att i varje steg av en produktdesign skapa en fysisk prototyp av den virtuella designen som kan användas för att testa eller visa upp produkten. Underförstått är också att det i varje del av designprocessen också kan komma feedback från användande och oväntade förslag från de som bara leker med prototypen. Tekniken används inom den mesta tillverkning som sker via formgivning av 3d-modeller, exempelvis [bilindustrin](http://www.youtube.com/watch?v=kdiFkH5Ugwk&feature=related). Rapid prototyping sker genom så kallad [Solid freeform fabrication (SFF)](http://en.wikipedia.org/wiki/Solid_freeform_fabrication) vilket innebär tekniker for tillverkning av solida objekt genom att applicera energi eller materia till vissa specifik punkter i en rymd. Det kan till exempel röra sig om att med en laser (subtraktiv applicering av energi) skära ut en form i plexiglas eller att använda en 3d-printer som plottrar ut termoplast (additiv applicering av material). Allt efter instruktioner från vektorbaserad programvara. Nog om tekniken. Vad som är intressant är inte vad Audi gör i Ingolstadt utan att kostnaden för de här sakerna börjar komma ner i de nivåer där privatpersoner eller små sammanslutningar av människor har råd att skaffa grejerna. Precis som vi gått från stordatorer till laptops och från tryckpressar till skrivare finns möjligheten att gå från fabrik till personlig tillverkning.

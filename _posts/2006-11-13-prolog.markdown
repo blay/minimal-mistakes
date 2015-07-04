@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 11 
+
 layout: post
 title: READ||WRITE 
 categories: english swedish tldr 
 date: 2006-11-13 14:14:21 +01:00 
-wordpress_url: http://fadetogrey.wordpress.com/2006/11/13/prolog/
+
 ---
 
 *Paper + presentation framförd vid litteraturvetenskapliga institutionen i Lund*

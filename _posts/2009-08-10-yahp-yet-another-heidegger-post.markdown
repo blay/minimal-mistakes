@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 544 
+
 layout: post
 title: YAHP (Yet Another Heidegger Post) 
 categories: english swedish 
 date: 2009-08-10 23:16:40 +02:00 
-wordpress_url: http://www.blay.se/?p=544 
+
 ---
 
 Graham Harman är amerikansk filosof verksam vid universitetet i Kairo som är en del av filosofi- och bloggnätverket som går under namnet speculative realism eller object-oriented philosophy. Han skrev sin avhandling om Heideggers syn på teknologi i "[Tool-being](http://books.google.se/books?id=XvkzX9JnlAwC&dq=tool-being&printsec=frontcover&source=bn&hl=sv&ei=J5CASqbgFdbOjAeSnIHxAQ&sa=X&oi=book_result&ct=result&resnum=4#v=onepage&q=&f=false)" och driver en mycket sympatisk [blogg](http://doctorzamalek2.wordpress.com/). Det här inlägget behandlar en artikel om Heidegger som han skrev tidigare i år som heter ["Technology, Objects and Things in Heidegger"](http://www.anthem-group.net/2009/05/31/heideggers-ontology-of-technology/) och summerar hans tidigare Heidegger-reflektioner som också ligger till grund för de [aktuella](http://www.re-press.org/content/view/63/38/) betraktelserna av Latour. Om man vill brygga Heidegger och Latour kan därför Graham Harman vara en bra mediator. Heideggers analyser som är aktuella här är dels den tidiga reflektionen om verktyg och den senare reflektionen om teknologi, mest känt från "Varat och tiden" (som just nu avhandlas [borta hos intensifier](http://christopherkullenberg.se/?p=1016)) respektive "Teknologins väsen". Man skulle kunna se det som att han började med enkla verktyg som hammaren och slutade med avancerade vattenkraftverk, men så enkelt är det inte eftersom ingen av Heideggers analyser handlar om specifika sorts entiteter. Snarare är det ontologin som är intressant. Nu ska det här inlägget inte vara en generell introduktion till Heidegger, men låt oss gå igenom de två analyserna lite snabbt så fokuserar vi på Grahams kommentarer och relationen till Latour lite senare. 

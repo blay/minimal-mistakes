@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 462 
+
 layout: post
 title: "Overheadfestival del I: Verena Kuni" 
 categories: english swedish tldr 
 date: 2009-05-25 23:31:20 +02:00 
-wordpress_url: http://www.blay.se/?p=462 
+
 ---
 
 Den senaste veckan och veckan som kommer har det varit och är det [overhead-festival](http://www.overheads.org/) i Malmö. Festivalen beskriver sig som " en internationell mediekonstfestival som hyllar ett medium som nästan glömts bort i den digitala eran" och består av installationer, föreläsningar och perfomance. Pressmeddelandet sammanfattar overheadens spretiga genealogi:

@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 466 
+
 layout: post
 title: "Råd till nästa veckas ambassadörer" 
 categories: english swedish tldr 
 date: 2009-05-26 19:42:13 +02:00 
-wordpress_url: http://www.blay.se/?p=466 
+
 ---
 
 Nästa vecka bär det alltså av till Venedigbiennalen med projektet [Embassy of Piracy](http://embassyofpiracy.org/). Men vad innebär det egentligen att skapa en ambassad för internet och vad kan ambassadörernas dagliga arbete tänkas bestå av? Som tur var mailades det in en rapport till ambassaden om "Special Embassies" skriven av [Andrew Paterson](http://agryfp.info/) bestående av [slides](http://mlab.taik.fi/~apaterso/projects/specialembassy/ceu/apaterson_organised-networks-specialembassy_slides_ceu_250908.pdf) och [anteckningar](http://mlab.taik.fi/~apaterso/projects/specialembassy/ceu/apaterson_organised-networks-specialembassy_notes_ceu_250908.pdf) från en föreläsning. Med hjälp av Andrews anteckningar följer här en serie råd och tips främst riktade till nästa veckas ambassadörer. Dock kan fler komma att få nytta av dem. Man vet aldrig när man, som deltagare i ett nätverk, helt plötsligt befinner sig i en situation där man måste agera ambassadör. Bland annat kan vi tänka oss att Piratpartiet kommer att ha en slags ambassadroll i EU där man förutom att uppfylla uppgifterna som krävs av en parlamentariker och dennes stab kommer att bli en del av internets ambassadnätverk och ha uppgifter både mot lokalbefolkningen i Europaparlementet som till den egna befolkningen på nätet. Rasmus har sammanfattat dessa tänkbara uppgifter på [Copyriot.](http://copyriot.se/2009/05/21/angaende-det-pagaende-valet/) 

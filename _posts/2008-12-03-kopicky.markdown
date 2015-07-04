@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 145 
+
 layout: post
 title: Kopicky 
 categories: notswedish
 date: 2008-12-03 19:18:25 +01:00 
-wordpress_url: http://www.blay.se/2008/12/03/kopicky/ 
+
 ---
 
 [blay - kopicky (proof of concept mix)](http://www.blay.se/files/kopicky.mp3) [blay - kopicky (därför rmx)](http://www.blay.se/files/darfur.mp3) 

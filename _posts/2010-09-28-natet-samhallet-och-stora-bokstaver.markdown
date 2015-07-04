@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 1026 
+
 layout: post
 title: "Nätet, Samhället och stora bokstäver" 
 categories: swedish 
 date: 2010-09-28 08:30:47 +02:00 
-wordpress_url: http://www.blay.se/?p=1026
+
 ---
 
 Idag ställs två visioner om det framtida nätsamhället mot varandra. [Christopher Kullenberg på SVT Debatt](http://svtdebatt.se/2010/09/socialdemokraterna-bor-vara-stolta-over-att-ha-banat-vag-for-the-pirate-bay/) mot [Per Strömbäck i SvD](http://www.svd.se/opinion/brannpunkt/natanarkismen-har-natt-vags-ande_5410743.svd).

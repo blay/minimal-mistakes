@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 416 
+
 layout: post
 title: Epidemiska beteenden 
 categories: swedish 
 date: 2009-04-29 00:58:50 +02:00 
-wordpress_url: http://www.blay.se/?p=416 
+
 ---
 
 Det här inlägget tangerar både tidigare inlägg om [svinfluensan](http://www.blay.se/2009/04/27/smittor-geometri-och-information-om-svinfluensan/) och det [förra inlägget](http://www.blay.se/2009/04/27/fwd-jonas-andersson-om-natpolitik/) om nätpolitiken. [De smittontologiska tankarna](http://christopherkullenberg.se/?p=336) inom nätpolitiken sätts ju  verkligen på prov nu när en RIKTIG smitta sprids. Professor Björn Olsen och infektionsläkare Christian Ehrenborg jobbar bra smittontologi i en [debattartikel i DN](http://www.dn.se/opinion/debatt/svininfluensan-har-kraft-att-utvecklas-till-pandemi-1.853714).

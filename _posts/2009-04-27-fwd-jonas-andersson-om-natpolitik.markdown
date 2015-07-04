@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 402 
+
 layout: post
 title: "Fwd: Jonas Andersson om nätpolitik" 
 categories: swedish 
 date: 2009-04-27 18:36:49 +02:00 
-wordpress_url: http://www.blay.se/?p=402 
+
 ---
 
 *Jonas Andersson har en mycket bra text om nätpolitiken borta på [Newsmill](http://www.newsmill.se/artikel/2009/04/27/satt-stopp-vi-mot-dom-tanket-pa-natet). Jag tar upp två aspekter av den här.* För det första. Analysen om att nätpolitiken alltid är en *probabilitets-politik*, d.v.s. en risk- och möjlighetspolitik som alltid måste grunda sig på vad som *kan-komma*.

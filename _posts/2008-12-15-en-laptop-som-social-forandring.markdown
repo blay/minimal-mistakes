@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 150 
+
 layout: post
 title: "En laptop som social förändring" 
 categories: english swedish 
 date: 2008-12-15 08:45:17 +01:00 
-wordpress_url: http://www.blay.se/?p=150 
+
 ---
 
 Via [Masters of Media](http://mastersofmedia.hum.uva.nl/2008/12/13/gun-vs-olpc-computer/) hittar jag den senaste reklamfilmen från [OneLaptopPerChild](http://laptop.org/en/)-projektet. I filmen får vi se utsatta barn, som skoputsare, prostiterade och barnsoldater, tillsammans med texten *Children are fast learners*. Klipp sedan till samma barn i skolmiljö [förskjunkna](http://www.blay.se/2008/04/10/haptiska-datorgranssnitt-och-forsjunkenhet-del-1/) i OLPC-datorer och texten *Lets give them the right tools*. Säger den inte en hel del om en utbredd uppfattning om social förändring genom tekniska verktyg? Hur mycket sanning ligger det egentligen i den bilden? Masters of Media jämför med [Wendy Chun](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=10606)'s analys av MCI:s superbowlreklamer från -97 som innehöll texten:

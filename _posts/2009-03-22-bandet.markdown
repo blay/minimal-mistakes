@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 345 
+
 layout: post
 title: Bandet 
 categories: swedish 
 date: 2009-03-22 18:14:10 +01:00 
-wordpress_url: http://www.blay.se/?p=345 
+
 ---
 
 Expressen hade en dålig krönika idag av en känd författare som handlade om ett band som enligt artikelförfattaren drabbades hårt av fildelning och ville ha IPRED-lagen.

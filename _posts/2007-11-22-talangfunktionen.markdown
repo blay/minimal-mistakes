@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 29 
+
 layout: post
 title: Talangfunktionen 
 categories: english swedish 
 date: 2007-11-22 23:04:53 +01:00 
-wordpress_url: http://fadetogrey.wordpress.com/2007/11/22/talangfunktionen/ 
+
 ---
 
 På årets [Sime-gala](http://www.sime.nu/ "Sime-gala") höll Alexander Bard ett tal där han menade att vi nu var trötta på allt överflödigt amatörinnehåll på nätet och var sugna på "talangdrivet innehåll". På ett seminarium för [svt.se](http://svt.se/) som jag deltog i strax efter togs det fasta på detta och det ansågs att talangdrivet innehåll var exakt vad [svt.se](http://svt.se/) höll på med och att de därmed var helt rätt. Visst håller jag med om att vi ställs inför ett problem med överflödig information, men att för den skull kalla på talangfulla individer att rädda oss vill jag inte skriva under på.

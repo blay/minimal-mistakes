@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 10 
+
 layout: post
 title: Skiftet 
 categories: swedish tldr 
 date: 2006-10-24 16:34:27 +02:00 
-wordpress_url: http://fadetogrey.wordpress.com/2006/10/24/skiftet/
+
 ---
 
 "Vad händer när electronica-artister får arbeta enligt de strikta tidsmässiga former som har karaktäriserat industriarbete i decennier?"

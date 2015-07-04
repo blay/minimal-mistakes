@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 200 
+
 layout: post
 title: Hackerspaces 
 categories: english swedish 
 date: 2009-01-28 11:31:34 +01:00 
-wordpress_url: http://www.blay.se/?p=200 
+
 ---
 
 Hackerspaces. Kan det vara något för samtiden? Ja, det verkar så. Ett uppsving kan märkas. I varje fall har fenomenet blivit mer öppet och bättre organiserat/kommunicerat. Det nya uppsvinget för de trånga lokalerna fyllda av smältande tenn och knastrande kreatskort började på [CCC Summercamp 2007](http://events.ccc.de/2008/01/14/chaos-communication-camp-2007-the-movie/). Ett nätverk startades - [hackerspaces.org](http://hackerspaces.org/wiki/Hacker_Spaces). Kommunikation mellan olika städer etablerades, inspirationen flödade och en viss hälsosam konkurrens frodades. Från CCC i Berlinska mellandagar 2008 kommer [paneldebatten](http://events.ccc.de/congress/2008/Fahrplan/events/2806.en.html) om hackerspaces som refereras här och det var där jag träffade [Forskningsavdelningen](http://www.forskningsavd.se/) från Malmö. Mer om dem/oss senare. Hackerspace enligt hackerspaces.org:

@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 420 
+
 layout: post
 title: "Om digitala 'böcker'" 
 categories: swedish 
 date: 2009-05-01 13:14:51 +02:00 
-wordpress_url: http://www.blay.se/?p=420 
+
 ---
 
 Publicerar här en kommentar jag gjorde på bloggen kulturekonomi där [ett inlägg](http://kulturekonomi.se/2009/04/24/exklusivt-for-pirate-bay/) som börjar med Unni Drougges [bok på Pirate Bay](http://thepiratebay.org/torrent/4864619/Unni_Drougge_-_Boven_i_Mitt_Drama_Kallas_Karlek_LJUDBOK_TPB001) landar i författares inkomstkällor i framtiden när "e-böcker" kopieras digitalt Som ofta tenderar den här diskussionen att hamna i svårigheten att hitta nya affärsmodeller när den gamla vanliga kulturproduktionen nu ska distribueras digitalt. Men som jag även skrev i samband med [debatten på SU](http://www.blay.se/2009/04/27/om-internetreglering-debatten-pa-stockholms-universitet/) så måste man ta ett ännu radikalare perspektiv och inte separera miljön där kulturen skapas från där den distribueras. Det går inte att simulera en analog bokmarknad på internet. Det är detta e-prefix som spökar som vanligt, med andra ord...

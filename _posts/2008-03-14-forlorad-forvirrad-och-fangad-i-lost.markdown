@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 38 
+
 layout: post
 title: "Förlorad, förvirrad och fångad i Lost" 
 categories: swedish 
 date: 2008-03-14 16:08:15 +01:00 
-wordpress_url: http://fadetogrey.wordpress.com/2008/03/14/forlorad-forvirrad-och-fangad-i-lost/ 
+
 ---
 
 Lost är en tv-serie som inte är som alla andra. Det är lika lätt att bli frustrerad, förvirrad och förargad över den som det är svårt att lämna den. Precis som själva ön den utspelar sig på. Just detta sammanblandande av narrativ och meta-narrativ kännetecknar serien och det här inlägget ska handla om relationerna mellan de båda nivåerna.

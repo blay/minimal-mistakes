@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 272 
+
 layout: post
 title: Theremin och lampa 
 categories: swedish 
 date: 2009-03-11 17:53:57 +01:00 
-wordpress_url: http://www.blay.se/?p=272 
+
 ---
 
 Mycket bra forsk på forskningsavdelningen igår? Jag byggde en theremin-liknande oljudsmaskin med hjälp av fotoresistor, arduino och [piezo transducer...Denna fantastiska komponent!...](#). Andra byggde en discolampa kopplad till datorn som börjar snurra och blinka vid positivt svar på ping-försök. Fantastiskt onödigt! Fick frågan av ChrisK hur jag tyckte att detta relaterade till förra inlägget om tinkande, pysslande och byggande och svarade:

@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 34 
+
 layout: post
 title: One, vast programmable machine 
 categories: swedish 
 date: 2008-01-16 19:24:03 +01:00 
-wordpress_url: http://fadetogrey.wordpress.com/2008/01/16/one-vast-programmable-machine/ 
+
 ---
 
 Vilken status har hemdatorn jämte andra digitala medier?

@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 40 
+
 layout: post
 title: Remember Everything - Stiegler och GTD 
 categories: english swedish 
 date: 2008-04-08 12:19:30 +02:00 
-wordpress_url: http://fadetogrey.wordpress.com/2008/04/08/remember-everything-stiegler-och-gtd/
+
 ---
 
 Jag har spenderat senaste dagen med att försöka få ordning i myllret av anteckningar som är utspridda på datorn, i googles webapplikationen och i undangömda anteckningsblock. Just nu experimenterar jag med Evernote (som det alltid lika [kusligt](http://olof.m.jaiku.com/presence/29598927 "kusligt") [vältajmade](http://erik.jaiku.com/presence/31094376 "vältajmade") Jaiku tipsade om). Inte bara kan man organisera dokumenten på hårddisken och spara klipp från webben (i ett grymt snyggt interface), man kan även fota av böcker och anteckningar och få deras text sökbara. Guld! Fortfarande i Beta med en del skavanker men den dedikerade användarbasen gör förhoppningsvis sitt.

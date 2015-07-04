@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 149 
+
 layout: post
 title: Goro Tronsmo pluggar s23x 
 categories: swedish 
 date: 2008-12-09 02:11:01 +01:00 
-wordpress_url: http://www.blay.se/?p=149 
+
 ---
 
 Det har varit teaterfestivalen [MITDEMO-08](http://www.teatrweimar.se/mitdemo/) i Malmö. Jag kommer inte göra ett referat av den, däremot knyta an till ett [demo (någonstans mellan föreläsning och performance kring ofädiga projekt. Smart!)](#) som [Goro Tronsmo](http://www.gorotronsmo.com/) höll där. Som jag skrev i en kommentar på [Copyriot](http://copyriot.se/2008/11/30/rejal-aktion-teatrala-transaktioner-fran-malmo/):

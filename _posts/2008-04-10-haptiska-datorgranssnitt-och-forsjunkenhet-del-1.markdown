@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 42 
+
 layout: post
 title: "Haptiska datorgränssnitt och försjunkenhet, del 1" 
 categories: swedish 
 date: 2008-04-10 15:54:47 +02:00 
-wordpress_url: http://fadetogrey.wordpress.com/2008/04/10/haptiska-datorgranssnitt-och-forsjunkenhet-del-1/ 
+
 ---
 
 Än en gång besökte jag John på VR-labbet vid Lunds tekniska högskolas designcentrum. Alltid en väldigt fascinerande upplevelse och denna gång fick jag prova ännu en leksak. Deras otroliga 'Haptic Device'. Så här beskrivs den på [deras hemsida](http://www.certec.lth.se/haptics/ "deras hemsida"):

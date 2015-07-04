@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 33 
+
 layout: post
 title: Pre-Transmediale 
 categories: english swedish 
 date: 2008-01-11 16:33:26 +01:00 
-wordpress_url: http://fadetogrey.wordpress.com/2008/01/11/pre-transmediale/ 
+
 ---
 
 Ett inlägg skrivet efter en förhandsvisning av ett antal videoverk som ska visas på [Transmediale08](http://www.transmediale.de "Transmediale08"). Sammanställt en månad senare. I flera av verken som visades på förhandsvisningne i Malmö konsthall hade konstnären lånat uttryck, bilder, röster och gett sig på att direkt eller indirekt representera en verklighet utomstående konstverket. Därför kommer detta inlägget att handla om relationen mellan representation och licenser, d.v.s. att definiera videon som ett verk med allt vad det innebär samtidigt som annat material ingår. 

@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 549 
+
 layout: post
 title: Making things talk 
 categories: swedish 
 date: 2009-08-13 16:28:22 +02:00 
-wordpress_url: http://www.blay.se/?p=549 
+
 ---
 
 Text på webben börjar nå [perfektion](http://www.readwriteweb.com/archives/is_a_perfect_storm_forming_for_distributed_social_networking.php). I det närmaste helt strömmande, förflyttnings- och modifierbart. Den kan existera var som helst i vilken form som helst. Hindren är snart borta. Men musik är skiljt från dessa revolution i text. Musik har marginaliserats på dagens webb, i dagens digitala liv. Musiken har skiljts från presentationen av självet, från sammankopplandet med andra, från skapandet av gemenskaper. Musikbiblioteket ligger fortfarande inlåst på den egna datorn. När du möter något i sociala medier möter du aldrig deras musik. Videoklipp har däremot följt med texten på webben och därmed dragit med musiken i andra hand. Det är långt mycket vanligare att se videoklipp inbäddade på bloggar och sociala nätverk än musik. Musik får dåliga centraliserade, städade tillhåll som Spotify medan video blir det kaotiska, punkiga mediet. Varför är då musiken så skiljd? En anledning är den rädsla som skapats kring musik. Rädsla för att skaffa, lyssna på, tala om, dela ut. Men det har också att göra med att musik inte kan reduceras till information lika enkelt som text och rörlig bild (även om de också kan vara mycket annat). Musik representerar inte något annat vilket texten och bilden tenderar att göra utan är bara sig själv. Musiken representerar inte eller annorlunda uttryckt - musiken länkar inte. När det digitala användandet idag går mer över till att handla om annat än effektivt överförande av information (inte minst för att det problemet är i det närmaste perfekt ordnat), när vi inte bara använder digitala medier utan lever med dem, när de används för affektiva sammankopplingar med människor, kultur och omvärld - då finns det en möjlighet att musik eller de lärdomar man kan dra av musik åter blir ytterst relevanta. 

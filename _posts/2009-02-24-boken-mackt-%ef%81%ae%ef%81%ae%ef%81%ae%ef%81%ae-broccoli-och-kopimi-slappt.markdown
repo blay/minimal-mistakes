@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 255
+
 layout: post
 title: "Boken Mackt, \xEF\x81\xAE\xEF\x81\xAE\xEF\x81\xAE\xEF\x81\xAE, Broccoli och KOPIMI släppt!"
 categories: swedish 
 date: 2009-02-24 01:37:14 +01:00
-wordpress_url: http://www.blay.se/?p=255
+
 ---
 Tvådagars boken <a href="http://thepiratebay.org/torrent/4738747/mackt.broccoli-kopimi"><em>Mackt, , Broccoli och KOPIMI</em></a> släpptes nyss på The Pirate Bay. Förvänta er pappersrelease på flertalet språk inom kort. Boken är består av 100 enkla steg för en lyckad internätvaro i KOPIMIs tecken. Från .nfo-filen:
 <pre>I skuggan av kulturbranschens slutliga kris på 2000-talet

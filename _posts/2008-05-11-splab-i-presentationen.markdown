@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 105 
+
 layout: post
 title: SPLAB I - Presentationen 
 categories: english swedish tldr 
 date: 2008-05-11 14:56:48 +02:00 
-wordpress_url: http://www.blay.se/?p=105 
+
 ---
 
 Första inlägget från SPLAB-konferensen som alltså var ett tredagars-evenemang i Malmö 6-8 maj. [SpontanLab (Laboratoriet för Spontankultur) är ett forsknings- och experimentellt projekt som initierats av Malmö stad och som Kulturförvaltningen svarar för. Målet är att ta fram förslag för alternativa sätt att främja kulturen i Malmö samt att definiera begreppet "spontankultur"](http://www.malmo.se/spontanlab), står det på deras egen hemsida Nedan följer en renskrivning av min presentation som inledde konferensen. Senare kommer jag skriva om diskussionerna som följde på dem och övriga workshops och föreläsningar. Texten finns också att tillgå som en snygg [PDF](http://www.blay.se/files/splab.pdf) 

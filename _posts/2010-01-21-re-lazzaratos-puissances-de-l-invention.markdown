@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 594 
+
 layout: post
 title: "re: Lazzaratos Puissances de l'invention" 
 categories: swedish 
 date: 2010-01-21 11:33:07 +01:00 
-wordpress_url: http://www.blay.se/?p=594 
+
 ---
 
 Eftersom Karl Palmås har problem med kommenteringsfunktionen på sin blogg får jag svara med ett eget inlägg här. Läs alltså först [99 our 68: Lazzaratos Puissances de l’invention](http://www.isk-gbg.org/99our68/?p=383) och betrakta detta som en kommentar. Jag har lämnat liknande kommentarer tidigare om Tardes begreppsapparat som i sitt uttryck ter sig lite klumpig och daterad ibland, men som lätt kan hackas samtidigt som filosofin hålls intakt. Exempelvis citerar Palmås:

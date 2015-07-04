@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 292 
+
 layout: post
 title: "Min dikt" 
 categories: swedish 
 date: 2009-03-12 15:38:24 +01:00 
-wordpress_url: http://www.blay.se/?p=292 
+
 ---
 
 “Vi säger “detta är min penna" och menar ett exklusivt ägande, vi säger “detta är min vän” och menar ett förhållande av intimitet som inte blir mindre av att delas med flera. Så om vi säger “detta är min dikt”, vad menar vi då? [Upphovsrättens delirium](http://www.dn.se/kultur-noje/debatt-essa/min-dikt-ar-min-1.819504) är när du uppfattar din dikt på samma sätt som din penna, när den i själva verket är [din vän.](http://copyriot.se/2007/12/21/arkivfeber-och-batfard/)” 

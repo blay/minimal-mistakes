@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 28 
+
 layout: post
 title: "Rapport från No Music Day" 
 categories: swedish 
 date: 2007-11-21 22:04:48 +01:00 
-wordpress_url: http://fadetogrey.wordpress.com/2007/11/21/rapport-fran-no-music-day/ 
+
 ---
 
 Som bekant är det upplaga tre av femårsplanen [No Music Day](http://www.nomusicday.com/ "No Music Day") idag. Sitter just nu i en behaglig musikfri kontorsmiljö på jobbet, tvn i bakgrunden visar sport så ingen fara på taket. Mer utmanande var det tidigare under dagen att upprätthålla en helt musikfri dag. Vi kan dela in musiklyssnandet som skulle undvikas i två delar; det aktiva och det passiva musiklyssnandet.

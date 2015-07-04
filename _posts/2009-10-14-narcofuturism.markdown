@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 567 
+
 layout: post
 title: Narcofuturism 
 categories: english notswedish
 date: 2009-10-14 13:02:19 +02:00 
-wordpress_url: http://www.blay.se/?p=567 
+
 ---
 
 [The nobel prize winner Barack Obama](http://twitter.com/fffffat/status/4737434838) has at least done something during his presidential period. He finanzed a war in Mexico. The war on drugs. American dollars are financing the horrible and pointless battle that the mexican governement and military is waging against "the narcos". It's not an easy task. The narcos are well rooted in the mexican society. They build entire cities in the north. The only cities that can provide its citizens with functioning health care and infrastructure. They build their own super advanced mini-submarines and it wouldn't be surprising if they already built their own internet. Actually, narcos seem to be the only ones who can build something stable and functioning in the country. The rest is a series of failed attempts of privitisation therapy. The latest being the mexico city gas company which is now under siege by riot police since the president deemed it too ineffective (also following protests where the union of the electricity company thretened to cut electricity in the city). 

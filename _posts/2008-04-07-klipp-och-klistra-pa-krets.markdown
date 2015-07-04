@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 39 
+
 layout: post
 title: "Klipp och Klistra på Krets" 
 categories: swedish 
 date: 2008-04-07 00:06:58 +02:00 
-wordpress_url: http://fadetogrey.wordpress.com/2008/04/07/klipp-och-klistra-pa-krets/ 
+
 ---
 
 Idag hade [Galleri Krets](http://www.krets.info/ "Galleri Krets") en workshop med [Monica Tormell](http://www.monicatormell.nl/ "Monica Tormell") i hur man ["inverterar vinylskivor och dekrypterar dem från dolda budskap"](http://www.facebook.com/event.php?eid=10111198815). Tekniken gick ut på att göra en limkopia av en vinylskiva på följande sätt:

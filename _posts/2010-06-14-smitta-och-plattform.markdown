@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 985 
+
 layout: post
 title: Smitta och plattform 
 categories: english swedish 
 date: 2010-06-14 20:51:57 +02:00 
-wordpress_url: http://www.blay.se/2010/06/14/smitta-och-plattform/
+
 ---
 
 Det här inlägget är ett utvecklande och invecklande av en [kommentar på copyriot.](http://copyriot.se/2010/06/14/om-lankande-gang/comment-page-1/#comment-36398) Inlägget handlade om länkning, kollektiv i bloggar och individualitet i bloggosfären. Karl Palmås slängde in en Tarde-influerad kommentar i tio punkter:

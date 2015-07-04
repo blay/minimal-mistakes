@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 30 
+
 layout: post
 title: Unfinished aestethics 
 categories: english swedish 
 date: 2007-11-23 17:27:17 +01:00 
-wordpress_url: http://fadetogrey.wordpress.com/2007/11/23/unfinished-aestethics/ 
+
 ---
 
 Som vi såg i förra inlägget så införde vi ett till lager i diagrammet som gör att vi inte enbart fokuserar på verk och slutprodukter. De streckade linjerna representerades snarare av processer och mer temporär produktion som är vad som ger ytterligare mening till produkten. Vi skippar polemiken från förra inlägget och rör oss mer i linje med Dorinel Marc fråga från hans projekt i [wmaoyw](http://www.whomakesandownsyourwork.org "wmaoyw"); "Can a genious book become even more genious?".

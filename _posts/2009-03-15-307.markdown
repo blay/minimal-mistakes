@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 307 
+
 layout: post
 title: Lundblad om Heidegger II 
 categories: swedish 
 date: 2009-03-15 20:58:44 +01:00 
-wordpress_url: http://www.blay.se/?p=307 
+
 ---
 
 Här fortsätter parasiteringen på Lundblands [inlägg om Heidegger](http://myothernotes.com/rationalgrounds/?p=103). Vi börjar med att följa informationsteknologins avslöjande ända in i människan. Biologin och genetiken avslöjar inte bara vad människan gör utan vad människan utgör som information.

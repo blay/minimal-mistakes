@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 113 
+
 layout: post
 title: Ownership and Belonging 
 categories: english swedish tldr 
 date: 2008-06-13 20:59:12 +02:00 
-wordpress_url: http://www.blay.se/?p=113 
+
 ---
 
 Nedan följer fri omarbetning av anteckningarna inför [presentationen på horitzo.tv](http://www.blay.se/2008/06/05/presentation-pa-horitzotv/). För er som känner till Piratbyrån och svensk fildelnings-debatt finns det mest nyskapande under rubriken "Archive / Event" där jag utvecklar förhållandet mellan direkta upplevelser och digitala arkiv. Also available as [PDF](http://www.blay.se/files/barcelona.pdf) 

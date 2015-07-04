@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 20 
+
 layout: post
 title: Kulturkritik 
 categories: english swedish 
 date: 2007-06-03 16:34:51 +02:00 
-wordpress_url: http://fadetogrey.wordpress.com/2007/06/03/kulturkritik/ 
+
 ---
 
 Vi har [tidigare](http://fadetogrey.wordpress.com/2007/04/19/tva-recensioner/ "tidigare") talat om ett skifte där 68-generationens kulturkritik har ersatts av ett hacker-tänkande som genom innovation och ingrepp förändrar systemet inifrån. Detta skifte har förklarats med att nya teknologier har använts som modell för tänkandet. Den klassiska kulturkritiken bygger på ett motor-tänkande (och massmedietänkande) medan det nya tänkandet bygger på modeller från datornätverken. Den kris för den klassiska kulturkritiken vi ser idag är bara slutet på ett uppbrott som började långt tidigare, enligt Kittler med [skriftmonopolets separation i visuella, akustiska och textbaserade flöden.](http://www.hydra.umn.edu/kittler/intro.html "skriftmonopolets separation i visuella, akustiska och textbaserade flöden.") Litteraturkritiken, med litteraturen själv, lever idag som odöd i ett oändligt slut. Litteraturkritiken har sedan skriftmonopolets fall tappat sin ursprungliga funktion och tvingas därför ömsa teoretiskt skinn flera gånger. Feminism, postkolonialism, [konsumtionskritik](http://www.isk-gbg.org/99our68/?p=100 "konsumtionskritik") osv. har tjänat som nya teoretiska skepnader för samma kritiska tänkande, som än idag fortsätter i våra skriftliga medier och gränssnitt.

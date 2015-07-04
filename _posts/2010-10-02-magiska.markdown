@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 1031 
+
 layout: post
 title: "Magiska fönster och ytor" 
 categories: english swedish 
 date: 2010-10-02 13:04:48 +02:00 
-wordpress_url: http://www.blay.se/2010/10/02/magiska-fonster-och-ytor/
+
 ---
 
 Den moderna datorn används för det mesta som ett svart hål som suger uppmärksamhet från omgivning och in till datorn. Den stationära datorn låser till och med användaren vid en bestämd plats, ofta borta från solljus och frisk luft.

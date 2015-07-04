@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 961 
+
 layout: post
 title: "Kommentar om modulär arkitektur" 
 categories: swedish 
 date: 2010-05-16 10:51:48 +02:00 
-wordpress_url: http://www.blay.se/2010/05/16/kommentar-om-modular-arkitektur/
+
 ---
 
 *Slår ett slag för temporär, modulär och generisk arkitektur [hos maloki](http://mlokit.wordpress.com/2010/05/15/open-source-arkitektur/) som skriver om open-source-arkitektur. Fyll gärna på med fler exempel där borta. Kommentaren citerad:*

@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 921 
+
 layout: post
 title: "InternetNoll i Mexico: Del ett - Tepito" 
 categories: english swedish 
 date: 2010-05-09 01:42:44 +02:00 
-wordpress_url: http://www.blay.se/?p=921
+
 ---
 
 ![mexico_5_1](http://www.blay.se/wp-content/uploads/2010/05/mexico_5_1-235x300.jpg "mexico_5_1")

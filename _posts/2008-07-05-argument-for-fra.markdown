@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 115 
+
 layout: post
 title: "Argument för FRA" 
 categories: notswedish
 date: 2008-07-05 23:29:25 +02:00 
-wordpress_url: http://www.blay.se/?p=115 
+
 ---
 
 Har inte skrivit något om FRA. Men här är [en bra sida](http://alliansfrittsverige.blogspot.com/2008/07/juli-4-2008-analys-av_04.html) som sammanfattar argumenten FÖR FRA-lagen p åett pedagogiskt sätt

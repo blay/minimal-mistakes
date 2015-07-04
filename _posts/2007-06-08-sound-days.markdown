@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 22 
+
 layout: post
 title: Sound Days 
 categories: english swedish 
 date: 2007-06-08 18:19:04 +02:00 
-wordpress_url: http://fadetogrey.wordpress.com/2007/06/08/sound-days/ 
+
 ---
 
 Det här är ungefär vad jag pratade om på [Sound Days](http://www.sounddays.com/ "Sound Days") i Köpenhamn idag. En (inte direkt välbesökt) träff där företag, institutioner och studenter träffades kring utvecklingen av ljud och musik i Öresundsregionen. 

@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 378 
+
 layout: post
 title: Smitta, geometri, information - om svinfluensan 
 categories: english swedish 
 date: 2009-04-27 10:14:07 +02:00 
-wordpress_url: http://www.blay.se/?p=378 
+
 ---
 
 Har för tillfället Manuel Delandas ["A Thousand Years of Non-linear History"](http://en.wikipedia.org/wiki/A_Thousand_Years_of_Nonlinear_History) på nattduksbordet. Boken beskriver människans icke-mänskliga historia de senaste tusen åren i tre kapitel; flöden och försteningar av materia och energi, kött och gener samt språk och memer. Idag kan jag inte låta bli att tänka på hur väl en sådan analys passar  på vad som händer i Mexico City med svinfluensan där alla dessa flöden och försteningar samverkar. Det är inte bara ett virologiskt problem utan lika mycket ett landskaps- och informationsproblem. [Kopimisten Geraldine](http://simple-mechanisms.com/) sitter mer eller mindre i husarrest i en stad som lamslagits lika mycket av virusets okontrollerade spridning som av informationens. [Från hennes twitter:](http://twitter.com/MissPirata/status/1626594285)

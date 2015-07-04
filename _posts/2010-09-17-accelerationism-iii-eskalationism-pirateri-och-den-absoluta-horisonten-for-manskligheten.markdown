@@ -1,11 +1,11 @@
 --- 
-wordpress_id: 1011 
+
 layout: post
 title: "Accelerationism III" 
 categories: swedish tldr 
 summary: Eskalationism, pirateri och den absoluta horisonten för mänskligheten
 date: 2010-09-17 15:28:42 +02:00 
-wordpress_url: http://www.blay.se/?p=1011
+
 ---
 
 *Det här inlägget bygger vidare på [accelerationism-inläggen](http://www.blay.se/index.php?s=accelerationism) och seminariet, men utforskar mer fritt möjliga skillnader mellan accelerationism och eskalationism som begrepp och strategier.*

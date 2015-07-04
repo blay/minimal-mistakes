@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 114 
+
 layout: post
 title: P 
 categories: swedish 
 date: 2008-06-26 10:38:45 +02:00 
-wordpress_url: http://www.blay.se/2008/06/26/pa-reboot/
+
 ---
 
 Föredrag om ACTA imorgon. Idag pratar bland annat Oscar Swartz om FRA-lagen och ett antal webb-hippies om frihet. Howard Rheingold går på nu. 

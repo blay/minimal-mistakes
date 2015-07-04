@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 304 
+
 layout: post
 title: Lundblad om Heidegger 
 categories: swedish 
 date: 2009-03-15 13:15:16 +01:00 
-wordpress_url: http://www.blay.se/?p=304 
+
 ---
 
 Nicklas Lundblad är [som vanligt](http://copyriot.blogspot.com/2005/12/skenmotstndaren-och-skalpellen.html) fullkomligt lysande när han plockar fram sin Heidegger. I [två](http://myothernotes.com/rationalgrounds/?p=98) [inlägg](http://myothernotes.com/rationalgrounds/?p=103) på sin [blogg](http://myothernotes.com/rationalgrounds/) reflekterar han över Heideggers syn på tekniken och relationen till integriteten. Jag hakar på! Heideggers analys av tekniken är bekant. Teknikens väsen, dess essens, är att den avslöjar, ställer till förfogande, frambringar saker ur det fördolda. Därmed förvandlar den världen till resurser. Genom att bygga ett vattenkraftverk ställer tekniken älven till förfogande som energiresurs. Lundblad följer det här resonemanget till informationsteknologin och menar att det inte är svårt att tänka på den personliga integriteten. Allt vi gör avslöjas av informationsteknologin som registrerar våra beteenden och ställer informationen till förfogande som en resurs runt vilken tjänster kan byggas, polisiär verksamhet kan formas osv. Lundblad fortsätter:

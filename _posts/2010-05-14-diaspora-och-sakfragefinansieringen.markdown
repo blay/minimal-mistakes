@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 931 
+
 layout: post
 title: "Diaspora och sakfrågefinansieringen" 
 categories: swedish 
 date: 2010-05-14 15:57:21 +02:00 
-wordpress_url: http://www.blay.se/?p=931
+
 ---
 
 [Diaspora](http://joindiaspora.com/blog.html), ett projekt drivet av fyra New York-baserade studenter med målet att skapa en öppen och decentraliserad facebook-dödare, har fått stor uppmärksamhet sedan de [sökte tiotusen dollar på kickstarter](http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr) men på kort tid har fått ihop över hundratusen dollar. Mycket tack vare uppmärksamheten som gavs av en [artikel i NY Times](http://www.nytimes.com/2010/05/12/nyregion/12about.html).

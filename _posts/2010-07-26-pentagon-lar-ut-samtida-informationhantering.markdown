@@ -1,10 +1,10 @@
 --- 
-wordpress_id: 998 
+
 layout: post
 title: "Pentagon lär ut samtida informationshantering" 
 categories: english swedish 
 date: 2010-07-26 16:57:07 +02:00 
-wordpress_url: http://www.blay.se/2010/07/26/pentagon-lar-ut-samtida-informationhantering/
+
 ---
 
 I något obskyrt skyffe inne på Pentagon sitter den pensionerade brigadgeneralen Huba Wass de Czege och skriver en text om historisk och samtida militär användning av information som han kallar “”Netwar - Winning in the Cyberelectromagnetic Dimension of “Full Spectrum Operations””[(PDF)](http://usacac.army.mil/CAC2/MilitaryReview/Archives/English/MilitaryReview_20100430_art006.pdf). Jag tror att vi kan lära oss något från den och hur information betraktas på nätet. 
