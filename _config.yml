@@ -6,7 +6,7 @@ url:              http://www.omxi.se
 teaser: teaser.jpg
 
 # Jekyll configure
-permalink:   none
+permalink:   :year-:month-:day-:title.html
 markdown:    kramdown
 highlighter: pygments
 sass:
