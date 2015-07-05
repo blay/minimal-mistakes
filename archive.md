@@ -22,9 +22,9 @@ excerpt: "A List of Posts"
 {% endunless %}
 <article>
 {% if post.link %}
-<h2 class="link-post"><a href="{{ post.url | remove_first:'/'" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
+<h2 class="link-post"><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
 {% else %}
-<h2><a href="{{ post.url | remove_first:'/'" title="{{ post.title }}">{{ post.title }}</a></h2>
+<h2><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a></h2>
 {% if post.summary %}
 <p>{{ post.summary | strip_html | truncate: 160 }}</p>
 {% else %}
@@ -34,5 +34,3 @@ excerpt: "A List of Posts"
 </article>
 {% endfor %}
 </div><!-- /#index -->
-
-
