@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about.html
+permalink: about.html
 title: About Me
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
@@ -23,4 +23,4 @@ I'm also an artist by proxy and as a member of the art collective [FATLAB](http:
 
 On this blog I have collected presentations I've done, papers I've written and general thoughts on topics I come across, usually about internet, technology, politics, culture, urbanism.  I'm also quite obsessive with coding and scripting my working environment so I will be doing more posts about code, scripts and computer workflow for academic researchers  in the future. I have also collected research projects I've been involved in.
 
-This blog started in blogspot and went through a wordpress iteration before I became such hipster coder that I run the static web generator [Jekyll](http://jekyllrb.com/). I write this blog -- and everything I do; from notes to academic articles -- in the [Markdown](http://daringfireball.net/projects/markdown/)  language with [Pandoc](http://johnmacfarlane.net/pandoc/README.html) dialect. Usually in [vim](https://github.com/blay/dotfiles/blob/master/vimrc) or sublime text. For reference management I use the great free software [Zotero](https://www.zotero.org/magnu.se) and tie it together with the Pandoc writing with [Zotxt](https://bitbucket.org/egh/zotxt) and its [Pandoc extension](https://pypi.python.org/pypi/pandoc-zotxt/0.1.11). 
+This blog started in blogspot and went through a wordpress iteration before I became such hipster coder that I run the static web generator [Jekyll](http://jekyllrb.com/). I write this blog -- and everything I do; from notes to academic articles -- in the [Markdown](http://daringfireball.net/projects/markdown/)  language with [Pandoc](http://johnmacfarlane.net/pandoc/README.html) dialect. Usually in [vim](https://github.com/blay/dotfiles/blob/master/vimrc) or sublime text. For reference management I use the great free software [Zotero](https://www.zotero.org/magnu.se) and tie it together with the Pandoc writing with [Zotxt](https://bitbucket.org/egh/zotxt) and its [Pandoc extension](https://pypi.python.org/pypi/pandoc-zotxt/0.1.11).

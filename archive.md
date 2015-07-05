@@ -8,7 +8,7 @@ excerpt: "A List of Posts"
 <div id="index">
 <h1>{{ page.title }}</h1>
 
-<h4>| <a href="/archive.html">All posts</a> | <a href="/tldr.html">Long posts</a> |</h>
+<h4>| <a href="archive.html">All posts</a> | <a href="tldr.html">Long posts</a> |</h>
 
 {% for post in site.posts %}
 {% unless post.next %}

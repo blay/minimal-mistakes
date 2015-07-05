@@ -5,7 +5,7 @@
 {% if author.avatar contains 'http' %}
 	<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
 {% else %}
-	<img src="/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+<a href="index.html">	<img src="images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
 {% endif %}
 <h3>{{ author.name }}</h3>
 <p>{{ author.bio }}</p>

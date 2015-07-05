@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research.html
+permalink: research.html
 title:
 image:
  feature: knoll_narrow.jpg
