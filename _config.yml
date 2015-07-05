@@ -5,6 +5,7 @@ locale:           en_US
 url:             http://www.omxi.se
 teaser: teaser.jpg
 
+
 # Jekyll configure
 permalink:   :year-:month-:day-:title.html
 markdown:    kramdown
@@ -41,19 +42,20 @@ owner:
   avatar: bio-photo.jpg
   bio: "Internet and beyond. Pre-modern, post-human, para-academic."
   email: ok@omxi.se
-  disqus-shortname: blay 
+  disqus-shortname: blay
   twitter: monki #username
   facebook: #username
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: omxi #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
+  xing: #username
   instagram: #username
   lastfm: #username
   tumblr: #username
@@ -64,6 +66,7 @@ owner:
   youtube: #username
   soundcloud: #username
   zotero: magnu.se #username
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
