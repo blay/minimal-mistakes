@@ -2,7 +2,7 @@
 layout: post
 title: Eyal Weizman om A New Theory on Holes
 summary: Eyal Weizman håller föredrag i Göteborg om håligheter och drönare 
-tags: swedish tldr
+tags: swedish
 image:
  feature: hole_narrow.jpg
 ---

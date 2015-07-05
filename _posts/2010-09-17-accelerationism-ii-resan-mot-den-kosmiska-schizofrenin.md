@@ -2,7 +2,7 @@
 
 layout: post
 title: "Accelerationism II"
-tags: swedish tldr
+tags: swedish
 summary: Resan mot den kosmiska schizofrenin
 date: 2010-09-17 07:43:44 +02:00
 image:

@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Second Information Revolution
-tags: english notswedish research tldr
+tags: english notswedish research
 summary: "New developments in digital technologies challenges conceptions from the internet era"
 ---
 

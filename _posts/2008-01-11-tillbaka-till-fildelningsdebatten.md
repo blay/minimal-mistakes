@@ -2,7 +2,7 @@
 
 layout: post
 title: Tillbaka till fildelningsdebatten 
-tags: swedish tldr 
+tags: swedish 
 date: 2008-01-11 15:54:40 +01:00 
 
 ---

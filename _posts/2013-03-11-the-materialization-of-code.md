@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Materialization of Code
-tags: english notswedish research tldr
+tags: english notswedish research
 summary: Paper about the materiality of computer code
 image:
  feature: microprocessor_narrow.jpg

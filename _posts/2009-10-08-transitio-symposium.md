@@ -2,7 +2,7 @@
 
 layout: post
 title: Transitio symposium 
-tags: english tldr notswedish
+tags: english notswedish
 date: 2009-10-08 21:30:12 +02:00 
 
 ---

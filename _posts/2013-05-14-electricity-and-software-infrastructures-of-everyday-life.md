@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Electricity and Software, Infrastructures of Everyday Life
-tags: english notswedish research tldr
+tags: english notswedish research
 summary: "On passive and active relations to everyday infrastructures"
 ---
 

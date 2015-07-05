@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Law as Print Media
-tags: english notswedish research tldr
+tags: english notswedish research
 summary: "Mireille Hildebrandt on law as print media"
 ---
 

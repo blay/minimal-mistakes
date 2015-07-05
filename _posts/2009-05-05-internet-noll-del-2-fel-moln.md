@@ -2,7 +2,7 @@
 
 layout: post
 title: Internet noll - Del 2. Fel moln!
-tags: english swedish tldr 
+tags: english swedish 
 date: 2009-05-05 13:11:31 +02:00
 
 ---
