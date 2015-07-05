@@ -68,7 +68,7 @@ But already a few weeks later the number of youths had exploded. Social networks
 
 > A beutiful autumn evening in September 1982 a few dozen motley attired young people gathered at Fridhemsplan: ordinary schoolchildren, no organized motorcycle gangs. Neither the city's few punks and anarchists were represented except by a few delegates. Continously new youths arrive from the depth of the underground metro station. No one knew where they came from and what their intentions were. The didn't seemed to demonstrate for or against anything. They just stood there in loosely connected groups, talking to each other.
 >
-> [Hans-Magnus Enzensberger](http://blay.se/hetalinjen.html)
+> [Hans-Magnus Enzensberger](http://www.blay.se/hetalinjen.html)
 
 Their numbers soon reached a thousand people. Nothing like this had ever been seen: uncontrollable, yet so calm. Perhaps they had a secret plan? Maybe they were under the influence of something? Maybe they were looking for trouble? The police though it was better to be safe than sorry and decided to disperse the crowd.
 
@@ -121,13 +121,13 @@ There's our supernode...
 
 However, Televerket are not so heartless that they just shut down the lines. They understand after all that there is a social need, particularly for "old, sick and disabled". Instead they will explore the possibilities of organizing "serious group calls". [(DN820919)](http://files.blay.se/hetalinjen/.820919-DN-5.jpg).
 
-An official number is eventually established, but under different house rules. Only 5 people are allowed to talk simultaneously and then only [5 minutes at a time](http://blay.se/hetalinjen.html). Presumable the police also have a ear on the wire on Friday evenings. In this way, a social need can be fulfilled without for that matter having unforseen events occuring in the city on the weekends.
+An official number is eventually established, but under different house rules. Only 5 people are allowed to talk simultaneously and then only [5 minutes at a time](http://www.blay.se/hetalinjen.html). Presumable the police also have a ear on the wire on Friday evenings. In this way, a social need can be fulfilled without for that matter having unforseen events occuring in the city on the weekends.
 
 The official line later turn into private hot lines that still today can be sighted in small newspapers ads. The private lines hasn't caused much fuss, although many certainly have fond childhood memories of them. The only controversy that arose in recent years was a murder in Malmö in the 90's where two men had decided to meet over the hot line and one killed the other. But this time, no one got the idea to blame the medium. Instead, the individuals psychologic orientation and homophobic motives were seen as the cause.
 
 ## The Great Compromise
 
-The quotes in the beginning of this text are from [Hans-Magnus Enzensbergers "Swedish Autumn"](http://blay.se/hetalinjen.html), one of the few longer accounts of the events and taken from the philosophers book "Europe, Europe" where he travels around seven European countries and captures the zeitgeist. The hot line riot and its consequences is looked upon by him as a sign of a typical Swedish relationship to the state and trust in social institutions.
+The quotes in the beginning of this text are from [Hans-Magnus Enzensbergers "Swedish Autumn"](http://www.blay.se/hetalinjen.html), one of the few longer accounts of the events and taken from the philosophers book "Europe, Europe" where he travels around seven European countries and captures the zeitgeist. The hot line riot and its consequences is looked upon by him as a sign of a typical Swedish relationship to the state and trust in social institutions.
 
 He is amazed by the discovery of a new mass medium, what he considers to be a "social innovation of the first order". 
 
@@ -166,7 +166,7 @@ For Kittler it is our media that determine the boundaries of what we can experie
 
 ## Comparisson with Net Politics
 
-Apart from Enzensberger account, references to the event is scarce, despite it having such a unique character. The only mention I find online is the blog [Mothugg](http://www.mothugg.se/2011/08/18/enzensberger-om-heta-linjen-upploppet-1982/) that read Enzensbergers text in 2011 and correctly pointed out that the story of the hot line riot is very reminiscent of todays discussions about net politics -- "long before terms such as flash mobs, phreaking, hacktivism, social media, or for that matter, net politics became public property of the Swedish language". Also the tactic of taking something free, shutting it down and making an official version of it has recently been termed ["spotification"](http://www.blay.se/2010/03/31/fighting-the-3d-reptiles/).
+Apart from Enzensberger account, references to the event is scarce, despite it having such a unique character. The only mention I find online is the blog [Mothugg](http://www.mothugg.se/2011/08/18/enzensberger-om-heta-linjen-upploppet-1982/) that read Enzensbergers text in 2011 and correctly pointed out that the story of the hot line riot is very reminiscent of todays discussions about net politics -- "long before terms such as flash mobs, phreaking, hacktivism, social media, or for that matter, net politics became public property of the Swedish language". Also the tactic of taking something free, shutting it down and making an official version of it has recently been termed ["spotification"](http://www.blay.se/2010-03-31-fighting-the-3d-reptiles.html).
 
 A contemporary news item about the incident might have been as follows:
 

@@ -70,7 +70,7 @@ Men redan ett par veckor senare hade antalet ungdomar ökat explosionsartat. Soc
 
 > En vacker höstkväll i september 1982 samlades några dussin brokigt utstyrda unga människor på Fridhemsplan: helt vanliga skolungdomar, inga organiserade motorcykelgäng. Inte heller stadens fåtaliga punkare och anarkister var representerade annat än med med några få ombud. Oavbrutet dök nykomlingar upp ur tunnelbanans djup. Ingen visste var de kom ifrån och vad de hade för avsikter. De tycktes inte demonstrera för eller mot något. De bara fanns där, stod i löst sammanhållna grupper och pratade med varandra.
 >
-> [Hans-Magnus Enzensberger](http://blay.se/hetalinjen.html)
+> [Hans-Magnus Enzensberger](http://www.blay.se/hetalinjen.html)
 
 Antalet uppgick snart till närmare tusen ungdomar. Något liknande hade aldrig tidigare upplevts. Okontrollerbara men ändå så lugna. Kanske hade de en hemlig plan? Kanske var de påverkade av något? De kanske var ute efter bråk? Polisen tog det säkra före det osäkra och beslutade att skingra klungan.
 
@@ -122,13 +122,13 @@ Där har vi supernoden...
 
 Televerket är dock inte så hjärtlösa att de bara stänger ner linjerna. Man förstår trots allt att det finns ett socialt behov, framförallt för "gamla, sjuka och handikappade". Istället ska man undersöka möjligheterna till att ordna "seriösa gruppsamtal" [(DN820919)](http://files.blay.se/hetalinjen/.820919-DN-5.jpg).
 
-Ett officiellt nummer inrättas till slut. Men där gäller andra ordningsregler. Bara 5 personer åt gånger får tala med varandra och då [bara i 5 minuter](http://blay.se/hetalinjen.html). Gissningsvis har polisen ett öra på tråden på fredagskvällarna också. På så vis kan ett socialt behov fyllas utan att det för den sakens skull uppstår oförutsedda händelser inne i City på helgerna.
+Ett officiellt nummer inrättas till slut. Men där gäller andra ordningsregler. Bara 5 personer åt gånger får tala med varandra och då [bara i 5 minuter](http://www.blay.se/hetalinjen.html). Gissningsvis har polisen ett öra på tråden på fredagskvällarna också. På så vis kan ett socialt behov fyllas utan att det för den sakens skull uppstår oförutsedda händelser inne i City på helgerna.
 
 Den officiella linjen övergår senare till de privata linjer som än idag går att sikta i små tidningsannonser. De privata linjerna har inte mycket väsen av sig, även om många säkert har personliga barndomsminnen av dem. Den enda kontroversen som uppstått på senare tid var ett mord i Malmö på 90-talet där två män bestämt träff över heta linjen och den ena mördade den andra. Denna gång var det dock ingen som fick för sig att skylla på heta linjen, utan individens psykologiska läggning, troligtvis med homofoba motiv, ansågs ligga bakom.
 
 ## Den Stora Kompromissen
 
-De kursiva delarna i början av denna text är från [Hans-Magnus Enzensbergers "svensk höst"](http://blay.se/hetalinjen.html), en av de få längre redogörelse för händelseförloppet från den tyske filosofens bok "Ach Europa!" där han reser runt i sju europeiska länder och fångar tidsandan. Heta linjen-upploppet och dess efterföljd ser han som ett tecken på en typiskt svensk relation till staten och förtroendet för  samhälliga institutioner.
+De kursiva delarna i början av denna text är från [Hans-Magnus Enzensbergers "svensk höst"](http://www.blay.se/hetalinjen.html), en av de få längre redogörelse för händelseförloppet från den tyske filosofens bok "Ach Europa!" där han reser runt i sju europeiska länder och fångar tidsandan. Heta linjen-upploppet och dess efterföljd ser han som ett tecken på en typiskt svensk relation till staten och förtroendet för  samhälliga institutioner.
 
 Han är förbluffad över upptäckten av ett nytt massmedium, vad han anser vara "en social uppfinning av första ordningen". 
 

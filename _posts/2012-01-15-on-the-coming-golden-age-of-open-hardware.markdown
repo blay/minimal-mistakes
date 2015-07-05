@@ -34,7 +34,7 @@ Also worth noting is what's called [koomey's law](http://www.koomey.com/post/267
 
 Effort to try to reintroduce that kind of linear acceleration again will have harder times to claim legitimacy. Perhaps it is only possible within gaming to push for more computational power, but even there interaction design and game play is starting to take over from pure improvement of number of polygons. As a commentator to bunnie's article said, the color race is already finished; no one sees more colors than 32bit TrueColor can produce (let's not get started on 3D). The key point is hit when increase in a parameter only enables better quality and not new kinds of interactions [^100mbit]. The media industries tries to continue to equate increased cultural value with increased use of computational resources in order to keep their advantage with economies of scale over the rest, but it becomes more and more difficult to sustain.
 
-[^100mbit]: As a comparison I made the same argument in regards to bandwidth [here](http://www.blay.se/2011/10/06/punks/)
+[^100mbit]: As a comparison I made the same argument in regards to bandwidth [here](http://www.blay.se/2011-10-06-punks.html)
 
 ## The way we compute now is only one of many possible ways of computing
 
