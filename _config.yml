@@ -2,7 +2,7 @@
 
 title:            omxi.se
 locale:           en_US
-url:              http://www.omxi.se
+url:             http://www.omxi.se
 teaser: teaser.jpg
 
 # Jekyll configure
