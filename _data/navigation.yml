@@ -1,10 +1,10 @@
 # Site navigation links
 
 - title: about
-  url: /about/
+  url: /about.html
 
 - title: log
-  url: /archive/ 
+  url: /archive.html
 
 - title: research
-  url: /research/
+  url: /research.html

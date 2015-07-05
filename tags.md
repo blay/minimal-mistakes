@@ -15,7 +15,7 @@ title: Tags
   <h3 id="{{ tag }}">{{ tag }}</h3>
   <ul>
   {% for post in site.tags[tag] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url | remove_first:'/'">{{ post.title }}</a></li>
   {% endfor %}
   </ul>
 {% endfor %}
