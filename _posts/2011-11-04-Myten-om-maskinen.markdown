@@ -24,7 +24,7 @@ Det är inte alltid lätt att klassificera enskilda teknologier på det här sä
 
 De tre komponenterna materia, energi och information är viktiga att kunna hålla i huvudet samtidigt och här ligger "Myten om maskien":s stora bidrag. För att ytterligare hamra in det budskapet avslutar jag med en kort dokumentär om internets materiella infrastruktur:
 
-![Kategorisering av teknologi](/img/myten_om_maskinen.jpg)
+![Kategorisering av teknologi](images/myten_om_maskinen.jpg)
 
 ## Referenser
 

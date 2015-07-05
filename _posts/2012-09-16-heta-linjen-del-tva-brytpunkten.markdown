@@ -33,7 +33,7 @@ Den kompromiss som nås kring heta linjen, med den officiella heta linjen där f
 
 ## Verket och Vi
 
-![](/img/telefonutrustning.png)
+![](images/telefonutrustning.png)
 
 För en mer detaljerad inblick i hur den här övergången gick till väga vänder vi oss till Televerkets personaltidning [Verket och Vi]((http://www.magnu.se/files/verket_och_vi.pdf)) från 1983, drygt ett år efter heta linjen infördes officiellt.
 
@@ -73,7 +73,7 @@ Detta har delvis en teknisk förklaring, om man inte har begränsningar kommer d
 
 ## En ny approach
 
-![](/img/telefonkiosk.png)
+![](images/telefonkiosk.png)
 
 Televerket erkänner själva att deras hantering av heta linjen från början var problematisk:
 
@@ -109,5 +109,5 @@ I [Televärlden, Nr 4, 1995](http://www.magnu.se/files/tele.pdf) finns dödsanno
 
 Intäkterna har fortsatt strömma in från Heta linjen, även om linjerna med åren blivit färre. Men Telia, som nu drivs som företag, har ett varumärke att tänka på och de har "under många år [...] varit stark press på Telia att ta ansvar för trafiken på Heta linjen och vissa 071-nummer". Dessutom hade en mer avreglerad telemarknad gjort att andra privata aktörer hade skapat liknande tjänster. Det låg inte längre på Telia/Televerkets axlar att ta hand om överflödiga sociala behov. På så vis släcks den heta linjen ut från en dag till den andra, men vid det här laget -- 1995 -- hade vi redan börjat migrera till IRC och andra paketförmedlade nätverk. Hur det går med dem är en helt [annan historia](http://www.isk-gbg.org/99our68/?page_id=38).
 
-![](/img/telefonlur.png)
+![](images/telefonlur.png)
 

@@ -21,5 +21,5 @@ The only thing that really gets to me now is this thing with avocados. They don'
 
 ***Update: Now I learned that an avocado in Italy is a lawyer...***
 
-![room](/img/room.jpg)
-![view](/img/view.jpg)
+![room](images/room.jpg)
+![view](images/view.jpg)

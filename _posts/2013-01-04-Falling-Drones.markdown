@@ -20,4 +20,4 @@ The great outdoors however will be a place of risk, a place of probability. What
 
 Perhaps we will equip ourselves with tools of personal protection when walking around -- a baseball bat to swat the away, a riot shield to cover ourselves, or (better safe than sorry) just walk around inside our personal inflatable bubbles to make drones just bounce off us.
 
-![bubble boy](/img/bubbleboy.jpg).
+![bubble boy](images/bubbleboy.jpg).

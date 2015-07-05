@@ -7,4 +7,4 @@ date: 2008-12-29 13:33:13 +01:00
 
 ---
 
-[![occ-con](http://www.blay.se/wp-content/uploads/2008/12/gar-till-medium-post.png "occ-con")](http://www.consumingexperience.com/2007/06/5-principles-for-web-20-success-jyri.html) 
+[![occ-con](images/gar-till-medium-post.png "occ-con")](http://www.consumingexperience.com/2007/06/5-principles-for-web-20-success-jyri.html) 

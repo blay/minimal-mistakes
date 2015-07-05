@@ -8,7 +8,7 @@ date: 2009-05-05 13:11:31 +02:00
 ---
 Ett lågintensivt, mikroskopisk, distribuerat och gemensamt <a href="http://www.angelpage.co.uk/todolist/internetZero.htm">internet noll</a>, enklare och långsammare, men mer hållbart? Parallellt med ett högintensivt med hierarkiskt <a href="http://en.wikipedia.org/wiki/Internet2)">internet2</a> där allt är snabbare större och starkare? I mitten, dagens internet som en uppstyckad innehållsförsäljningsplats? <a href="http://www.webupon.com/Web-Talk/Internet-0-and-Internet-2.39894">Kanske.</a>
 
-<img class="alignleft size-full wp-image-427" title="bild-1" src="http://www.blay.se/wp-content/uploads/2009/05/bild-1.png" alt="bild-1" width="334" height="500" />//
+<img class="alignleft size-full wp-image-427" title="bild-1" src="images/bild-1.png" alt="bild-1" width="334" height="500" />//
 Under Internet2
 Internet som vi kännner det - snart en kloak under de polerade affärskvarteren i internet2. Digitalt <a href="http://cis-india.org/advocacy/ipr/blog/dark-fibre-files">kabelwallah</a> av sprakande kablar och rostande ledningar som hakar i ett hypermodernt informationsautobahn. Eller <a href="http://www.google.se/search?q=%22wireless+is+a+separate+Internet+and+we+can+make+our+own+rules+and+not+be+American+in+inspiration%22">det trådlösa nätet som ett eget internet</a>. Det hakar i det vanliga nätet, men har egentligen ingenting att göra med regleringarna i det kabelburna nätet. Sammankopplingen är på en mjukvarunivå. Troligtvis kommer de överlappa. De gamla miljöerna byggs på, delas upp och blandas sömlöst med nya strukturer. Informationsproblem löses inte med nya slicka system utan en liten bit mer datorkraft för att komma över en tröskel och sedan lapptäckesliknande påbyggdnader.
 

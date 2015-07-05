@@ -7,4 +7,4 @@ date: 2009-03-12 21:06:21 +01:00
 
 ---
 
-Det känns hemsk att säga det, men inom en snar framtid kanske vi får se följande scenario i Sverige. [Reportrar utan gränser rapporterar.](http://www.svd.se/nyheter/utrikes/artikel_2584979.svd) ![fienden](http://www.blay.se/wp-content/uploads/2009/03/fienden.jpg "fienden") 
+Det känns hemsk att säga det, men inom en snar framtid kanske vi får se följande scenario i Sverige. [Reportrar utan gränser rapporterar.](http://www.svd.se/nyheter/utrikes/artikel_2584979.svd) ![fienden](images/fienden.jpg "fienden") 

@@ -17,7 +17,7 @@ summary: Book chapter I write for "The Reader - North/South, River Run" produced
 
 *This text is featured in "The Reader - North/South, River Run" produced by The School of Photography at the University of Gothenburg. The book is edited by Kerstin Hamilton and put together from lectures given at a course with the same name as the title of the book in the summer of 2011. It features among others: Annika von Hauswolff, Karl Palmås and a cartoon about Fredrik Svensk. My lecture on hacking and photography was held a sunny day in a park in Gothenburg* 
 
-![](/img/ns_cover.jpg)
+![](images/ns_cover.jpg)
 
 # Introduction
 The term hacker is today a widely used and multi-faceted term that mean very different things to different people. Some associate it only with credit card scams and breaking into computer systems. For others, it is a label to attach to one's activity to give signal that it is unconventional, edgy and smart. To understand how all these meaning can be attached to a single word, I will make an exposé of the history of hacking to see how the different meaning has been attached to the word at different periods. 
@@ -113,4 +113,4 @@ In this example we encounter something different than in the others. Here, an en
 
 
 
-![](/img/ns_images.jpg)
+![](images/ns_images.jpg)

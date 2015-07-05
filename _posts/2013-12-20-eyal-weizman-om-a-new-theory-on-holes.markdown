@@ -7,7 +7,7 @@ image:
  feature: hole_narrow.jpg
 ---
 
-![](/img/weizman.jpg)
+![](images/weizman.jpg)
 
 Eyal Weizman hade [föredrag på Göteborgs konsthall](http://skogen.pm/archive/2013/block-14/) för ett par veckor sedan på temat "A New Theory of Holes". Föredraget har flera kopplingar till nätpolitiska frågor och all den iver kring tunnlar och håligheter som snurrade runt [här i bloggarna](http://copyriot.se/2010/01/13/pirate-politics-from-accelerationism-to-escalationism/) för ett par år sedan i samband med Telecomix och publiceringen av [Cyclonopedia](http://wiki.magnu.se/wiki/ref:negarestani2008cyclonopedia). Weizmans föredrag var i princip ett sätt att koppla ihop hans tidigare arbete kring IDFs taktik kring att "gå genom väggar" [(PDF)](http://roundtable.kein.org/files/roundtable/Weizman_lethal%20theory.pdf) som tydligen är inspirerad av kritisk teori och radikal fransk filosofi med hans senare arbete kring drönarkrig och ["forensic architecture"](http://www.forensic-architecture.org/). Det hela knyts samman av temat "upplösning", här förstått både som pixelupplösningen och att någon material upplöses. 
 
