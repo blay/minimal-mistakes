@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enabling Platforms
-tags: english swedish 
+tags: english swedish tldr
 summary: Fablabs och andra "enabling platforms" måste gå utanför sig själva och initiera större samhällsomvandlingar för att kunna lösa de problem med deltagande som de ställs inför.
 ---
 

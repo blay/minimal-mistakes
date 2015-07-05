@@ -2,7 +2,7 @@
 layout: post
 title: Piracy, Code and Law
 summary: Presentation about control, code, immaterialization and law and piracy as the disturbance of the flow of control.
-tags: english notswedish
+tags: english notswedish tldr
 image: 
  feature: harbour_narrow.jpg
 ---

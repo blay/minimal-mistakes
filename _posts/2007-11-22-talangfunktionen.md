@@ -1,9 +1,9 @@
---- 
+---
 
 layout: post
-title: Talangfunktionen 
-tags: english swedish 
-date: 2007-11-22 23:04:53 +01:00 
+title: Talangfunktionen
+tags: english swedish
+date: 2007-11-22 23:04:53 +01:00
 
 ---
 
@@ -11,7 +11,7 @@ På årets [Sime-gala](http://www.sime.nu/ "Sime-gala") höll Alexander Bard ett
 
 Argumentet bygger på två teorier som varit framträdande de senaste åren. Den första är teorin om "fat middles". I "long tail"/fildelnings-ekonomin finns det två aktörer som klarar sig bra. Den ena är megastora producenter som överlever genom att ta stora marknadsandelar genom massiv marknadsföring och genom sina stora resurser kunna monetarisera utebliven distributionsinkomst med massa andra varor och tjänster runt omkring. De andra som klarar sig bra är amatörerna som drivs helt av "amore", entusiasm och billig produktionskostnad. Det lager som däremot tunnas ut är "fat middles", professionella, halvstora företag och producenter, underförstått är det här kvaliteten, talangen, kontinuiteten och det mest fria skapandet finns. De är inte bundna av resursbrist men heller inte av strikta kommersiella krav på att tilltala den bredaste massan. Detta är de talangdrivna, till skillnad mot de pengadrivna och de entusiasmdrivna. Detta är "vad vi vill ha" men som försvinner i ekonomin idag. Problemet kallas ["The Death Valley Problem"](http://www.cultureby.com/trilogy/2005/11/of_long_tails_a.html).
 
-En annan teoretiker som talat sig varm för talang är Richard Florida med sina [teorier om den kreativa klassen](http://fadetogrey.wordpress.com/2007/06/09/unfinished-notes-on-richard-florida/ "teorier om den kreativa klassen") och de kreativa städer som lockar denna klass. En välbekant teori som bygger på att dagens ekonomi drivs av kreativa yrken, allt från konst och musik till forskning och reklam, där kreativa individer skapar immateriellt mervärde. Talangdrivet innehåll alltså. Att locka dessa kreativa individer till sin stad föder ekonomisk tillväxt. 
+En annan teoretiker som talat sig varm för talang är Richard Florida med sina [teorier om den kreativa klassen](2007-06-09-unfinished-notes-on-richard-florida.html) och de kreativa städer som lockar denna klass. En välbekant teori som bygger på att dagens ekonomi drivs av kreativa yrken, allt från konst och musik till forskning och reklam, där kreativa individer skapar immateriellt mervärde. Talangdrivet innehåll alltså. Att locka dessa kreativa individer till sin stad föder ekonomisk tillväxt. 
 
 Vad som sker i är att Florida återinför "The Author" på en generell kreativ nivå, vare sig det rör sig om kontnärer eller ingenjörer. Alexander Bard återinför också författaren i online-innehållet. Vad missförståndet består i kan vi hitta hos Foucault, som inte intresserade sig för författaren som individ, utan av författarfunktionen. Författarfunktionen fungerar som samlande och meningsskapande och må saknas i dagens informationsflöde. Den sätter texten i sammanhang och skapar kontinuitet. Men funktionen ska inte likaställas med författaren själv. Foucault föreställer sig en framtida författarfunktion som inte bygger på individer utan ett mer utspritt system för att hantera författarfunktionen.
 
@@ -27,4 +27,3 @@ Det är också viktigt att inte ersätta illusionen om författaren med illusion
 Decentralisering handlar heller inte om att koppla ihop massa människor och automatiskt få meningsfullt skapande destillerat ifrån den, utan att aktivt bygga miljöer och sammanhang som ger mening åt skapande och får skapande att växa. Något som kräver kombinationer av kontroll och frihet, öppenhet och slutenhet, decentralisering och centralisering.
 
 Vi kan illustrera problematiken geometriskt. ![](http://docs.google.com/File?id=df2vgdxk_138cnxns2gs) Long tail. Megastora producenter klarar sig och små, nischade producenter klarar sig. Det så kallade "Death Valley Problem" infinner sig. ![](http://docs.google.com/File?id=df2vgdxk_139frntn4fs) I den massmediabaserade modellen (här symboliserad av ett rakt, rött streck) fanns det ett fält av producenter som saknas i den långa svansen, "The Fat Middles", här gråmarkerade. ![](http://docs.google.com/File?id=df2vgdxk_140f8723jgd) Ett alternativ sätt att se på det är att utmaningen ligger i att koppla samman och aggregera produktionen, snarare än att försöka återskapa fat middles. Missa inte administratörerna, de något större orangea prickarna.
-

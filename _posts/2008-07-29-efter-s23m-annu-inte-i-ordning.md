@@ -2,7 +2,7 @@
 
 layout: post
 title: "Efter s23m - ännu inte i ordning" 
-tags: swedish 
+tags: swedish tldr
 date: 2008-07-29 13:56:19 +02:00 
 
 ---

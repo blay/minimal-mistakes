@@ -2,7 +2,7 @@
 
 layout: post
 title: Smitta och plattform 
-tags: english swedish 
+tags: english swedish tldr
 date: 2010-06-14 20:51:57 +02:00 
 
 ---

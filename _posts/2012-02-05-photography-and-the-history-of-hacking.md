@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Photography and the History of Hacking
-tags: english notswedish
+tags: english notswedish tldr
 summary: Book chapter I write for "The Reader - North/South, River Run" produced by The School of Photography at the University of Gothenburg.
 ---
 

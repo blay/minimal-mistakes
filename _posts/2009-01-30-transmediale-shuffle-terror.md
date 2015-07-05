@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Transmediale: Shuffle = Terror" 
-tags: swedish 
+tags: swedish tldr
 ---
 
 Jag och Daniela höll på Transmediale tog sin utgångspunkt i det fiktiva men möjliga mötet mellan IFPIs VD John Kennedy och [S23K](http://www.piratbyran.org/s23k) i samband med rättegången mot The Pirate Bay. Hur kan det vara möjligt att dessa två helt olika världar kan komma att ockupera samma fysiska utrymme? Kedjereaktionen som leder upp till mötet skissas. Från Piratbyråns start som en sammanlänkning av protokollen webradio + irc- + (antipiratbyrån - anti), via fildelningsdebatten och gryningsräden mot The Pirate Bay.

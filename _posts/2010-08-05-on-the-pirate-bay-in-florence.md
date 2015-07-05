@@ -2,7 +2,7 @@
 
 layout: post
 title: On the Pirate Bay in Florence 
-tags: english notswedish
+tags: english notswedish tldr
 date: 2010-08-05 10:14:44 +02:00 
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accelerationism I"
-tags: english swedish
+tags: english swedish tldr
 summary: Nick Land, Skynet och den cybernetiska intensifieringen
 date: 2010-09-16 09:52:04 +02:00
 image:

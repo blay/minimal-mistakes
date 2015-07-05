@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arbetsdefiniton av cybersecurity
-tags: english swedish 
+tags: english swedish tldr
 summary: Försöker utröna vad som egentligen menas med cybersecurity och var dess gränser går i ett samhälle med allnärvarande datorsystem
 ---
 

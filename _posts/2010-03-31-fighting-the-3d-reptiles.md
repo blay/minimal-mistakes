@@ -2,7 +2,7 @@
 
 layout: post
 title: Fighting the 3D Reptiles 
-tags: english notswedish
+tags: english notswedish tldr
 date: 2010-03-31 13:30:30 +02:00 
 
 ---

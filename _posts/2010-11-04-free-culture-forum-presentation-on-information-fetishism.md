@@ -2,7 +2,7 @@
 
 layout: post
 title: Free Culture Forum presentation on Information Fetishism 
-tags: english notswedish
+tags: english notswedish tldr
 date: 2010-11-04 21:24:12 +01:00 
 
 ---

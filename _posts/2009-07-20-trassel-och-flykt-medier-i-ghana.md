@@ -2,7 +2,7 @@
 
 layout: post
 title: "Trassel och flykt: medier i Ghana" 
-tags: english swedish 
+tags: english swedish tldr
 date: 2009-07-20 14:14:20 +02:00 
 
 ---

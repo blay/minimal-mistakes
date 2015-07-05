@@ -2,7 +2,7 @@
 
 layout: post
 title: "Författarfunktionären" 
-tags: swedish 
+tags: swedish tldr
 date: 2006-10-06 10:10:51 +02:00 
 
 ---
@@ -23,7 +23,7 @@ I en tillvaro utan författarfunktionen blir varje tolkningssituation kaotisk. T
 
 Detta är precis texttolkningens funktion: informationsbehandling. Att välja ut, behandla och överföra relevanta data. Det enda som behövs för att göra det maskinellt är att inte dölja den ideologiskt utan istället definiera funktionen matematiskt.
 
-Urval, sammanfogande, värderande kan skötas som decentraliserade system istället för via centrala figurer och Foucault verkar blicka mot sådana system i sin avslutning. På internet skymtar dessa funktioner genom tags, RSS-flöden och statistiska betygs- och rekommendationssystem som i kombination kan bestämma vilken text jag läser och hur jag tar emot den och värderar den. Google värderar sökträffar inte efter avsändare utan efter hur många som refererar till den och vilka de i sin tur refereras av.
+Urval, sammanfogande, värderande kan skötas som decentraliserade system istället för via centrala figurer och Foucault verkar blicka mot sådana system i sin avslutning. På internet skymtar dessa funktioner genom tags, RSS-flöden och statistiska betygs- och rekommendationssystem som i kombination kan bestämma vilken text jag läser och hur jag tar emot den och värderar den. Google värderar sökträffar inte efter avsändare utan efter hur många som refererar till den och vilka de i sin tur refereras av. tldr
 
 Foucault söker inte en kultur helt utan författarFUNKTION, det vore ren romantik och knappast mediateknologiskt medvetet. Utan någon slags begränsande figur (person eller maskin) skulle meningen bli oändlig och kaotisk. Men författaren, härkomsten, behöver inte vara den reglerande funktionen utan det kan skötas via andra medel. Författaren är enligt Foucault en figur väldigt typisk för det industriella, borgerliga samhället med individualitet och privategendom, tätt förknippad med de andra subjektskonstruktioner han har undersökt. En historisk undersökning av musikerrollen eller vem som inom filmen räknas som upphovsmannen skulle också visa all den skiftande karaktär författarfunktioner har haft.
 

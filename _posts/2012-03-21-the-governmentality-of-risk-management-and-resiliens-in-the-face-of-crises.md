@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Governmentality of Risk Management and Resiliens in the Face of Crises
-tags: english notswedish
+tags: english notswedish tldr
 summary: About the contemporary culture of constant, decentralized risk management and preparedness in the face of multiple crises and information uncertainties.
 ---
 

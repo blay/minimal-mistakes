@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heta linjen del två -- brytpunkten"
-tags: english swedish 
+tags: english swedish tldr
 summary: Jag har en hypotes. Heta linjen-upploppet markerar den exakta övergången från disciplinsamhället till kontrollsamhället i Sverige. 
 ---
 
@@ -20,7 +20,7 @@ Denna logik av inneslutning skiljer sig mot [kontrollsamhället](http://www.krig
 
 Vad har detta att göra med händelserna kring heta linjen-upploppet då?
 
-Jo, i disciplinsamhället leds vi som sagt från en institution till en annan. Detta är reflekterat i Televerkets kommentarer om de sociala behoven från [förra inlägget](2012-08-22-heta-linjen-upploppet-17-september-1982.html): Förutom undantagsfall så som gamla, sjuka och handikappade har samhället en plan för att uppfylla de sociala behoven. För ungdomar finns skola där man träffar skolkamrater, utrustad med kuratorer och kamratstödjare ifall det skulle vara så att någon hamnar utanför. Efter skolan finns idrottsklubbar där gemenskap och kamratanda frodas, diverse studiecirklar och intresseklubbar för de som inte är sportiga av sig, fritidsgårdar att gå ner till på kvällarna. Att det utöver dessa institutioner skulle finnas ytterligare sociala behov som skulle få ungdomarna att uppfinna buggar i telefonsystemet för att prata med varandra är otänkbart. 
+Jo, i disciplinsamhället leds vi som sagt från en institution till en annan. Detta är reflekterat i Televerkets kommentarer om de sociala behoven från [förra inlägget](2012-08-22-heta-linjen-upploppet-17-september-1982.html): Förutom undantagsfall så som gamla, sjuka och handikappade har samhället en plan för att uppfylla de sociala behoven. För ungdomar finns skola där man träffar skolkamrater, utrustad med kuratorer och kamratstödjare ifall det skulle vara så att någon hamnar utanför. Efter skolan finns idrottsklubbar där gemenskap och kamratanda frodas, diverse studiecirklar och intresseklubbar för de som inte är sportiga av sig, fritidsgårdar att gå ner till på kvällarna. Att det utöver dessa institutioner skulle finnas ytterligare sociala behov som skulle få ungdomarna att uppfinna buggar i telefonsystemet för att prata med varandra är otänkbart. tldr
 
 Telefonsystemet uppkom i disciplinsamhället. Det var aldrig meningen att telefonsamtal skulle få den här inverkan på verkligheten. Man skulle ringa någon, kanske en myndighet, och så var det klart med det. På sin höjd kunna använda telefonen för att kalla på polis eller ambulans, för att meddela att en situation hade uppstått där en viss institution skulle behöva rycka in för att hantera den (jämför inlägget om [modern riskhantering](2012-03-21-the-governmentality-of-risk-management-and-resiliens-in-the-face-of-crises.html)). Men att telefonerna skapar lösdrivande ungdomsgäng på stan -- otänkbart! I disciplinsamhället har vart medium sin plats. Icke så i kontrollsamhället. Där är den här typen av "läckor" mellan medier och verkligheten inte alls ovanliga. Ett typexempel är [the bored at work network](http://socialmediagovernance.com/blog/team-building/the-bored-at-work-network-by-jonah-peretti/) som består av alla kontorsarbetare världen över som sprider internet meme och roliga videos på arbetstid.
 

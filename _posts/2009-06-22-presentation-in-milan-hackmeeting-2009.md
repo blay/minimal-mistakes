@@ -2,7 +2,7 @@
 
 layout: post
 title: "Presentation in Milan: Hackmeeting 2009" 
-tags: english swedish 
+tags: english swedish tldr
 date: 2009-06-22 14:41:48 +02:00 
 
 ---

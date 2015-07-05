@@ -2,7 +2,7 @@
 layout: post
 summary: Discussed the limits of queer in control society
 title: Gender Blending and the Limits of Queer
-tags: english
+tags: english tldr
 image:
  feature: normcore_narrow.jpg
 ---

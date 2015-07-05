@@ -2,7 +2,7 @@
 
 layout: post
 title: Making things talk 
-tags: swedish 
+tags: swedish tldr
 date: 2009-08-13 16:28:22 +02:00 
 
 ---

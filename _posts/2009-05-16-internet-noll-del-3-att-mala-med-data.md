@@ -2,7 +2,7 @@
 
 layout: post
 title: "Internet noll - Del 3. Att måla med data" 
-tags: english swedish 
+tags: english swedish tldr
 date: 2009-05-16 21:21:57 +02:00 
 
 ---

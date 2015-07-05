@@ -2,7 +2,7 @@
 
 layout: post
 title: YAHP (Yet Another Heidegger Post) 
-tags: english swedish 
+tags: english swedish tldr
 date: 2009-08-10 23:16:40 +02:00 
 
 ---

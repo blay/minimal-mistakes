@@ -1,10 +1,8 @@
---- 
-
+---
 layout: post
-title: Unfinished aestethics 
-tags: english swedish 
-date: 2007-11-23 17:27:17 +01:00 
-
+title: Unfinished aestethics
+tags: english swedish tldr
+date: 2007-11-23 17:27:17 +01:00
 ---
 
 Som vi såg i förra inlägget så införde vi ett till lager i diagrammet som gör att vi inte enbart fokuserar på verk och slutprodukter. De streckade linjerna representerades snarare av processer och mer temporär produktion som är vad som ger ytterligare mening till produkten. Vi skippar polemiken från förra inlägget och rör oss mer i linje med Dorinel Marc fråga från hans projekt i [wmaoyw](http://www.whomakesandownsyourwork.org "wmaoyw"); "Can a genious book become even more genious?".
@@ -15,7 +13,7 @@ Jag vill inte ställa upp det som att processer tar över efter slutprodukternas
 
 Vi kan ta upp tre typer av förstelningar. Inspelad musik, tv-program och byggdnadsverk.
 
-Nyligen var det [No Music Day](http://fadetogrey.wordpress.com/2007/11/21/rapport-fran-no-music-day/ "No Music Day") som bekant och i samband med detta sände Radio Scottland [en intervju](http://www.zshare.net/audio/5062167c851d41/ "en intervju") med Bill Drummond där han beskriver sin uppfattning om dagens musikklimat. Han menar att inspelad musik var och kommer vara en sak för 1900-talet (det sena 1900-talet till och med) där en artists verk definierades av inspelandet av ett album och övriga aktiviteter var enbart sidospår. Så kommer det inte längre fungera menar Drummond. Vi kan tillskriva detta ett överflöd av tillgång på musik, en mängd olika plattformar där musik kan upplevas frivilligt eller ofrivilligt och kommunikationsteknologier som både kan mottaga och sända information.
+Nyligen var det [No Music Day](2007-11-21-rapport-fran-no-music-day.html) som bekant och i samband med detta sände Radio Scottland [en intervju](http://www.zshare.net/audio/5062167c851d41/ "en intervju") med Bill Drummond där han beskriver sin uppfattning om dagens musikklimat. Han menar att inspelad musik var och kommer vara en sak för 1900-talet (det sena 1900-talet till och med) där en artists verk definierades av inspelandet av ett album och övriga aktiviteter var enbart sidospår. Så kommer det inte längre fungera menar Drummond. Vi kan tillskriva detta ett överflöd av tillgång på musik, en mängd olika plattformar där musik kan upplevas frivilligt eller ofrivilligt och kommunikationsteknologier som både kan mottaga och sända information.
 
 Relationen mellan produkt och process utmålades i ett föredrag jag höll i Tjeckien om Piratbyrån: "We want to render such an idea [...a world where culture equals content and artists getting paid means copyright money...] unthinkable, forcing a re-writing of the map of cultural produciton from the viewpoint of the internets, removing the focus on end products and focus on the perfomative aspects that are always present but always forgotten. Because nothing begins or ends with the end product, with the content. Culture is a neverending process, it’s form and expressions interlock, change from one to the other. Ones output is anothers input. The content is not the central point in this process, it’s just traces left behind by the process that’s already going somewhere else."
 
@@ -31,9 +29,8 @@ Vi kan komplementera industrins fokusering på innehåll, produkt och verk med R
 
 För att gå vidare till ett mer påtagligt exempel på text kan vi nämna stjärnarkitekten Rem Koolhaas som just kommit med en artikel av vad han kallar "Post-occupancy", idén om att arkitektens arbete inte slutar när ett byggdnadsverk är byggt utan fortsätter efter byggdnaden blivit bebodd, när den så att säga blivit text, och har fått nya betydelser för arkitekten att åter reagera på.
 
-Överhuvudtaget verkar Rem nyligen ha gått igenom en kris där han tvivlat på arkitekturens språk och uppgift, relaterat till en värld av överflöd. Att arkitekturen som ["the language of space"](http://www.youtube.com/watch?v=3pPAtWjweeQ) inte kan hantera dagens situation. Han menar t.ex. att arkitekturen måste sluta fokusera på att bara lägga till saker, "move away from adding things". Vårt sätt att relatera till "space" idag kan inte bygga på att bara skapa nytt, utan lika mycket måste handla om att skrapa bort, omformulera och ge ny mening. 
+Överhuvudtaget verkar Rem nyligen ha gått igenom en kris där han tvivlat på arkitekturens språk och uppgift, relaterat till en värld av överflöd. Att arkitekturen som ["the language of space"](http://www.youtube.com/watch?v=3pPAtWjweeQ) inte kan hantera dagens situation. Han menar t.ex. att arkitekturen måste sluta fokusera på att bara lägga till saker, "move away from adding things". Vårt sätt att relatera till "space" idag kan inte bygga på att bara skapa nytt, utan lika mycket måste handla om att skrapa bort, omformulera och ge ny mening.
 
 Momus [skriver om post-occupancy](http://imomus.livejournal.com/331185.html "skriver om post-occupancy") (i förhållande till kvinnor...?) och nämner det traditionella japanska stilidealet "[Wabi Sabi](http://en.wikipedia.org/wiki/Wabi-sabi "Wabi Sabi")" (vilket den här bloggen var tänkt att heta om det inte var upptaget på alla hosting-domäner). "Wabi Sabi"-estetiken bygger på att ett objekts ofullkomlighet, förslitelse och åldring är tecken på skönhet och värdighet. Vi kan här dra oss till minnes [Piratbyråns valborgsritual](http://piratbyran.org/valborg "Piratbyråns valborgsritual"), bokbål två: "Fildelningsnätverk har en potential för att skapa mening, gemenskap och sammanhang - en större potential än vad många andra kopieringstekniker har. Vi vill fortsätta prata om hur den potentialen bä st kan förverkligas, hur kulturcirkulationen bäst ka n organiseras, hur arkivens lösgjorda energi bäst kan användas till annat än att stapla till en mur av objekt som vi känner allt mindre för."
 
 Move away from adding thing.
-
