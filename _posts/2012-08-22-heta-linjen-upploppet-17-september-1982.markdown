@@ -70,7 +70,7 @@ Men redan ett par veckor senare hade antalet ungdomar ökat explosionsartat. Soc
 
 > En vacker höstkväll i september 1982 samlades några dussin brokigt utstyrda unga människor på Fridhemsplan: helt vanliga skolungdomar, inga organiserade motorcykelgäng. Inte heller stadens fåtaliga punkare och anarkister var representerade annat än med med några få ombud. Oavbrutet dök nykomlingar upp ur tunnelbanans djup. Ingen visste var de kom ifrån och vad de hade för avsikter. De tycktes inte demonstrera för eller mot något. De bara fanns där, stod i löst sammanhållna grupper och pratade med varandra.
 >
-> [Hans-Magnus Enzensberger](http://www.blay.se/hetalinjen.html)
+> [Hans-Magnus Enzensberger](ref/hetalinjen.html)
 
 Antalet uppgick snart till närmare tusen ungdomar. Något liknande hade aldrig tidigare upplevts. Okontrollerbara men ändå så lugna. Kanske hade de en hemlig plan? Kanske var de påverkade av något? De kanske var ute efter bråk? Polisen tog det säkra före det osäkra och beslutade att skingra klungan.
 

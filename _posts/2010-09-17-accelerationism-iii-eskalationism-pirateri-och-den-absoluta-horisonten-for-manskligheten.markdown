@@ -8,7 +8,7 @@ date: 2010-09-17 15:28:42 +02:00
 
 ---
 
-*Det här inlägget bygger vidare på [accelerationism-inläggen](http://www.blay.se/index.php?s=accelerationism) och seminariet, men utforskar mer fritt möjliga skillnader mellan accelerationism och eskalationism som begrepp och strategier.*
+*Det här inlägget bygger vidare på accelerationism-inläggen [1]()[2]()[3]()[4]()[5]() och seminariet, men utforskar mer fritt möjliga skillnader mellan accelerationism och eskalationism som begrepp och strategier.*
 
 Accelerationism är som i tidigare inlägg beskrevs som ett speciellt förhållningssätt till (kapitalistisk) kris eller omställning. Istället för att svara på kris med krav på nedbromsning och återupprättad trygghet svarar accelerationismen med att utveckla och snabba på krisens tendenser. Dock måste det betonas att accelerationismen är ett *svar på* och ett förstärkande av kriser. Den iscensätter själv inte kriser. En annan strategi, som [Copyriot har benämnt 'escalationism'](http://copyriot.se/2010/01/13/pirate-politics-from-accelerationism-to-escalationism/) och kopplat samman med hacking kan däremot sägas göra det. Låt oss ta två exempel.
 
