@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing Information Uncertainties in Real-time Politics
-categories: english notswedish
+tags: english notswedish
 ---
 
 Internet has in the last years developed an astonishing ability to react to events in real-time and affect them as they are happening. This is truly an evolution of the net and something very powerful. In the process, however, a problematic relation between information and action arise. 

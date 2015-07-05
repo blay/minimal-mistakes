@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heta linjen-upploppet 17 september 1982
-categories: swedish tldr 
+tags: swedish tldr 
 summary: Den 17e september 1982 samlades ett tusental ungdomar i Rålambshovsparken till synes utan syfte. Polis gick till attack och stenkastning utbröt. Man menade att en bugg i telefonsystemet -- "heta linjen" -- låg bakom upploppet. 30 år senare är det dags att ge denna händelse till rätta plats i nätpolitikens historia.
 image:
  feature: heta_narrow.jpg

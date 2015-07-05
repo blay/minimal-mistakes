@@ -2,7 +2,7 @@
 
 layout: post
 title: "Författarfunktionären" 
-categories: swedish 
+tags: swedish 
 date: 2006-10-06 10:10:51 +02:00 
 
 ---

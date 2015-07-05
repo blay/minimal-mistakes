@@ -2,7 +2,7 @@
 
 layout: post
 title: "Kopimismens sällskap" 
-categories: swedish 
+tags: swedish 
 date: 2010-05-24 18:46:51 +02:00 
 
 ---

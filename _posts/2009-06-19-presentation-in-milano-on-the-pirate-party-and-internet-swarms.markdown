@@ -2,7 +2,7 @@
 
 layout: post
 title: Presentation in Milano on the Pirate Party and Internet Swarms 
-categories: english tldr 
+tags: english tldr 
 date: 2009-06-19 18:59:28 +02:00 
 
 ---

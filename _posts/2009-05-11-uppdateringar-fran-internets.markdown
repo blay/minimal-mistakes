@@ -2,7 +2,7 @@
 
 layout: post
 title: "Uppdateringar från internets" 
-categories: swedish 
+tags: swedish 
 date: 2009-05-11 23:11:13 +02:00 
 
 ---

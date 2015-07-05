@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: A Travellers Report
-categories: english notswedish
+tags: english notswedish
 summary: "Reflection of coming to a new place"
 ---
 

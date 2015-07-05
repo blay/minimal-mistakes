@@ -2,7 +2,7 @@
 
 layout: post
 title: "Rapid protopyting II - Produktionsförhållanden" 
-categories: swedish 
+tags: swedish 
 date: 2009-03-19 22:54:44 +01:00 
 
 ---

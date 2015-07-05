@@ -2,7 +2,7 @@
 
 layout: post
 title: Transitio Clinic 
-categories: english tldr notswedish
+tags: english tldr notswedish
 date: 2009-10-11 00:00:39 +02:00 
 
 ---

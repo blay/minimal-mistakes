@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Position and Design
-categories: english notswedish research
+tags: english notswedish research
 summary: I have a new research position and the blog has a new design.
 ---
 

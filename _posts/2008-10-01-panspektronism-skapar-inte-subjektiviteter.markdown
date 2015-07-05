@@ -2,7 +2,7 @@
 
 layout: post
 title: Panspektronism skapar inte subjektiviteter 
-categories: swedish 
+tags: swedish 
 date: 2008-10-01 19:20:03 +02:00 
 
 ---

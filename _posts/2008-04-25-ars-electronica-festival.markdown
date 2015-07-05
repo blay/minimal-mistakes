@@ -2,7 +2,7 @@
 
 layout: post
 title: Ars Electronica FESTIVAL 
-categories: english notswedish
+tags: english notswedish
 date: 2008-04-25 09:45:16 +02:00 
 
 ---

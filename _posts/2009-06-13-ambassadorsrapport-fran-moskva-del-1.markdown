@@ -2,7 +2,7 @@
 
 layout: post
 title: "Ambassadörsrapport från Moskva: Del 1" 
-categories: swedish 
+tags: swedish 
 date: 2009-06-13 11:31:11 +02:00 
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jason Lanier om internätet som förstörde ekonomin
-categories: english swedish 
+tags: english swedish 
 summary: Jason Lanier tror att internet förstörde ekonomin
 ---
 Jason Lanier, en Silicon Valley-guru mest känd för att ha populariserat begreppet virtual reality och för sina stora dreads, har tydligen nyligen vänt sig mot webben och önskar i princip att den aldrig kom till. Detta främst av tre anledningar som har ger i en [intervju i Smithsonian](http://www.smithsonianmag.com/arts-culture/What-Turned-Jaron-Lanier-Against-the-Web-183832741.html?c=y&story=fullstory). Med tanke på att anledning nummer två är att han menar att internet fått så många att tro på att singulariteten är närvarande eller redan skett kan man ha rätt stor förståelse för hans position. Om jag kom från en kalifornisk miljö där det var den dominerande uppfattningen skulle jag nog också ta mig en rejäl funderare över vart världen är på väg. Anledning nummer tre är att har oroar sig för att anonyma kommentarer skapar ett mobbvälde kapabelt att lansera "social lasers of cruelty" som kan få förödande konsekvenser för den som drabbas. Träffande uttryck! Men det jag ska ta upp här är den första anledningen där han menar att internet har förstört ekonomin. Denna är mer intressant eftersom han i princip har en korrekt verklighetsbeskrivning av det samtida läget men tror att internet (inklusive, men inte enbart, fildelning) är orsaken till detta snarare än ett symptom som löpt längs med andra makroekonomiska utvecklingar. 

@@ -2,7 +2,7 @@
 
 layout: post
 title: Hur man jobbar EU som Latour 
-categories: swedish 
+tags: swedish 
 date: 2009-04-02 12:11:16 +02:00 
 
 ---

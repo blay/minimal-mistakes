@@ -2,7 +2,7 @@
 
 layout: post
 title: Transmediale 
-categories: swedish 
+tags: swedish 
 date: 2009-01-27 02:15:32 +01:00 
 
 ---

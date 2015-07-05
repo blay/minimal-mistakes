@@ -2,7 +2,7 @@
 
 layout: post
 title: Om teknikdeterminism 
-categories: swedish 
+tags: swedish 
 date: 2009-02-07 14:17:41 +01:00 
 
 ---

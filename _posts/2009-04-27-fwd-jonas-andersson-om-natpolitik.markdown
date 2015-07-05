@@ -2,7 +2,7 @@
 
 layout: post
 title: "Fwd: Jonas Andersson om nätpolitik" 
-categories: swedish 
+tags: swedish 
 date: 2009-04-27 18:36:49 +02:00 
 
 ---

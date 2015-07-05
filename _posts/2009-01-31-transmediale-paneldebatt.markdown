@@ -2,7 +2,7 @@
 
 layout: post
 title: "Transmediale: Paneldebatt" 
-categories: swedish 
+tags: swedish 
 date: 2009-01-31 15:02:37 +01:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: Talk like a kopimist 
-categories: swedish 
+tags: swedish 
 date: 2008-09-18 11:32:13 +02:00 
 
 ---

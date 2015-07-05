@@ -2,7 +2,7 @@
 
 layout: post
 title: Objekt och aura 
-categories: swedish 
+tags: swedish 
 date: 2009-03-05 20:13:43 +01:00 
 
 ---

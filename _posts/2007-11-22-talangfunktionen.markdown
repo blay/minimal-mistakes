@@ -2,7 +2,7 @@
 
 layout: post
 title: Talangfunktionen 
-categories: english swedish 
+tags: english swedish 
 date: 2007-11-22 23:04:53 +01:00 
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Alternatives, Defences and Attacks of Net Politics
-categories: english tldr notswedish
+tags: english tldr notswedish
 summary: The relation between three tendencies in net politics and how they risk sabotaging for each other.
 ---
 

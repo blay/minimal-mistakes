@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Plain Text"
-categories: swedish 
+tags: swedish 
 comments: true
-categories: information
+tags: information
 summary: Plain text som lätt medium och film som tungt medium
 published: true
 ---

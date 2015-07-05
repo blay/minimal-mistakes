@@ -2,7 +2,7 @@
 
 layout: post
 title: Cyborg und Exoskeleton in irssi 
-categories: english notswedish
+tags: english notswedish
 date: 2007-12-08 01:24:28 +01:00 
 
 ---

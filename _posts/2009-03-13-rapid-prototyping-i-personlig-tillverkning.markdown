@@ -2,7 +2,7 @@
 
 layout: post
 title: Rapid Prototyping I - personlig tillverkning 
-categories: english swedish 
+tags: english swedish 
 date: 2009-03-13 17:55:16 +01:00 
 
 ---

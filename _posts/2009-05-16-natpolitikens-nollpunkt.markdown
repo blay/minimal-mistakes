@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Nätpolitikens nollpunkt" 
-categories: swedish 
+tags: swedish 
 date: 2009-05-16 20:08:21 +02:00 
 
 ---

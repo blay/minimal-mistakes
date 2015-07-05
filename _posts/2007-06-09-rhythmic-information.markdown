@@ -2,7 +2,7 @@
 
 layout: post
 title: Rhythmic Information 
-categories: english notswedish
+tags: english notswedish
 date: 2007-06-09 12:00:34 +02:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: Transmisol 
-categories: english notswedish
+tags: english notswedish
 date: 2009-10-07 04:13:45 +02:00 
 
 ---

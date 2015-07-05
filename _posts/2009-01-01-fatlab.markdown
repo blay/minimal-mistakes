@@ -2,7 +2,7 @@
 layout: post
 title: F.A.T. Lab
 summary: Web and New York based art collective
-categories: art
+tags: art
 image:
  feature:
  thumb: fatlab.jpg

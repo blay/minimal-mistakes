@@ -2,7 +2,7 @@
 
 layout: post
 title: Theremin och lampa 
-categories: swedish 
+tags: swedish 
 date: 2009-03-11 17:53:57 +01:00 
 
 ---

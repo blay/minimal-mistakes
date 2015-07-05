@@ -2,7 +2,7 @@
 
 layout: post
 title: "TPB #90 on Alexa!" 
-categories: notswedish
+tags: notswedish
 date: 2008-04-17 01:40:57 +02:00 
 
 ---

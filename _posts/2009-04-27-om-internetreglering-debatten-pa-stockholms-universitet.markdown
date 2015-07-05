@@ -2,7 +2,7 @@
 
 layout: post
 title: "Om internetreglering - Debatten på Stockholms Universitet" 
-categories: swedish tldr 
+tags: swedish tldr 
 date: 2009-04-27 10:45:32 +02:00 
 
 ---

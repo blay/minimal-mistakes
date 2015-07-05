@@ -2,7 +2,7 @@
 
 layout: post
 title: Quote by Anna-Lena Carlsson about Nietzsche and creativity 
-categories: english swedish 
+tags: english swedish 
 date: 2008-04-20 02:56:00 +02:00 
 
 ---

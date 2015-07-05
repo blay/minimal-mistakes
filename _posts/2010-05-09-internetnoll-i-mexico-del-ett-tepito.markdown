@@ -2,7 +2,7 @@
 
 layout: post
 title: "InternetNoll i Mexico: Del ett - Tepito" 
-categories: english swedish 
+tags: english swedish 
 date: 2010-05-09 01:42:44 +02:00 
 
 ---

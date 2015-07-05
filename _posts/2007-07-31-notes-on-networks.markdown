@@ -2,7 +2,7 @@
 
 layout: post
 title: Notes on Networks 
-categories: english notswedish
+tags: english notswedish
 date: 2007-07-31 09:14:58 +02:00 
 
 ---

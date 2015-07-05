@@ -2,7 +2,7 @@
 
 layout: post
 title: "Accelerationism III"
-categories: swedish tldr
+tags: swedish tldr
 summary: Eskalationism, pirateri och den absoluta horisonten för mänskligheten
 date: 2010-09-17 15:28:42 +02:00
 image:

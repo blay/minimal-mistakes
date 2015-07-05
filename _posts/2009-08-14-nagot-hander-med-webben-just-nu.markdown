@@ -2,7 +2,7 @@
 
 layout: post
 title: "Något händer med webben just nu" 
-categories: english swedish tldr 
+tags: english swedish tldr 
 date: 2009-08-14 20:34:54 +02:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: "Hackerspacets utsträckning" 
-categories: swedish 
+tags: swedish 
 date: 2009-12-15 11:28:02 +01:00 
 
 ---

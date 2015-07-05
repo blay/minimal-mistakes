@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bevara Internet Resurrected
-categories: swedish 
+tags: swedish 
 summary: Räddade "Bevara Internet" som låg begraven i en databas och som nu fått ett nytt hem
 ---
 Idag lyckades ett team på irc hitta och rädda den gamla siten bevarainternet.se som vars domän tagits över av SEO-maffian. Den fick ett nytt hem på [bevarainternet.magnu.se](http://bevarainternet.magnu.se/).

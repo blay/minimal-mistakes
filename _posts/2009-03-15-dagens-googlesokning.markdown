@@ -2,7 +2,7 @@
 
 layout: post
 title: "Dagens googlesökning" 
-categories: swedish 
+tags: swedish 
 date: 2009-03-15 23:01:08 +01:00 
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things and Objects"
-categories: english tldr notswedish
+tags: english tldr notswedish
 summary: Commentary on the book "Things" from Bill Brown
 image:
  feature: things_narrow.jpg

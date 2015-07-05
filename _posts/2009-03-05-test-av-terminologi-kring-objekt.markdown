@@ -2,7 +2,7 @@
 
 layout: post
 title: Test av terminologi kring objekt 
-categories: swedish 
+tags: swedish 
 date: 2009-03-05 23:59:03 +01:00 
 
 ---

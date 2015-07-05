@@ -2,7 +2,7 @@
 
 layout: post
 title: P2P seminar @ ku.dk 
-categories: english notswedish
+tags: english notswedish
 date: 2007-10-12 22:52:18 +02:00 
 
 ---

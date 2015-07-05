@@ -2,7 +2,7 @@
 
 layout: post
 title: Rapid Prototyping III - RepRap 
-categories: swedish 
+tags: swedish 
 date: 2009-03-20 18:06:51 +01:00 
 
 ---

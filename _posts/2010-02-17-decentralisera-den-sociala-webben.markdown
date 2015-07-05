@@ -2,7 +2,7 @@
 
 layout: post
 title: Decentralisera den sociala webben 
-categories: english swedish 
+tags: english swedish 
 date: 2010-02-17 12:29:03 +01:00 
 
 ---

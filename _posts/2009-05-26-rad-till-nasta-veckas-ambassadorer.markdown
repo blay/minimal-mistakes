@@ -2,7 +2,7 @@
 
 layout: post
 title: "Råd till nästa veckas ambassadörer" 
-categories: english swedish tldr 
+tags: english swedish tldr 
 date: 2009-05-26 19:42:13 +02:00 
 
 ---

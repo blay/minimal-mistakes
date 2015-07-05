@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Falling Drones
-categories: english notswedish
+tags: english notswedish
 summary: What is the probability of getting hit in the head by a falling drone?
 ---
 I wonder what will be the worst threat in the future, military and police drones ... or failing artist/entrepreneur/advertising  drones falling from the sky in the thousands.

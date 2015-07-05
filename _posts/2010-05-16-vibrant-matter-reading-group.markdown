@@ -2,7 +2,7 @@
 
 layout: post
 title: Vibrant Matter reading group 
-categories: english notswedish
+tags: english notswedish
 date: 2010-05-16 03:42:55 +02:00 
 
 ---

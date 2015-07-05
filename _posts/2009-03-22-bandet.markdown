@@ -2,7 +2,7 @@
 
 layout: post
 title: Bandet 
-categories: swedish 
+tags: swedish 
 date: 2009-03-22 18:14:10 +01:00 
 
 ---

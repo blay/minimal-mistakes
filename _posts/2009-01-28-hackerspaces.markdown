@@ -2,7 +2,7 @@
 
 layout: post
 title: Hackerspaces 
-categories: english swedish 
+tags: english swedish 
 date: 2009-01-28 11:31:34 +01:00 
 
 ---

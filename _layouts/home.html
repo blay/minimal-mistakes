@@ -34,7 +34,7 @@
   </div>
   <div id="index">
     <h3><a href="archive.html">Recent Posts</a></h3>
-    {% for post in site.categories.tldr limit:5 %}
+    {% for post in site.tags.tldr limit:5 %}
     <article>
       {% if post.link %}
         <h2 class="link-post"><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>

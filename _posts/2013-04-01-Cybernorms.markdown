@@ -2,7 +2,7 @@
 layout: post
 title: Cybernorms
 summary: Research group at Lund University
-categories: academic
+tags: academic
 image:
  feature:
  thumb: cybernormer.jpg

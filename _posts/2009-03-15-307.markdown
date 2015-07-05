@@ -2,7 +2,7 @@
 
 layout: post
 title: Lundblad om Heidegger II 
-categories: swedish 
+tags: swedish 
 date: 2009-03-15 20:58:44 +01:00 
 
 ---

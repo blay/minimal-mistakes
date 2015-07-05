@@ -2,7 +2,7 @@
 
 layout: post
 title: Wayne Gretzky som signalspanare 
-categories: english swedish 
+tags: english swedish 
 date: 2008-10-01 01:32:42 +02:00 
 
 ---

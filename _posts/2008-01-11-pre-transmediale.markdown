@@ -2,7 +2,7 @@
 
 layout: post
 title: Pre-Transmediale 
-categories: english swedish 
+tags: english swedish 
 date: 2008-01-11 16:33:26 +01:00 
 
 ---

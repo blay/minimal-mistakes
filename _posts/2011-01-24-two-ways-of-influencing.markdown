@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two ways of influencing
-categories: english notswedish
+tags: english notswedish
 ---
 
   Our worldviews are shaped by the streams of information that reaches us.

@@ -2,7 +2,7 @@
 
 layout: post
 title: Delad naturupplevelse 
-categories: swedish 
+tags: swedish 
 date: 2007-04-14 19:28:55 +02:00 
 
 ---

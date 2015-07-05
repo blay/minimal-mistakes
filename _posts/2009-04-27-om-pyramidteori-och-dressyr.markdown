@@ -2,7 +2,7 @@
 
 layout: post
 title: Om pyramidteori och dressyr 
-categories: english swedish 
+tags: english swedish 
 date: 2009-04-27 12:08:20 +02:00 
 
 ---

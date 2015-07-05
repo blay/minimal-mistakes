@@ -2,7 +2,7 @@
 
 layout: post
 title: Foreclosure Alley 
-categories: notswedish
+tags: notswedish
 date: 2008-10-02 15:56:28 +02:00 
 
 ---

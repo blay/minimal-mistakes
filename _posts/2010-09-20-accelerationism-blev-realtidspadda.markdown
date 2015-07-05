@@ -2,7 +2,7 @@
 
 layout: post
 title: Accelerationism blev realtidspadda
-categories: swedish
+tags: swedish
 date: 2010-09-20 22:37:01 +02:00
 image:
  feature: acceleration4_narrow.png

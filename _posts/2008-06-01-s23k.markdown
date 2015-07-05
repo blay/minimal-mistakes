@@ -2,7 +2,7 @@
 layout: post
 title: S23M/X/K
 summary: Art project by Piratbyrån consisting of a repurposed 1970s city bus. Originally at Manifesta 7.
-categories: art
+tags: art
 image:
  feature:
  thumb: s23k.jpg

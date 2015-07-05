@@ -2,7 +2,7 @@
 layout: post
 title: Gothenburg Hackerspace
 summary: Hackerspace in Gothenburg
-categories: internet
+tags: internet
 image:
  feature:
  thumb: ghs.jpg

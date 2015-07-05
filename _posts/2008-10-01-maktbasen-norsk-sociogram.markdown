@@ -2,7 +2,7 @@
 
 layout: post
 title: Maktbasen - Norsk sociogram 
-categories: notswedish
+tags: notswedish
 date: 2008-10-01 23:28:20 +02:00 
 
 ---

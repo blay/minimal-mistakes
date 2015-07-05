@@ -2,7 +2,7 @@
 
 layout: post
 title: "Tillsammans räddar vi skunk.nu!" 
-categories: swedish 
+tags: swedish 
 date: 2009-05-12 14:01:28 +02:00 
 
 ---

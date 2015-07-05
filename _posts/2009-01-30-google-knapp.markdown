@@ -2,7 +2,7 @@
 
 layout: post
 title: Google-knapp 
-categories: notswedish
+tags: notswedish
 date: 2009-01-30 15:49:54 +01:00 
 
 ---

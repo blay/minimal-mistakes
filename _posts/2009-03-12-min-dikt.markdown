@@ -2,7 +2,7 @@
 
 layout: post
 title: "Min dikt" 
-categories: swedish 
+tags: swedish 
 date: 2009-03-12 15:38:24 +01:00 
 
 ---

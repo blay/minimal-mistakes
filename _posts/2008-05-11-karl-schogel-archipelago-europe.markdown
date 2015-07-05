@@ -2,7 +2,7 @@
 
 layout: post
 title: "Karl Schögel - Archipelago Europe" 
-categories: swedish 
+tags: swedish 
 date: 2008-05-11 13:38:38 +02:00 
 
 ---

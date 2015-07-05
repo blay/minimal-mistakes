@@ -2,7 +2,7 @@
 
 layout: post
 title: "Presentation in Milan: Mansurs presentation" 
-categories: swedish 
+tags: swedish 
 date: 2009-06-22 14:54:43 +02:00 
 
 ---

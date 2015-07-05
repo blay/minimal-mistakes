@@ -2,7 +2,7 @@
 
 layout: post
 title: Free establishment of communications (abstract) 
-categories: english notswedish
+tags: english notswedish
 date: 2006-09-20 01:49:11 +02:00 
 
 ---

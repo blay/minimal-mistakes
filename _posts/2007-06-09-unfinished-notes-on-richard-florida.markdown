@@ -2,7 +2,7 @@
 
 layout: post
 title: Unfinished notes on Richard Florida 
-categories: english notswedish
+tags: english notswedish
 date: 2007-06-09 15:42:27 +02:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: "singularitetspunkt upptäckt på youtube" 
-categories: swedish 
+tags: swedish 
 date: 2009-06-10 13:55:43 +02:00 
 
 ---

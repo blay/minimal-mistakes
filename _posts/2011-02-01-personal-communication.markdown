@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personal communication
-categories: english notswedish
+tags: english notswedish
 ---
   The Personal Computer, this machine that we access on an individual
   basis, connected to static power sockets and broadband connection

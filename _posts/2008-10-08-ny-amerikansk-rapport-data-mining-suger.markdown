@@ -2,7 +2,7 @@
 
 layout: post
 title: "Ny amerikansk rapport: Data mining suger" 
-categories: english swedish 
+tags: english swedish 
 date: 2008-10-08 11:08:08 +02:00 
 
 ---

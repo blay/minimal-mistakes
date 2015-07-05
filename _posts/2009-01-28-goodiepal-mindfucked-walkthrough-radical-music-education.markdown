@@ -2,7 +2,7 @@
 
 layout: post
 title: Goodiepal Mindfucked Walkthrough Radical Music Education 
-categories: notswedish
+tags: notswedish
 date: 2009-01-28 02:21:15 +01:00 
 
 ---

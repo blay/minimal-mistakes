@@ -2,7 +2,7 @@
 
 layout: post
 title: "Svar på italienska frågor" 
-categories: english swedish 
+tags: english swedish 
 date: 2010-04-19 19:50:18 +02:00 
 
 ---

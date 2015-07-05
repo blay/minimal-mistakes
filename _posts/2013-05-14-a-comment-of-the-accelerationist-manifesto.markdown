@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Comment of the Accelerationist Manifesto
-categories: english notswedish
+tags: english notswedish
 image:
  feature: acceleration5_narrow.png
 ---

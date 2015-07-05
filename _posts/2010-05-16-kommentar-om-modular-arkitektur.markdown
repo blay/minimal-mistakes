@@ -2,7 +2,7 @@
 
 layout: post
 title: "Kommentar om modulär arkitektur" 
-categories: swedish 
+tags: swedish 
 date: 2010-05-16 10:51:48 +02:00 
 
 ---

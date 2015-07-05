@@ -2,7 +2,7 @@
 
 layout: post
 title: "Kontexter i rundgång" 
-categories: english swedish 
+tags: english swedish 
 date: 2007-03-15 21:56:16 +01:00 
 
 ---

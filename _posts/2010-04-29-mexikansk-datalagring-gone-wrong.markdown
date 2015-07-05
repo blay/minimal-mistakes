@@ -2,7 +2,7 @@
 
 layout: post
 title: Mexikansk datalagring gone wrong 
-categories: swedish 
+tags: swedish 
 date: 2010-04-29 12:39:02 +02:00 
 
 ---

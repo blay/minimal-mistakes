@@ -2,7 +2,7 @@
 
 layout: post
 title: Pirates of the Amazon takedown 
-categories: english swedish 
+tags: english swedish 
 date: 2008-12-05 10:39:42 +01:00 
 
 ---

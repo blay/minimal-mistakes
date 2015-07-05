@@ -2,7 +2,7 @@
 
 layout: post
 title: Transmediale - Bill Drummond 
-categories: english swedish 
+tags: english swedish 
 date: 2009-01-27 15:55:34 +01:00 
 
 ---

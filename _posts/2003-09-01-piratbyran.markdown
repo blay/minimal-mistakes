@@ -2,7 +2,7 @@
 layout: post
 title: Piratbyrån
 summary: Think tank, hackers, prankters
-categories: internet
+tags: internet
 image:
  feature:
  thumb: piratbyran.jpg

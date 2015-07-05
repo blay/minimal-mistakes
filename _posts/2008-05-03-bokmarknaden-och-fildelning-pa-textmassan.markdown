@@ -2,7 +2,7 @@
 
 layout: post
 title: "Bokmarknaden och fildelning på Textmässan" 
-categories: swedish 
+tags: swedish 
 date: 2008-05-03 13:00:36 +02:00 
 
 ---

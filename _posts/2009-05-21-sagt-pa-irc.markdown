@@ -2,7 +2,7 @@
 
 layout: post
 title: "Sagt på irc..." 
-categories: swedish 
+tags: swedish 
 date: 2009-05-21 23:56:42 +02:00 
 
 ---

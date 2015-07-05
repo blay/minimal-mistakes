@@ -2,7 +2,7 @@
 
 layout: post
 title: "Om den tillfällige besökaren" 
-categories: english swedish 
+tags: english swedish 
 date: 2008-05-14 23:28:22 +02:00 
 
 ---

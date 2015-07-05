@@ -2,7 +2,7 @@
 
 layout: post
 title: "Internet noll - Del 1. överflöd och strömmar" 
-categories: swedish 
+tags: swedish 
 date: 2009-05-04 14:49:59 +02:00 
 
 ---

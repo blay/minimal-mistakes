@@ -2,7 +2,7 @@
 
 layout: post
 title: Epidemiska beteenden 
-categories: swedish 
+tags: swedish 
 date: 2009-04-29 00:58:50 +02:00 
 
 ---

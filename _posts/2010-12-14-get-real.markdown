@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get Real
-categories: english notswedish
+tags: english notswedish
 ---
 I was reading [Mark Fishers account](http://k-punk.abstractdynamics.org/archives/011750.html) of the london protests yesterday (read it!) and started thinking about what he says about pop culture. Developing his line of thought a bit I would restate it as follows:
 

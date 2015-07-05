@@ -2,7 +2,7 @@
 
 layout: post
 title: Teleskopisk text 
-categories: swedish 
+tags: swedish 
 date: 2008-08-21 12:38:36 +02:00 
 
 ---

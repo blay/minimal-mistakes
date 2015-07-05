@@ -2,7 +2,7 @@
 
 layout: post
 title: Ping, pong, plong. 
-categories: swedish 
+tags: swedish 
 date: 2009-01-25 00:46:36 +01:00 
 
 ---

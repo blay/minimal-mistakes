@@ -2,7 +2,7 @@
 
 layout: post
 title: "Fildelningsdebattens kräftgång" 
-categories: swedish 
+tags: swedish 
 date: 2008-01-22 16:11:13 +01:00 
 
 ---

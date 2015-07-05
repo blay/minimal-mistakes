@@ -2,7 +2,7 @@
 
 layout: post
 title: "Skillnad på nätverksägare och hundägare" 
-categories: swedish 
+tags: swedish 
 date: 2008-11-27 12:35:37 +01:00 
 
 ---

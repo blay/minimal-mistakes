@@ -2,7 +2,7 @@
 
 layout: post
 title: Goro Tronsmo pluggar s23x 
-categories: swedish 
+tags: swedish 
 date: 2008-12-09 02:11:01 +01:00 
 
 ---

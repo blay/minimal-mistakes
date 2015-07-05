@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Det missionerande kopimistförbundet
-categories: swedish 
+tags: swedish 
 summary: Den nya kyrkan och dess framtid
 ---
 

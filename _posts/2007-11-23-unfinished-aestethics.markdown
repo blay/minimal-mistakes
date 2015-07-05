@@ -2,7 +2,7 @@
 
 layout: post
 title: Unfinished aestethics 
-categories: english swedish 
+tags: english swedish 
 date: 2007-11-23 17:27:17 +01:00 
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conspiracies for Good
-categories: english tldr notswedish
+tags: english tldr notswedish
 summary: Critical take on the philosophy of conspiracy from Julian Assange with examples from The Wire (includes SPOILERS).
 ---
 <script type="text/javascript"  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>

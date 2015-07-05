@@ -2,7 +2,7 @@
 
 layout: post
 title: "Rapport från No Music Day" 
-categories: swedish 
+tags: swedish 
 date: 2007-11-21 22:04:48 +01:00 
 
 ---

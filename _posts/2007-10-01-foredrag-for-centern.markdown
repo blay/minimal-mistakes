@@ -2,7 +2,7 @@
 
 layout: post
 title: "Föredrag för centern" 
-categories: swedish 
+tags: swedish 
 date: 2007-10-01 21:57:49 +02:00 
 
 ---

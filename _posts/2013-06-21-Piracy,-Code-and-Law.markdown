@@ -1,11 +1,10 @@
 ---
-layout: post 
-title: Piracy, Code and Law 
-summary: Presentation about control, code, immaterialization and law and piracy as the disturbance of the flow of control. 
-categories: english notswedish tldr 
-tags: phd event
+layout: post
+title: Piracy, Code and Law
+summary: Presentation about control, code, immaterialization and law and piracy as the disturbance of the flow of control.
+tags: english notswedish tldr
 image: 
- feature: harbour_narrow.jpg 
+ feature: harbour_narrow.jpg
 ---
 
 <section id="table-of-contents" class="toc">
@@ -87,7 +86,7 @@ From this, there are several paths to take. Since the topic of this conference s
 # Relevant Articles
 
 - [Chun, 2006](http://wiki.magnu.se/wiki/ref:Chun2006Control)Chun, W. H. K. (2006). Control and freedom: power and paranoia in the age of fiber optics. Cambridge, Mass.: MIT Press.
-- [Chun, 2008](http://wiki.magnu.se/wiki/ref:Chun2008On-sourcery)Chun, W. H. K. (2008). On" sourcery," or code as fetish. Configurations, 16(3), 299--324. 
+- [Chun, 2008](http://wiki.magnu.se/wiki/ref:Chun2008On-sourcery)Chun, W. H. K. (2008). On" sourcery," or code as fetish. Configurations, 16(3), 299--324.
 - [Hayles, 1993](http://wiki.magnu.se/wiki/ref:Hayles1993The-materiality)Hayles, N. K. (1993). The materiality of informatics. Configurations, 1(1), 147--170.
 - [Larkin, 2007](http://wiki.magnu.se/wiki/ref:Larkin2007Pirate)Larkin, B. (2007). Pirate infrastructures. Structures of Participation in Digital Culture, ed.
 - [Liang, 2005](http://wiki.magnu.se/wiki/ref:Liang2005Porous)Liang, L. (2005). Porous legalities and avenues of participation. Sarai Reader, 5, 6--17.
@@ -106,4 +105,4 @@ From this, there are several paths to take. Since the topic of this conference s
 
 [^6]: [liang2005porous](http://wiki.magnu.se/wiki/ref:liang2005porous "ref:liang2005porous")
 
-[^7]: [larkin2007pirate](http://wiki.magnu.se/wiki/ref:larkin2007pirate "ref:larkin2007pirate") 
+[^7]: [larkin2007pirate](http://wiki.magnu.se/wiki/ref:larkin2007pirate "ref:larkin2007pirate")

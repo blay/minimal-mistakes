@@ -2,7 +2,7 @@
 
 layout: post
 title: Too Short on Information 
-categories: english notswedish
+tags: english notswedish
 date: 2007-06-07 11:16:30 +02:00 
 
 ---

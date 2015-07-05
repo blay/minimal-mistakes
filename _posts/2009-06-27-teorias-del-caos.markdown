@@ -2,7 +2,7 @@
 
 layout: post
 title: Teorias Del Caos 
-categories: english notswedish
+tags: english notswedish
 date: 2009-06-27 21:33:22 +02:00 
 
 ---

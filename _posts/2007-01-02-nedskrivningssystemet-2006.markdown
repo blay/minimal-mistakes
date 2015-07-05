@@ -2,7 +2,7 @@
 
 layout: post
 title: Nedskrivningssystemet 2006 
-categories: swedish 
+tags: swedish 
 date: 2007-01-02 16:16:29 +01:00 
 
 ---

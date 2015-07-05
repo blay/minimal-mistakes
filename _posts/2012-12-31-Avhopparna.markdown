@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avhopparna
-categories: swedish 
+tags: swedish 
 summary: Ett event har startats med nyårslöftet att hoppa av Facebook. 
 ---
 Det har startats [ett facebookevent](https://www.facebook.com/events/438133116236540/) [(Länk utanför Facebook)](http://hoppaavfacebook.wordpress.com/) som för deltagarna kommer att vara det sista eventet de deltar i. Ett antal personer, främst från Stockholms (?) vänstermiljö har bestämt sig för att hoppa av Facebook vid nyår. Gruppen är full av bra diskussioner för och emot, både från privata och politiska vinklar och jag rekommenderar en läsning av den. Flera är kluvna inför avhoppet och nämner å ena sidan fördelar med att nå ut till folk och att organisera via Facebook, å andra sidan problem med inlåsning, censur, övervaknig och bortslösad tid. Diskussionerna är vad jag kan se ett symptom på ett större problem att vi inte riktigt förstått relationen mellan informationsteknologier och politiska rörelser.

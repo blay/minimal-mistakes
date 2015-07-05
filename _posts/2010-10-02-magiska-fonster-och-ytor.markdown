@@ -2,7 +2,7 @@
 
 layout: post
 title: "Magiska fönster och ytor" 
-categories: english swedish 
+tags: english swedish 
 date: 2010-10-02 13:04:48 +02:00 
 
 ---

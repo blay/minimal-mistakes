@@ -2,7 +2,7 @@
 
 layout: post
 title: Self-contained objectnetwork 
-categories: english notswedish
+tags: english notswedish
 date: 2009-07-21 23:11:55 +02:00 
 
 ---

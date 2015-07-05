@@ -2,7 +2,7 @@
 
 layout: post
 title: P 
-categories: swedish 
+tags: swedish 
 date: 2008-06-26 10:38:45 +02:00 
 
 ---

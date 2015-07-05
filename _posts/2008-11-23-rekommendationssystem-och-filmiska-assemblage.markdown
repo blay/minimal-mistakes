@@ -2,7 +2,7 @@
 
 layout: post
 title: Rekommendationssystem och filmiska assemblage 
-categories: english swedish 
+tags: english swedish 
 date: 2008-11-23 21:26:43 +01:00 
 
 ---

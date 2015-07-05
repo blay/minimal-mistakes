@@ -2,7 +2,7 @@
 
 layout: post
 title: "Kladdade nätverk" 
-categories: notswedish
+tags: notswedish
 date: 2008-11-16 21:45:49 +01:00 
 
 ---

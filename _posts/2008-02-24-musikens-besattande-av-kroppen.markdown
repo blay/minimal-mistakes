@@ -2,7 +2,7 @@
 
 layout: post
 title: "Musikens besättande av kroppen" 
-categories: english swedish 
+tags: english swedish 
 date: 2008-02-24 21:35:19 +01:00 
 
 ---

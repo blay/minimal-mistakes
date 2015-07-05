@@ -2,7 +2,7 @@
 
 layout: post
 title: Kvasi-objekten 
-categories: swedish 
+tags: swedish 
 date: 2009-08-10 17:30:51 +02:00 
 
 ---

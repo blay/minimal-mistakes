@@ -2,7 +2,7 @@
 
 layout: post
 title: "I nätverkets utkanter: Användarägda nätverk" 
-categories: english swedish 
+tags: english swedish 
 date: 2009-07-21 14:01:18 +02:00 
 
 ---

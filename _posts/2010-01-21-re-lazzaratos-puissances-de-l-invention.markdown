@@ -2,7 +2,7 @@
 
 layout: post
 title: "re: Lazzaratos Puissances de l'invention" 
-categories: swedish 
+tags: swedish 
 date: 2010-01-21 11:33:07 +01:00 
 
 ---

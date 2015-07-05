@@ -2,7 +2,7 @@
 
 layout: post
 title: "Om stort, smått och Hunter S. Thompson" 
-categories: swedish 
+tags: swedish 
 date: 2009-03-12 14:09:30 +01:00 
 
 ---

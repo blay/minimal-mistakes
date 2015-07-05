@@ -2,7 +2,7 @@
 
 layout: post
 title: "Presentation in Milano: My view of Chaos and Randomness" 
-categories: english 
+tags: english 
 date: 2009-06-20 11:00:08 +02:00 
 
 ---

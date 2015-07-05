@@ -2,7 +2,7 @@
 
 layout: post
 title: "Om språkmaterialism i Vagant" 
-categories: swedish 
+tags: swedish 
 date: 2008-05-22 19:02:07 +02:00 
 
 ---

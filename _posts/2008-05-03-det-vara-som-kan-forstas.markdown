@@ -2,7 +2,7 @@
 
 layout: post
 title: "Det vara som kan förstås" 
-categories: notswedish
+tags: notswedish
 date: 2008-05-03 15:13:44 +02:00 
 
 ---

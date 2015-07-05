@@ -2,7 +2,7 @@
 
 layout: post
 title: "The Next Bubble: Priming the markets for tomorrow's big crash" 
-categories: notswedish
+tags: notswedish
 date: 2008-05-19 12:21:49 +02:00 
 
 ---

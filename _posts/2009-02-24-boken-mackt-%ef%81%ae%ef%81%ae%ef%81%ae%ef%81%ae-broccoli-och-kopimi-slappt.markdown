@@ -2,7 +2,7 @@
 
 layout: post
 title: "Boken Mackt, \xEF\x81\xAE\xEF\x81\xAE\xEF\x81\xAE\xEF\x81\xAE, Broccoli och KOPIMI släppt!"
-categories: swedish 
+tags: swedish 
 date: 2009-02-24 01:37:14 +01:00
 
 ---

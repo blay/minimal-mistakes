@@ -2,7 +2,7 @@
 
 layout: post
 title: "Det ytliga nätet" 
-categories: english swedish 
+tags: english swedish 
 date: 2010-07-28 12:31:47 +02:00 
 
 ---

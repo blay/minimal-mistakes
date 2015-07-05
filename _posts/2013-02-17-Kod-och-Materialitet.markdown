@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kod och Materialitet
-categories: english swedish tldr
+tags: english swedish tldr
 summary: Paper om datorkodens materialitet
 image:
  feature: microprocessor_narrow.jpg

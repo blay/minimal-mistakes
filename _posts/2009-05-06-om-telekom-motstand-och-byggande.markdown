@@ -2,7 +2,7 @@
 
 layout: post
 title: "Om telekom, motstånd och byggande" 
-categories: swedish 
+tags: swedish 
 date: 2009-05-06 22:13:47 +02:00 
 
 ---

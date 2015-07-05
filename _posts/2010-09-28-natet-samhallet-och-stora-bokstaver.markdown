@@ -2,7 +2,7 @@
 
 layout: post
 title: "Nätet, Samhället och stora bokstäver" 
-categories: swedish 
+tags: swedish 
 date: 2010-09-28 08:30:47 +02:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: Slemlabbet 
-categories: swedish 
+tags: swedish 
 date: 2009-12-17 19:13:57 +01:00 
 
 ---

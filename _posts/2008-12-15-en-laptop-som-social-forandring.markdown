@@ -2,7 +2,7 @@
 
 layout: post
 title: "En laptop som social förändring" 
-categories: english swedish 
+tags: english swedish 
 date: 2008-12-15 08:45:17 +01:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: "Argument för FRA" 
-categories: notswedish
+tags: notswedish
 date: 2008-07-05 23:29:25 +02:00 
 
 ---

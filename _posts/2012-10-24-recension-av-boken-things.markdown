@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recension av boken Things"
-categories: swedish 
+tags: swedish 
 summary: Tidigare inlämningsuppgift om Things på min doktorandkurs blev underkänd eftersom den var alldeles för lång. Jag gjorde om och gjorde rätt och det blev en recension av boken istället 
 ---
 

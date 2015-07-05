@@ -2,7 +2,7 @@
 
 layout: post
 title: Ownership and Belonging 
-categories: english swedish tldr 
+tags: english swedish tldr 
 date: 2008-06-13 20:59:12 +02:00 
 
 ---

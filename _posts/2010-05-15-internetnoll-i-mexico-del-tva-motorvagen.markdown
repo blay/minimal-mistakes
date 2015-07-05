@@ -2,7 +2,7 @@
 
 layout: post
 title: "InternetNoll i Mexico: Del två - Motorvägen" 
-categories: swedish 
+tags: swedish 
 date: 2010-05-15 23:50:38 +02:00 
 
 ---

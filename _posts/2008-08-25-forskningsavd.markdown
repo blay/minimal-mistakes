@@ -2,7 +2,7 @@
 layout: post
 title: Forskningsavdelningen
 summary: Hackerspace in Malmö
-categories: internet
+tags: internet
 image:
  feature:
  thumb: forskningsavd.png

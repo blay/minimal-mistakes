@@ -2,7 +2,7 @@
 
 layout: post
 title: "Haptiska datorgränssnitt och försjunkenhet, del 1" 
-categories: swedish 
+tags: swedish 
 date: 2008-04-10 15:54:47 +02:00 
 
 ---

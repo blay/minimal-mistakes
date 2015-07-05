@@ -2,7 +2,7 @@
 
 layout: post
 title: Regeringen vill slopa musiken i skolan 
-categories: swedish 
+tags: swedish 
 date: 2009-01-25 01:08:36 +01:00 
 
 ---

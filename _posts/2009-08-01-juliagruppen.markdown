@@ -2,7 +2,7 @@
 layout: post
 title: Juliagruppen
 summary: Advocacy and consultant group in open internet
-categories: internet
+tags: internet
 image:
  feature:
  thumb: juliagruppen.jpg

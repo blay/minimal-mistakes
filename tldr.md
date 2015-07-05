@@ -10,7 +10,7 @@ excerpt: "A List of Long Posts"
 
 <h4>| <a href="archive.html">All posts</a> | <a href="tldr.html">Long posts</a> |</h>
 
-{% for post in site.categories.tldr %}
+{% for post in site.tags.tldr %}
 {% unless post.next %}
 <h3>{{ post.date | date: '%Y' }}</h3>
 {% else %}

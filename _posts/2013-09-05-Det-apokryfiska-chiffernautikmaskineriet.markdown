@@ -2,7 +2,7 @@
 layout: post
 title: Det apokryfiska chiffernautikmaskineriet
 summary: Översättning av Telecomix-texten The Apocryphal Machinery of Ciphernautics
-categories: swedish tldr
+tags: swedish tldr
 image:
  feature: thule_narrow.jpg
 ---

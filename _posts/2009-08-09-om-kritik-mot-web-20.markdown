@@ -2,7 +2,7 @@
 
 layout: post
 title: Om kritik mot web 2.0 
-categories: swedish 
+tags: swedish 
 date: 2009-08-09 15:52:11 +02:00 
 
 ---

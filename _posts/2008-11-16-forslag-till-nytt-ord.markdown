@@ -2,7 +2,7 @@
 
 layout: post
 title: "Förslag till nytt ord:" 
-categories: notswedish
+tags: notswedish
 date: 2008-11-16 21:06:56 +01:00 
 
 ---

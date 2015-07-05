@@ -2,7 +2,7 @@
 
 layout: post
 title: Ekologi, Design, Teknologi 
-categories: english swedish 
+tags: english swedish 
 date: 2007-05-14 13:07:13 +02:00 
 
 ---

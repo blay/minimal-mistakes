@@ -2,7 +2,7 @@
 
 layout: post
 title: Gertrude Stein, Eisen-stein 
-categories: swedish 
+tags: swedish 
 date: 2006-09-12 21:00:10 +02:00 
 
 ---

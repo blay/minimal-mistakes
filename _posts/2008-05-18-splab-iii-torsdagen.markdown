@@ -2,7 +2,7 @@
 
 layout: post
 title: SPLAB III - Torsdagen 
-categories: swedish 
+tags: swedish 
 date: 2008-05-18 22:15:42 +02:00 
 
 ---

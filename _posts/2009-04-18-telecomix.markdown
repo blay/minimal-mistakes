@@ -2,7 +2,7 @@
 layout: post
 title: Telecomix
 summary: Activist group for free communications
-categories: internet
+tags: internet
 image:
  feature:
  thumb: telecomix.png

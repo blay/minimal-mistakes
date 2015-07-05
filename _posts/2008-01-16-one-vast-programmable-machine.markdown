@@ -2,7 +2,7 @@
 
 layout: post
 title: One, vast programmable machine 
-categories: swedish 
+tags: swedish 
 date: 2008-01-16 19:24:03 +01:00 
 
 ---

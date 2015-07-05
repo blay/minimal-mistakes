@@ -2,7 +2,7 @@
 
 layout: post
 title: La till en Tumblr 
-categories: swedish 
+tags: swedish 
 date: 2009-08-04 00:15:49 +02:00 
 
 ---

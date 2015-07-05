@@ -2,7 +2,7 @@
 
 layout: post
 title: Fattig kultursyn hos kulturbranschen 
-categories: english swedish 
+tags: english swedish 
 date: 2008-10-29 11:24:35 +01:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: SPLAB I - Presentationen 
-categories: english swedish tldr 
+tags: english swedish tldr 
 date: 2008-05-11 14:56:48 +02:00 
 
 ---

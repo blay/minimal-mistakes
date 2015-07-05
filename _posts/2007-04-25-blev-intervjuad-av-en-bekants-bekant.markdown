@@ -2,7 +2,7 @@
 
 layout: post
 title: "Manlighet, gråt och Apple" 
-categories: swedish 
+tags: swedish 
 date: 2007-04-25 21:04:38 +02:00 
 
 ---

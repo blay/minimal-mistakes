@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Harman-dag"
-categories: swedish 
+tags: swedish 
 summary: Redogörelse för Harmans torsdags-föreläsningar i Göteborg
 ---
 *Skrev en [lång kommentar](http://www.isk-gbg.org/99our68/?p=1023#comment-195795) hos 99our68 om Harmans besök. Detta är delen om innehållet i hans föreläsningar.*

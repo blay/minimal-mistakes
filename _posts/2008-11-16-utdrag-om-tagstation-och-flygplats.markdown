@@ -2,7 +2,7 @@
 
 layout: post
 title: "Utdrag om tågstation och flygplats" 
-categories: swedish 
+tags: swedish 
 date: 2008-11-16 21:32:37 +01:00 
 
 ---

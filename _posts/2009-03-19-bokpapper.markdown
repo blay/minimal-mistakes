@@ -2,7 +2,7 @@
 
 layout: post
 title: Bok/papper 
-categories: swedish 
+tags: swedish 
 date: 2009-03-19 21:42:04 +01:00 
 
 ---

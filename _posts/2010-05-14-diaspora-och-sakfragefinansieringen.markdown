@@ -2,7 +2,7 @@
 
 layout: post
 title: "Diaspora och sakfrågefinansieringen" 
-categories: swedish 
+tags: swedish 
 date: 2010-05-14 15:57:21 +02:00 
 
 ---

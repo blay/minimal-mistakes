@@ -2,7 +2,7 @@
 
 layout: post
 title: En arkitektur som litteratur 
-categories: english swedish 
+tags: english swedish 
 date: 2008-02-14 01:15:54 +01:00 
 
 ---

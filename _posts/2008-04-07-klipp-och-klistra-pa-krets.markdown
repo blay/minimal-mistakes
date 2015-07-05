@@ -2,7 +2,7 @@
 
 layout: post
 title: "Klipp och Klistra på Krets" 
-categories: swedish 
+tags: swedish 
 date: 2008-04-07 00:06:58 +02:00 
 
 ---

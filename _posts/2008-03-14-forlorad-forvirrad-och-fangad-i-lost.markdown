@@ -2,7 +2,7 @@
 
 layout: post
 title: "Förlorad, förvirrad och fångad i Lost" 
-categories: swedish 
+tags: swedish 
 date: 2008-03-14 16:08:15 +01:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: Occasional/Continuous 
-categories: notswedish
+tags: notswedish
 date: 2008-12-29 13:33:13 +01:00 
 
 ---

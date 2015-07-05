@@ -2,7 +2,7 @@
 
 layout: post
 title: "Pentagon lär ut samtida informationshantering" 
-categories: english swedish 
+tags: english swedish 
 date: 2010-07-26 16:57:07 +02:00 
 
 ---

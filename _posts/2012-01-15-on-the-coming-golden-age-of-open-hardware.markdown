@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the Coming Golden Age of Open Hardware
-categories: english tldr notswedish
+tags: english tldr notswedish
 summary: Some trends that have up until now favored large, closed manufacturing could shift in the coming years and tilt the balance of power in favor of small scale open hardware. 
 ---
 

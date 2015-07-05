@@ -2,7 +2,7 @@
 
 layout: post
 title: "Två recensioner" 
-categories: english swedish tldr 
+tags: english swedish tldr 
 date: 2007-04-19 21:14:55 +02:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: There is no society 
-categories: english swedish 
+tags: english swedish 
 date: 2009-07-19 13:13:13 +02:00 
 
 ---

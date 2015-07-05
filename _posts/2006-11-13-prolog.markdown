@@ -2,7 +2,7 @@
 
 layout: post
 title: READ||WRITE 
-categories: english swedish tldr 
+tags: english swedish tldr 
 date: 2006-11-13 14:14:21 +01:00 
 
 ---

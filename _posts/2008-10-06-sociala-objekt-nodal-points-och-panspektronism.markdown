@@ -2,7 +2,7 @@
 
 layout: post
 title: Sociala objekt, nodal points och panspektronism 
-categories: swedish 
+tags: swedish 
 date: 2008-10-06 15:42:08 +02:00 
 
 ---

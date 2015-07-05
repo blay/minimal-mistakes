@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Myten om maskinen; utveckling och förflyttning
-categories: swedish 
+tags: swedish 
 summary: Alf Hornborgs bok "Myten om maskinen" är ett försök att knyta ihop teknikutveckling med globala energi- och resursfrågor. 
 ---
 Alf Hornborgs Myten om maskinen (Hornborg, 2010) är en ögonöppnande bok som jag hittils tagit mig igenom halvvägs. Denna samling av artiklar och bokkapitel från de senaste 20 åren av Alf Hornborgs teoretiserande kring humanekologi kan sägas att vilja knyta ihop teknologi med energi- och resursförbrukning samt kapital och det globala varuutbytet och bör främst läsas av de som tenderar att ignorera de två senastes betydelse för och roll i teknikutvecklingen. Alfs främsta poäng är framställningen av teknikutvecklingen som ett globalt nollsummespel i fråga om anspråk på naturresurser och energiöverföring. Snarare än att bestå av ett allt mer effektivt utyttjande av naturresurser består den enligt Hornborg av en koncentrering av jordens resurser. Någons energislukande teknik, en annans urholkade miljö. Här vill jag dock inte göra någon recension av boken i helhet (som ändå som sagt är en samling artiklar) utan dyka ner i ett resonemang som spänner två-tre sidor i mitten av boken (sid. 103ff) som handlar om vad teknik egentligen består i och utgörs av samt vad dess syfte är.

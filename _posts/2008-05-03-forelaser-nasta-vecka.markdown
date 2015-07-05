@@ -2,7 +2,7 @@
 
 layout: post
 title: "Föreläser nästa vecka" 
-categories: notswedish
+tags: notswedish
 date: 2008-05-03 13:10:55 +02:00 
 
 ---

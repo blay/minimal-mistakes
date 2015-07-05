@@ -2,7 +2,7 @@
 
 layout: post
 title: SPLAB II - Diskussionen 
-categories: swedish 
+tags: swedish 
 date: 2008-05-13 11:44:26 +02:00 
 
 ---

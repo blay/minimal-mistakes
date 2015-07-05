@@ -2,7 +2,7 @@
 
 layout: post
 title: Svarar brittiskt galleri 
-categories: english swedish 
+tags: english swedish 
 date: 2010-04-20 19:55:57 +02:00 
 
 ---

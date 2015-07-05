@@ -2,7 +2,7 @@
 
 layout: post
 title: horitzo.tv 
-categories: swedish 
+tags: swedish 
 date: 2008-06-02 08:29:13 +02:00 
 
 ---

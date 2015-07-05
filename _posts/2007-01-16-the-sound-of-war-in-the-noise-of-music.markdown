@@ -2,7 +2,7 @@
 
 layout: post
 title: The Sound of War in the Noise of Music 
-categories: swedish 
+tags: swedish 
 date: 2007-01-16 22:52:26 +01:00 
 
 ---

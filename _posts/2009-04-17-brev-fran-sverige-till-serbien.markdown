@@ -2,7 +2,7 @@
 
 layout: post
 title: "Brev från Sverige till Serbien" 
-categories: english notswedish
+tags: english notswedish
 date: 2009-04-17 23:40:11 +02:00 
 
 ---

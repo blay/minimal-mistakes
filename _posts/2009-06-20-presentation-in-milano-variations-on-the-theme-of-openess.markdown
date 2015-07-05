@@ -2,7 +2,7 @@
 
 layout: post
 title: "Presentation in Milano: Variations on the theme of openess" 
-categories: english tldr notswedish
+tags: english tldr notswedish
 date: 2009-06-20 10:01:08 +02:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: "Föreläsning - Kultur är maskiner" 
-categories: notswedish
+tags: notswedish
 date: 2008-12-15 12:21:31 +01:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: "Riksinternets fria nät hotat" 
-categories: swedish 
+tags: swedish 
 date: 2009-03-25 02:24:43 +01:00 
 
 ---

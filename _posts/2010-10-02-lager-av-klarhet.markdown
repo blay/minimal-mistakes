@@ -2,7 +2,7 @@
 
 layout: post
 title: Lager av klarhet 
-categories: english swedish 
+tags: english swedish 
 date: 2010-10-02 13:37:03 +02:00 
 
 ---

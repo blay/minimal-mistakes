@@ -2,7 +2,7 @@
 
 layout: post
 title: "Babianer och svarta lådor" 
-categories: swedish 
+tags: swedish 
 date: 2009-03-12 15:17:31 +01:00 
 
 ---

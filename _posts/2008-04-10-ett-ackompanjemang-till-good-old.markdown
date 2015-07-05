@@ -2,7 +2,7 @@
 
 layout: post
 title: Ett ackompanjemang till Good Old 
-categories: swedish 
+tags: swedish 
 date: 2008-04-10 13:59:55 +02:00 
 
 ---

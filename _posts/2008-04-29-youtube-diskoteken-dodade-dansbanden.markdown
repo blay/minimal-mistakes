@@ -2,7 +2,7 @@
 
 layout: post
 title: Dansbandsdoeden 
-categories: notswedish
+tags: notswedish
 date: 2008-04-29 11:09:13 +02:00 
 
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 title: "Från nätverkets utkant" 
-categories: swedish 
+tags: swedish 
 date: 2009-10-03 16:47:05 +02:00 
 
 ---

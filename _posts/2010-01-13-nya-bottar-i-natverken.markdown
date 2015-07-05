@@ -2,7 +2,7 @@
 
 layout: post
 title: "Nya bottar i nätverken" 
-categories: swedish 
+tags: swedish 
 date: 2010-01-13 15:16:34 +01:00 
 
 ---

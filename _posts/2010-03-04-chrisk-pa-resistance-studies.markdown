@@ -2,7 +2,7 @@
 
 layout: post
 title: "chrisk på Resistance studies." 
-categories: english swedish 
+tags: english swedish 
 date: 2010-03-04 22:45:30 +01:00 
 
 ---

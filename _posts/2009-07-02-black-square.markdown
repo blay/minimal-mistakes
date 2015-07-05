@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Black Square 
-categories: swedish 
+tags: swedish 
 image:
  feature: blacksquare_narrow.jpg
 ---

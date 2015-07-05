@@ -2,7 +2,7 @@
 
 layout: post
 title: Kvasiobjekt i 2 dimensioner 
-categories: swedish 
+tags: swedish 
 date: 2010-03-01 13:59:22 +01:00 
 
 ---
