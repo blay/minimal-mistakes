@@ -1,10 +1,11 @@
---- 
+---
 
 layout: post
-title: Accelerationism blev realtidspadda 
-categories: swedish 
-date: 2010-09-20 22:37:01 +02:00 
-
+title: Accelerationism blev realtidspadda
+categories: swedish
+date: 2010-09-20 22:37:01 +02:00
+image:
+ feature: acceleration4_narrow.png
 ---
 
 [*@macdeleuzian*](http://twitter.com/macdeleuzian)*skapade*[*en padda*](http://pad.telecomix.org/kooopimi)*som hakade i*[*senaste inlägget om accelerationism*](2010-09-17-accelerationism-iii-eskalationism-pirateri-och-den-absoluta-horisonten-for-manskligheten.html)*. Jag skrev en lång kommentar på den paddan som jag återpublicerar här. Den står sig bara delvis på egen hand så ha gärna*[*paddan*](http://pad.telecomix.org/kooopimi)*till hands också.*
@@ -26,5 +27,3 @@ Om vi tar exemplet med att använda antimarknaders infrastrukturer till att bygg
 Allting kan bli allting med tillräckligt mycket jävlar anama. Om det är ett nytt eller samma objekt efter behandlingen är skitsamma (och väl inget vi simpla människor har förmåga att avgöra?). Det viktiga är hur mycket eller lite energi det går åt att få till den där förändringen. Det är därför det ofta är bättre att fulhacka än att bygga från grunden. Nyckeln till politik kring tekniska objekt ligger i att förstå och hitta dessa punkter där minimal energi ger störst utslag för fan vi har inte så himla många händer att bygga med.
 
 Slutsats: Låsta postitioner uppstår när vi försöker diskutera de objekt som vi refererar till med våra ord utan att syfta på en konkret situation där i det här fallet "nätet" gör sig till information för oss. Objekt får ju inte förväxlas med abstrakta arketyper. Nätet är ett ord som refererar med olika styrka till olika fenomen som är i ständig förändring varje gång det används och vi bör ta konsekvensen av teorin och inte tro att vi patetiskt simpla människor kan bestämma ett objekts innehåll med vår svaga tankekraft! Min ontologi är ett helt spektrum mellan kliniskt rena objekt och relationistisk sörja!
-
-

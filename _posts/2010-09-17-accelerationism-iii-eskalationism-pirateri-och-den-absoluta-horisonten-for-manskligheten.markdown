@@ -1,14 +1,16 @@
---- 
-
-layout: post
-title: "Accelerationism III" 
-categories: swedish tldr 
-summary: Eskalationism, pirateri och den absoluta horisonten för mänskligheten
-date: 2010-09-17 15:28:42 +02:00 
-
 ---
 
-*Det här inlägget bygger vidare på accelerationism-inläggen [1]()[2]()[3]()[4]()[5]() och seminariet, men utforskar mer fritt möjliga skillnader mellan accelerationism och eskalationism som begrepp och strategier.*
+layout: post
+title: "Accelerationism III"
+categories: swedish tldr
+summary: Eskalationism, pirateri och den absoluta horisonten för mänskligheten
+date: 2010-09-17 15:28:42 +02:00
+image:
+ feature: acceleration3_narrow.png
+---
+
+*Det här inlägget bygger vidare på [accelerationism](2010-09-16-accelerationism-i-nick-land-skynet-och-den-cybernetiska-intensifieringen.html
+)-[inläggen](2010-09-17-accelerationism-ii-resan-mot-den-kosmiska-schizofrenin.html) och seminariet, men utforskar mer fritt möjliga skillnader mellan accelerationism och eskalationism som begrepp och strategier.*
 
 Accelerationism är som i tidigare inlägg beskrevs som ett speciellt förhållningssätt till (kapitalistisk) kris eller omställning. Istället för att svara på kris med krav på nedbromsning och återupprättad trygghet svarar accelerationismen med att utveckla och snabba på krisens tendenser. Dock måste det betonas att accelerationismen är ett *svar på* och ett förstärkande av kriser. Den iscensätter själv inte kriser. En annan strategi, som [Copyriot har benämnt 'escalationism'](http://copyriot.se/2010/01/13/pirate-politics-from-accelerationism-to-escalationism/) och kopplat samman med hacking kan däremot sägas göra det. Låt oss ta två exempel.
 
@@ -35,5 +37,3 @@ Utvecklingen har också att göra med att accelerationismen missförstod vad den
 Det här blir något av ett problem för accelerationismen som ju bygger på att accelerera existerande destratifierande flöden. Det finns två möjliga accelerationistiska svar på den här typen av kapitalism. Det ena är en [relativ (strategisk) accelerationism](http://leniency.blogspot.com/2010/09/everything-that-moves-is-not-red.html) som försöker realisera den framtid som kapitalismen säger sig sträva mot. Alltså att nedmontera anti-marknader till förmån för marknadsflöden (och nedmontera välfärdsinstitutioner till förmån för verklig förändring). Det andra är en slags [absolut accelerationism](http://splinteringboneashes.blogspot.com/2008/10/post-land-paradoxes-of-speculative.html) som istället för att ha kapitalismen som horisont tar sig an mänsklighetens villkor direkt. Som inte bara är emot kapitalets stratifieringar utan ALLA, även de som upprätthåller människan och mänskligheten (så som den är konfigurerad idag). Den absoluta accelerationismen handlar alltså om ett spekulativt och radikalt om-organiserande av mänsklighet. Det drar starkt mot [post-/trans-humanism](http://tesantitesprotes.se/?p=159) här. Den absoluta accelerationismen vill inte accelerera kapitalismen till dess kollaps för att något underliggande mänskligt ska komma fram, utan för att radikalt mutera vad mänsklighet innebär. Den relativa accelerationismen är fortfarande antropomorf i det att den vill frisläppa mänskliga begär som antas finnas där bakom nånstans, även om det så att säga är begär mer mänskliga än människan själv. Manuel Delandas vitalism och emergens skulle definitivt kunna beskrivas som en sådan. I varje fall när han är som mest polemisk mellan [meshwork och hierarchy](http://www.t0.or.at/delanda/meshwork.htm). Hit skulle också Ayn Rand kunna räknas som tänker sig att människans moral frisläpps av marknadskrafter. Att marknaden släpper ut och belönar det mest moraliska i människan.
 
 Nick Land var den som öppnade för den absoluta accelerationismen eftersom han inte erkände den antropomorfa eller vitalistiska begäret. De spekulativa realisterna och framförallt [Reza Negerastrani](http://blog.urbanomic.com/cyclon/) kan sägas vara de som plockat upp den tråden idag. [Alex Williams](http://splinteringboneashes.blogspot.com/) menar i sitt föredrag att frågan om politisk strategi kan ställas inom den absoluta accelerationismen men inte utifrån mänskliga premisser, inte utifrån [korrelationismen](http://dooodles.posterous.com/?tag=korrelationism). Dagens politiska nätverk kan inte konceptualiseras utifrån ett mänskligt subjekt utan de kan, med Graham Harmans ord, [övermineras och undermineras](http://övermineras%20och%20undermineras). Å ena sidan handlar det om att det mänskliga subjektet undermineras av sub-humana processer och sammankopplingar. Å andra sidan om en överminering från komplexitethållet och nätverksteorin. Så en fråga om politisk strategi utifrån spekulativ realism skulle i så fall ställas som så: Kan vi ens tänka politiska strategi i dagens klimat utifrån ett perspektiv som är begripligt för människor? Eller missar vi alltid då de politiska processer och allianser som de facto pågår?
-
-

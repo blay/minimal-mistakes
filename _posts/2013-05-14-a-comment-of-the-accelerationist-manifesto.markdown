@@ -1,7 +1,9 @@
---- 
+---
 layout: post
 title: A Comment of the Accelerationist Manifesto
 categories: english notswedish
+image:
+ feature: acceleration5_narrow.png
 ---
 
 I have [written](2010-09-16-accelerationism-i-nick-land-skynet-och-den-cybernetiska-intensifieringen.html) [about](2010-09-17-accelerationism-ii-resan-mot-den-kosmiska-schizofrenin.html) [accelerationism](2010-09-17-accelerationism-iii-eskalationism-pirateri-och-den-absoluta-horisonten-for-manskligheten.html) [before](2010-01-19-pop-culture-and-tunnels.html) so now that a new accelerationist manifesto is out I thought I would comment it briefly. The manifesto is linked [HERE](http://speculativeheresy.wordpress.com/2013/05/14/celerity-a-critique-of-the-manifesto-for-an-accelerationist-politics/).

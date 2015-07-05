@@ -1,11 +1,11 @@
---- 
-
+---
 layout: post
 title: "Accelerationism I"
-categories: english swedish tldr 
-summary: Nick Land, Skynet och den cybernetiska intensifieringen 
-date: 2010-09-16 09:52:04 +02:00 
-
+categories: english swedish tldr
+summary: Nick Land, Skynet och den cybernetiska intensifieringen
+date: 2010-09-16 09:52:04 +02:00
+image:
+ feature: acceleration1_narrow.png
 ---
 
 
@@ -38,5 +38,3 @@ För Fisher är då frågan inte om kapitalistiskt skapade begär ska affirmeras
 Nåväl, Nick Land hade ju fel på ett sätt. Technokapitalismen gjorde sig inte av med människorna och blev inte den fruktansvärda stålklädda maskinen som Temrinator förutspådde. Tvärtom har människorna i ännu högre grad integrerats i den cybernetiska loopen genom pastisch, mänskliga gränssnitt och söta datorer från Apple. Land såg bara kapitalismens deterritorialiserande krafter. De som upplöste mänskliga identiteter och sociala band. Han märkte inte att den samtidigt gjorde det motsatta. Att skapa nya identiteter, knytna till nya former av integrerande av människor.
 
 Ändå kan vi lära mycket av Nick Land, menar Fisher. För det första måste Nick Land ges en eloge för att han verkligen försökte tänka politiska strategier *inifrån* pågående materiella processer och ta de absoluta konsekvenserna av dem, snarare än att förlita sig på teoretiska abstraktioner. På så vis är han i varje fall bättre än nästan all annan politisk teori. För det andra är attacken mot moralisk kritik av kapitalismen baserat på ett pre-kapitalistiskt ursprung fortfarande väldigt värdefull. Kapitalismens problem är snarare att den inte kan leverera den framtid som den säger sig sträva mot. Till exempel har internet växt fram genom (militär-)kapitalistiska villkor, men potentialen hos internet går inte att realisera fullt ut genom kapitalistiska processer. För Mark Fisher handlar accelerationism alltså om att kapitalismen skapar en mängd orealiserade och instängda möjligheter och begär som måste släppas ut av politisk praktik. Återigen handlar det då om att förstå vilka frisläppta flöden som får vilka politiska konsekvenser. Det finns ju också många dödslinjer man kan råka slå sig in på.
-
-

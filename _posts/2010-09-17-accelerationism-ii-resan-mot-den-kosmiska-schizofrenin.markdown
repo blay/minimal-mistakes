@@ -1,11 +1,12 @@
---- 
+---
 
 layout: post
 title: "Accelerationism II"
 categories: swedish tldr
-summary: Resan mot den kosmiska schizofrenin 
-date: 2010-09-17 07:43:44 +02:00 
-
+summary: Resan mot den kosmiska schizofrenin
+date: 2010-09-17 07:43:44 +02:00
+image:
+ feature: acceleration2_narrow.png
 ---
 
 [Vi befinner oss fortfarande på Goldsmiths](2010-09-16-accelerationism-i-nick-land-skynet-och-den-cybernetiska-intensifieringen.html). Nästa talare är [Ray Brassier](http://en.wikipedia.org/wiki/Ray_Brassier). Om Mark Fisher lugnt läste en strukturerad text innantill gör Brassier [motsatsen](http://www.youtube.com/watch?v=fbQ6p0ZwW_s). Han freestylar, blir exalterad och avbryter sig ofta med att kasta huvudet i händerna i långa tankepauser för att sedan komma med ett nytt teoriutbrott. Här gäller det att lyssna oerhört koncentrerat. Det här kan också vara en bra bild att ha i huvudet när man läser hans böcker. Jag tror att han skriver med precis samma stil.
@@ -27,5 +28,3 @@ Men, frågar sig Brassier, vilket fordon ska då vara bärare av den här accele
 Vad vill Brassier då? Well, han menar att två positioner blir impotenta som politiska strategier. Den ena är "teoretisism" som ju Nick Land attackerade. Att människan kan skapa koncept som representerar de processer som pågår och ingripa i dem med någon slags agens. Den andra är "hyperpragmatism", som Nick Land praktiserade. Viljan att bara "göra något". Brassier själv kallar sig idealist och vill inte smälta samman tänkande och verklighet. Han försvarar skapandet av koncept, men menar att konceptets styrka inte är som en representation av verkligheten, utan han söker en mer sofistikerad relation där subjektivitet blir ett "prisma" för införsel av en transformativ praktik i ett flöde. Det är inte helt lätt att förstå vad han syftar på, men i slutdiskussionen ställer han en fråga som kan ge en ledtråd. Efter att flera föredrag har skissat framväxten av den cybernetiska kapitalismen och problemet med politisk agens i samtiden på grund av den, så kommenterar Brassier något ironiskt att det är just i framväxten av den cybernetiska tankemodellen som vi har en fullgod teori för politisk agens. Cybernetikens framväxt, trots att det teoretiska innehållet inte öppnar mycket för politisk agens, var i sin egen framväxt ett exempel på en teoretisk praktik med oerhörda politiska konsekvenser. Här någonstans förstår man vad han menar med att teorin måste vara ett verktyg för transformativ praktik. Den behöver egentligen inte vara sann. Den behöver inte reflektera de primära materiella processerna så som Land försökte få den att göra. Det teoretiska konceptet har delvis en autonom ställning till den verklighet som den svarar mot. Konceptet kan bli produktivt.
 
 Jag förstår vad han vill åt här, men all kredd kan inte då till cybernetiken som teori. Cybernetik fungerar, eller började först fungera, genom en oerhörd insats för att göra världen cybernetisk genom en enorm datainsamling, genom utplacerande av sensorer, genom mätningar och undersökningar samt kontollinstrument för att kunna styra om världens flöden cybernetiskt. Likväl är det en teori som inte reflekterade en färdig verklighet men lyckades skapa sig en affinitet med pågående teknologiska, politiska och vetenskapliga processer och därmed omforma världen i sin avbild.
-
-
