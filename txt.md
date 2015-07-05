@@ -1,16 +1,16 @@
 ---
 layout: post-index
-permalink: archive.html
-title: All Posts
-excerpt: "A List of Posts"
+permalink: txt.html
+title: Texts about Writing
+excerpt: "A collection of texts about writing texts"
 ---
 
 <div id="index">
 <h1>{{ page.title }}</h1>
+<h2>{{ page.excerpt }}</h2>
 
-<h4>| <a href="archive.html">All posts</a> | <a href="tldr.html">Long posts</a> |</h>
 
-{% for post in site.posts %}
+{% for post in site.tags.txt %}
 {% unless post.next %}
 <h3>{{ post.date | date: '%Y' }}</h3>
 {% else %}

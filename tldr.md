@@ -1,6 +1,6 @@
 ---
 layout: post-index
-permalink: /tldr.html
+permalink: tldr.html
 title: Long Posts
 excerpt: "A List of Long Posts"
 ---
