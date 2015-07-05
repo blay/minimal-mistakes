@@ -17,7 +17,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-*Denna text är ytterligare en variant på en sammanställning av den research jag gjort kring heta linjen-upploppet den 17 september 1982. Tidigare versionen har hamnat i [Arbetaren Kultur](http://arbetaren.se/artiklar/heta-linjen-30-ar-senare/) och presenterats på [Make All](http://make-all.se/) på Tekniska Museet i Stockholm den 18 augusti.* 
+*Denna text är ytterligare en variant på en sammanställning av den research jag gjort kring heta linjen-upploppet den 17 september 1982. Tidigare versionen har hamnat i [Arbetaren Kultur](http://arbetaren.se/artiklar/heta-linjen-30-ar-senare/) och presenterats på [Make All](http://make-all.se/) på Tekniska Museet i Stockholm den 18 augusti.*
 
 *Följande research är baserad till stor del på genomgång av dagstidningar på mikrofilm under de aktuella datumen. För den som vill läsa de inscannade tidningsartiklar som jag refererar till kan göra det [här](http://files.blay.se/hetalinjen/). Jag vill även passa på att tacka [Kugg](http://forskningsavd.se/) och [Linus](http://www.df.lth.se/~triad/book/) som hjälp till med research.*
 
@@ -29,9 +29,9 @@ image:
 
 Det var inte första gången ungdomar hade bestämt träff vid Fridhemsplan på heta linjen. Så lät det till exempel i en artikel i Aftonbladet den 9 september.
 
-> Nya nöjet för ungdomar i Stockholm med omnejd är improviserade gruppsamtal per telefon. 
+> Nya nöjet för ungdomar i Stockholm med omnejd är improviserade gruppsamtal per telefon.
 >
-> Man slår ett nummer som saknar abonnent. Mellan televerkets pipljud och den automatiska telefonistens "var god tag..." kan upp till 15 personer samtidigt samtala och hojta till varann. 
+> Man slår ett nummer som saknar abonnent. Mellan televerkets pipljud och den automatiska telefonistens "var god tag..." kan upp till 15 personer samtidigt samtala och hojta till varann.
 > Såhär lät det vid 8.30-tiden i morse på 08/13 00 20:
 >
 > Pip pi pip piip... var god tad 90 120 för besked...
@@ -70,7 +70,7 @@ Men redan ett par veckor senare hade antalet ungdomar ökat explosionsartat. Soc
 
 > En vacker höstkväll i september 1982 samlades några dussin brokigt utstyrda unga människor på Fridhemsplan: helt vanliga skolungdomar, inga organiserade motorcykelgäng. Inte heller stadens fåtaliga punkare och anarkister var representerade annat än med med några få ombud. Oavbrutet dök nykomlingar upp ur tunnelbanans djup. Ingen visste var de kom ifrån och vad de hade för avsikter. De tycktes inte demonstrera för eller mot något. De bara fanns där, stod i löst sammanhållna grupper och pratade med varandra.
 >
-> [Hans-Magnus Enzensberger](ref/hetalinjen.html)
+> [Hans-Magnus Enzensberger](2012-08-22-hans-magnus-enzensberger-om-heta-linjen-upploppet-1982.html)
 
 Antalet uppgick snart till närmare tusen ungdomar. Något liknande hade aldrig tidigare upplevts. Okontrollerbara men ändå så lugna. Kanske hade de en hemlig plan? Kanske var de påverkade av något? De kanske var ute efter bråk? Polisen tog det säkra före det osäkra och beslutade att skingra klungan.
 
@@ -81,10 +81,10 @@ Istället rör sig massan mot Rålambshovsparken *utan marschordning, utan parol
 Ett femtital poliser med kravallhjälmar och hundar går in för att skingra massan. Ungdomarna började kasta stenar, ölburkar och flaskor från gångbron. Kommissarie  Kjell Andersson beskriver senare som att "det blev någon sorts masspsykos. Allt fler började kasta saker." [(EX820918)](http://files.blay.se/hetalinjen/.820918-Expressen-18.jpg)
 
 Batongslag utdelades, blåmärken uppstod. Några hävdade att de blivit hundbitna. Fyra poliser skadades av flygande föremål. Tio ungdomar omhändertogs och fick hämtas ut från arresten av sina föräldrar. Vid 22-tiden var ungdomarna skingrade och allt återgick till det normala.
-  
+
 ## Reaktioner dagen därpå
 
-Dagen efter kommer rubriken i Aftonbladet: "Heta Linjen-fans slogs med polisen" (fotbollsfans var väl det enda gatuvåld de kände till...). 
+Dagen efter kommer rubriken i Aftonbladet: "Heta Linjen-fans slogs med polisen" (fotbollsfans var väl det enda gatuvåld de kände till...).
 
 >Tonåringarna, de flesta i 14-18-årsåldern kände inte varandra [...] Kontakten hade de knutit via "heta linjen" -- den nya flugan som genom televerkets misstag gör det möjligt för ett obegränsat antal människor att bli ihopkopplade på samma telefonledning.
 > [(AB820918)](http://files.blay.se/hetalinjen/.820918-Aftonbladet-14.jpg)
@@ -95,7 +95,7 @@ Mycket riktigt, ansvarige kommissarie Kjell Andersson fruktar nya upplopp. "Nu f
 
 Svenska dagbladet uppmärksammar att det inte var den enda händelsen av sitt slag med en kort notis dagen efter:
 
-> Flera stora ungdomsgäng drev på fredagskvällen omkring i Stockholm och vållade polisen stora bekymmer. Flera ungdomar greps, bl.a. i Rålambshovsparken där de ägnat sig åt att kasta sten mot polismännen. Hos Norrmalmspolisen var den stora arresten i det närmaste fullsatt redan före kl. 22 på kvällen. Andra stora ungdomsgäng härjade bl.a. på Gärdet, på Lidingö, på Ekerö och på Bromstensfältet. [(SVD820918)](http://files.blay.se/hetalinjen/.820918-SVD-12.jpg). 
+> Flera stora ungdomsgäng drev på fredagskvällen omkring i Stockholm och vållade polisen stora bekymmer. Flera ungdomar greps, bl.a. i Rålambshovsparken där de ägnat sig åt att kasta sten mot polismännen. Hos Norrmalmspolisen var den stora arresten i det närmaste fullsatt redan före kl. 22 på kvällen. Andra stora ungdomsgäng härjade bl.a. på Gärdet, på Lidingö, på Ekerö och på Bromstensfältet. [(SVD820918)](http://files.blay.se/hetalinjen/.820918-SVD-12.jpg).
 
 Även Expressen uppmärksammar att det var en stökig helg. Ungdomar har setts som "välte bilar, krossade fönster och brände valaffischer i Stockholms city". Vid en rockkonsert på Sergels torg samlade ungdomarna ihop affischer och tände på. När polisen gick in för att gripa dem så går kamraterna till attack för att frita dem. [EX820920](http://files.blay.se/hetalinjen/.820920-Expressen-59.jpg)
 
@@ -106,10 +106,10 @@ Efter de första reaktionerna så drunknar nyheten i framförallt två stora hä
 
 En liten liten notis ses dock på [DNs förstasida](http://files.blay.se/hetalinjen/.820919-DN-1.jpg) på söndagen: "Slutringt på heta linjen". [Längre in i tidningen](http://files.blay.se/hetalinjen/.820919-DN-5.jpg) får vi lära att televerket har kallat in tjugo experter som ska stänga ner de nummer som används för heta linjen. Den extrainkallade personalen kommer efter att polisen varit på besök och krävt ett stopp på samtalen.
 
-Televerket förklarar hur heta linjen funkar: 
+Televerket förklarar hur heta linjen funkar:
 
-> "Heta linjen" är många linjer. Det är abonnemang som har upphört men där det finns hänvisningston och talbesked: Var god tag 90 120 för besked. 
-> - Televerket har varit generöst och låtit hänvisningen stå kvar flera år efter det att abonnemanget flyttat eller abonnemanget upphört, berättar Bengt Källsson. 
+> "Heta linjen" är många linjer. Det är abonnemang som har upphört men där det finns hänvisningston och talbesked: Var god tag 90 120 för besked.
+> - Televerket har varit generöst och låtit hänvisningen stå kvar flera år efter det att abonnemanget flyttat eller abonnemanget upphört, berättar Bengt Källsson.
 > Alla linjer som inte används kopplas till en speciell utrustning där linjerna läggs parallellt och en talmaskin kopplas in. När flera personer ringer ett nummer som upphört kan de tala eller skrika [sic!] med varandra.
 [(DN820919)](http://files.blay.se/hetalinjen/.820919-DN-5.jpg)
 
@@ -122,15 +122,15 @@ Där har vi supernoden...
 
 Televerket är dock inte så hjärtlösa att de bara stänger ner linjerna. Man förstår trots allt att det finns ett socialt behov, framförallt för "gamla, sjuka och handikappade". Istället ska man undersöka möjligheterna till att ordna "seriösa gruppsamtal" [(DN820919)](http://files.blay.se/hetalinjen/.820919-DN-5.jpg).
 
-Ett officiellt nummer inrättas till slut. Men där gäller andra ordningsregler. Bara 5 personer åt gånger får tala med varandra och då [bara i 5 minuter](hetalinjen.html). Gissningsvis har polisen ett öra på tråden på fredagskvällarna också. På så vis kan ett socialt behov fyllas utan att det för den sakens skull uppstår oförutsedda händelser inne i City på helgerna.
+Ett officiellt nummer inrättas till slut. Men där gäller andra ordningsregler. Bara 5 personer åt gånger får tala med varandra och då [bara i 5 minuter](2012-08-22-hans-magnus-enzensberger-om-heta-linjen-upploppet-1982.html). Gissningsvis har polisen ett öra på tråden på fredagskvällarna också. På så vis kan ett socialt behov fyllas utan att det för den sakens skull uppstår oförutsedda händelser inne i City på helgerna.
 
 Den officiella linjen övergår senare till de privata linjer som än idag går att sikta i små tidningsannonser. De privata linjerna har inte mycket väsen av sig, även om många säkert har personliga barndomsminnen av dem. Den enda kontroversen som uppstått på senare tid var ett mord i Malmö på 90-talet där två män bestämt träff över heta linjen och den ena mördade den andra. Denna gång var det dock ingen som fick för sig att skylla på heta linjen, utan individens psykologiska läggning, troligtvis med homofoba motiv, ansågs ligga bakom.
 
 ## Den Stora Kompromissen
 
-De kursiva delarna i början av denna text är från [Hans-Magnus Enzensbergers "svensk höst"](hetalinjen.html), en av de få längre redogörelse för händelseförloppet från den tyske filosofens bok "Ach Europa!" där han reser runt i sju europeiska länder och fångar tidsandan. Heta linjen-upploppet och dess efterföljd ser han som ett tecken på en typiskt svensk relation till staten och förtroendet för  samhälliga institutioner.
+De kursiva delarna i början av denna text är från [Hans-Magnus Enzensbergers "svensk höst"](2012-08-22-hans-magnus-enzensberger-om-heta-linjen-upploppet-1982.html), en av de få längre redogörelse för händelseförloppet från den tyske filosofens bok "Ach Europa!" där han reser runt i sju europeiska länder och fångar tidsandan. Heta linjen-upploppet och dess efterföljd ser han som ett tecken på en typiskt svensk relation till staten och förtroendet för  samhälliga institutioner.
 
-Han är förbluffad över upptäckten av ett nytt massmedium, vad han anser vara "en social uppfinning av första ordningen". 
+Han är förbluffad över upptäckten av ett nytt massmedium, vad han anser vara "en social uppfinning av första ordningen".
 
 > Intelligentare än så kan man knappt använda modern kommunikationsteknik. Jag vet inte om det existerar något sådant som ett Stockholms stads kulturpris. Om så är fallet, har de okända upptäckarna av den “heta linjen” förtjänt det bättre än alla uppåtsträvande actionkonstnärer i riket. Det borde stå klart till och med för de välbetalda experter som i årtionden har tråkat ut publiken med sina bekymrade utlåtanden om den nuvarande ungdomens brist på målsättning, svaga motivation och normlöshet.
 
@@ -159,13 +159,13 @@ Jag vill dock inte vara allt för snabb att avskriva dessa moralpaniker. Det vor
 
 ## En Alldeles Egen Värld
 
-Det som är gemensamt för heta linjen, kungsankravallerna (då det ännu inte fanns övervakningskameror i City) och i varje fall det tidiga internet är att de alla skapar en social sfär där främst unga skapar gemenskaper och helt egna normer och beteende, utan insyn från varken reglerande institutioner eller socialarbetare och med en möjlighet att starta en helt nytt liv istället för det man fått via [det sociala arvet](http://sv.wikipedia.org/wiki/Det_sociala_arvet). 
+Det som är gemensamt för heta linjen, kungsankravallerna (då det ännu inte fanns övervakningskameror i City) och i varje fall det tidiga internet är att de alla skapar en social sfär där främst unga skapar gemenskaper och helt egna normer och beteende, utan insyn från varken reglerande institutioner eller socialarbetare och med en möjlighet att starta en helt nytt liv istället för det man fått via [det sociala arvet](http://sv.wikipedia.org/wiki/Det_sociala_arvet).
 
 Långt innan Facebook och Google gav direkttillgång till alla användares information till underrättelsetjänst och polis och långt innan FRA kopplade in sina kablar som kopierar all svensk internettrafik till deras databaser var internet också en sådan plats. Innan hemsidor och ens internetleverantörer fanns kunde vem som helst med ett telefonmodem och dator ringa upp andras datorer och utbyta information. Tack vare smarta telefonhack som möjliggjorde gratissamtal så utvecklades detta till ett globalt nätverk åratal innan Carl Bildt 1994 skickade första emailet statschefer emellan till Bill Clinton.
 
 För Kittler sätter medierna gränserna för vad vi kan uppleva och för vår föreställningsförmåga. Men detta har inte att göra med innehållet i medierna, vilket han likt McLuhan i stort sett ignorerar. Det är inte innehållet i romaner, filmer eller filosofiska skrifter visar upp nya världar som inspirerar till aktion. Hos honom är det istället mediets tekniska struktur själv som sätter gränserna -- vilka kopplingar och meddelanden det tillåter eller filtrerar bort, vilka som kan skicka, ta emot eller lyssna av.
 
-Nya medier skapar nya möjligheter till kommunikation och sociala grupperingar som drar nya gränser mellan deltagare och utomstående. 
+Nya medier skapar nya möjligheter till kommunikation och sociala grupperingar som drar nya gränser mellan deltagare och utomstående.
 
 ## Jämförelse med Nätpolitik
 
@@ -178,4 +178,3 @@ En samtida nyhet om händelsen kanske skulle sett ut som följande:
 Den 17 september (i år en måndag) är det 30 år sedan heta linjen-upploppet. Det innebär att vi har nästan exakt en månad på oss att komma på hur vi bäst uppmärksammar jubileet. *Ska du till Fridhemsplan ikväll?*
 
 *Stay tuned for part II...*
-

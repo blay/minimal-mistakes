@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: post
 title: Hans Magnus Enzensberger om Heta-linjen-upploppet 1982
+tags: swedish tldr
+summary: Utdrag ur Hans Magnus Enzensbergers "Svensk höst (1982)" i boken "ACK EUROPA!"
 ---
 
-*Ur: Hans Magnus Enzensbergers "Svensk höst (1982)" i boken "ACK EUROPA!"*
+*Utdrag ur: Hans Magnus Enzensbergers "Svensk höst (1982)" i boken "ACK EUROPA!"*
 
 ## I Institutionernas hägn
 
@@ -14,7 +16,7 @@ Polisen  var på plats efter en halvtimme, ett uppbåd på över femtio man med 
 
 Först nästa morgon kunde stockholmarna läsa i sin dagstidning vad som hade gett upphov till denna våldsamma aktion mot ungdomarna: en social uppfinning av första ordningen. Några klyftiga ungar hade upptäckt en intressant teknisk lucka i det allmänna telefonnätet: den som slog ett visst nummer utan bestämd abonnent kunde tala med vem som helst, som gjorde detsamma. De aktuella numren spreds som en löpeld genom Stockholms skolor och ett enormt, spontant telefonmöte uppstod. Ett nytt massmedium hade fötts: den "heta linjen". Intelligentare än så kan man knappt använda modern kommunikationsteknik. Jag vet inte om det existerar något sådant som ett Stockholms stads kulturpris. Om så är fallet, har de okända upptäckarna av den "heta linjen" förtjänt det bättre än alla uppåtsträvande actionkonstnärer i riket. Det borde stå klart till och med för de välbetalda experter som i årtionden har tråkat ut publiken med sina bekymrade utlåtanden om den nuvarande ungdomens brist på målsättning, svaga motivation och normlöshet.
 
-Nå, överheten föredrog, som sagt, en annan form av reaktion. Vad har man annars hundpatruller till? Visserligen fick polisledningen uppbära milt klander i några välavvägda tidningsartiklar. Den omständigheten att deras insats var ett klart brott mot grundlagen, där varje svensk medborgare garanteras mötesfrihet, var det självfallet ingen av kritikerna som nämnde, och jag har heller inte fått det intrycket att man har avkrävt räkenskap av någon av de ansvariga. 
+Nå, överheten föredrog, som sagt, en annan form av reaktion. Vad har man annars hundpatruller till? Visserligen fick polisledningen uppbära milt klander i några välavvägda tidningsartiklar. Den omständigheten att deras insats var ett klart brott mot grundlagen, där varje svensk medborgare garanteras mötesfrihet, var det självfallet ingen av kritikerna som nämnde, och jag har heller inte fått det intrycket att man har avkrävt räkenskap av någon av de ansvariga.
 
 Nu är polisens egenmäktighet, det vet jag av egen erfarenhet, alls inte någon svensk specialitet, och hur motbjudande hela händelsen än förefaller mig skulle jag ändå inte fortsätta att tjata om myndigheternas småskurna ordningssinne om det hela hade inskränkt sig till ett par sönderrivna jeans. Det terror som utövas av den franska eller västtyska polisen (för att inte tala om den östtyska) tar sig när allt kommer omkring betydligt farligare former, som de svenska kollegerna knappast kan konkurrera med.
 
@@ -24,9 +26,9 @@ Deras brott bestod helt enkelt i att de inte hade utnyttjat någon av de *instit
 
 Efterhandsbeviset för denna tes levererades inom en vecka. Knappt hade blåmärkena bleknat och jeansen lappats förrän den berörda myndigheten blandade sig i saken med ett erbjudande om att *institutionalisera* den heta linjen.
 
-"Vi har förstått att heta linjen verkligen representerar ett behov för många ungdomar. Därför tänker vi inrätta ett särskilt telefonnummer för gruppsamtal, där förslagsvis fem personer åt gången kan samtala med varandra fem minuter i taget." Logiken i den statliga interventionspolitiken är fullkomligt klar: första batongen, sedan moroten. Ungdomarnas sociala fantasi, deras självverksamhet skall kvävas genom ett slags kniptångsrörelse: å ena sidan genom att undertryckas, å andra sidan genom att förstatligas. Den frihet att röra sig och tala med varandra, som några hundra unga stockholmare hade tagit sig, framstår för såväl polis som vårdpersonal som ett självsvåld som inte kan tolereras. 
+"Vi har förstått att heta linjen verkligen representerar ett behov för många ungdomar. Därför tänker vi inrätta ett särskilt telefonnummer för gruppsamtal, där förslagsvis fem personer åt gången kan samtala med varandra fem minuter i taget." Logiken i den statliga interventionspolitiken är fullkomligt klar: första batongen, sedan moroten. Ungdomarnas sociala fantasi, deras självverksamhet skall kvävas genom ett slags kniptångsrörelse: å ena sidan genom att undertryckas, å andra sidan genom att förstatligas. Den frihet att röra sig och tala med varandra, som några hundra unga stockholmare hade tagit sig, framstår för såväl polis som vårdpersonal som ett självsvåld som inte kan tolereras.
 
-I längden inser också ungdomarna detta, åtminstone några av dem. De bildar en kommitté som förhandlar med berörda myndigheter, med socialnämnden och televerket. Och från den stunden kan man låta polishundarna stanna i sin hundgård. Blott hjälpsamhet och förståelse möter de får som hittat tillbaka till fållan. 
+I längden inser också ungdomarna detta, åtminstone några av dem. De bildar en kommitté som förhandlar med berörda myndigheter, med socialnämnden och televerket. Och från den stunden kan man låta polishundarna stanna i sin hundgård. Blott hjälpsamhet och förståelse möter de får som hittat tillbaka till fållan.
 
 <br>
 
@@ -34,7 +36,7 @@ Max Weber har kallat denna fålla "institutionernas häng". Vi vet vad det betyd
 
 I detta dilemma finner jag ingenting som är specifikt svenskt. Och ändå kommer den teoretiska analysen inte åt den egendomliga karaktären hos de strategier, med vilkas hjälp man i den skandinaviska välfärdsstaten försöker glätta ut den grundläggande konflikten mellan människorna och deras institutioner. Båda sidor träder varandra nämligen till mötes i ett tillstånd som vore otänkbart på andra ställen: ett tillstånd av historisk oskuld.
 
-Vare sig det nu rör sig om "heta linjen", om alkoholismen, om stadsplanering eller sjukvård, om uppfostran av deras barn eller beskattning av deras löner: alltid är Sveriges medborgare beredda att komma sina myndigheter så troskyldigt och tillitsfullt till mötes som stode deras godartade beskaffenhet utom varje tvivel. En spanjor, en irländare, en italienare eller fransman skulle finna denna hållning obegriplig; för medborgarna i dessa länder har tvivlet, förtreten och misstron för länge sedan blivit en andra natur, och till och med tyskarna, om vilka man alltid brukar påstå att de förhåller sig särdeles lydigt mot överheten, kan sedan några årtionden tillbaka inte längre ta upp tävlan med svenskarna i detta avseende. 
+Vare sig det nu rör sig om "heta linjen", om alkoholismen, om stadsplanering eller sjukvård, om uppfostran av deras barn eller beskattning av deras löner: alltid är Sveriges medborgare beredda att komma sina myndigheter så troskyldigt och tillitsfullt till mötes som stode deras godartade beskaffenhet utom varje tvivel. En spanjor, en irländare, en italienare eller fransman skulle finna denna hållning obegriplig; för medborgarna i dessa länder har tvivlet, förtreten och misstron för länge sedan blivit en andra natur, och till och med tyskarna, om vilka man alltid brukar påstå att de förhåller sig särdeles lydigt mot överheten, kan sedan några årtionden tillbaka inte längre ta upp tävlan med svenskarna i detta avseende.
 
 Denna lyckliga godtrogenhet har säkert flera orsaker. Den viktigaste torde emellertid stå att finna i en brist på erfarenhet som man bara kan avundas svenskarna. De politiska makthavarna i detta land har sedan urminnes tider avstått från ett tidsfördriv som är vardagsmat i andra trakter av världen: beväpnad människojakt. Därför hänger sig svenskarna åt tron att myndigheterna bara vill deras bästa.
 
@@ -69,5 +71,3 @@ En så slående argumentation kommer man knappast åt med citat. jag skulle änd
 "*Myndighet*, av *myndig*. Ordet betecknar egentligen 'den som har makt' och är härlett ur det germ. *mundô*, 'hand'. Det betecknar i synnerlighet den makt, som självständiga medlemmar av en familj utövade över de osjälvständiga: anglosaxiska *mund*, 'hand, skydd, förmynderskap, förmyndare' och 'köpesumma för bruden och det genom köpet förvärvade förmynderskapet över densamma'. En härledning är *myndling*, 'den som lyder under en annans makt'. Se äv. *förmyndare."
 
 Jag tycker mig minnas att det i den grå forntiden var en av vänsterns önskedrömmar att befria människorna ur deras omyndighet. Hur det kommer sig att dyrkan av staten i flera länder och, fruktar jag, även i Sverige har blivit vänsterns trosbekännelse, medan lusten att bestämma själv har förvandlats till själva inbegreppet av borgerlig förstockelse, har jag egentligen aldrig riktigt förstått.
-
-
