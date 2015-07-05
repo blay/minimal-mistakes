@@ -7,7 +7,7 @@ date: 2010-09-20 22:37:01 +02:00
 
 ---
 
-[*@macdeleuzian*](http://twitter.com/macdeleuzian)*skapade*[*en padda*](http://pad.telecomix.org/kooopimi)*som hakade i*[*senaste inlägget om accelerationism*](http://www.blay.se/2010-09-17-accelerationism-iii-eskalationism-pirateri-och-den-absoluta-horisonten-for-manskligheten.html)*. Jag skrev en lång kommentar på den paddan som jag återpublicerar här. Den står sig bara delvis på egen hand så ha gärna*[*paddan*](http://pad.telecomix.org/kooopimi)*till hands också.*
+[*@macdeleuzian*](http://twitter.com/macdeleuzian)*skapade*[*en padda*](http://pad.telecomix.org/kooopimi)*som hakade i*[*senaste inlägget om accelerationism*](2010-09-17-accelerationism-iii-eskalationism-pirateri-och-den-absoluta-horisonten-for-manskligheten.html)*. Jag skrev en lång kommentar på den paddan som jag återpublicerar här. Den står sig bara delvis på egen hand så ha gärna*[*paddan*](http://pad.telecomix.org/kooopimi)*till hands också.*
 
 --- Original måste för det första, för att kunna uppfattas som det gör i den här texten, dessutom få en mycket striktare betydelse än det har i den gängse upphovsrättsdiskussionen. Original här måste betyda singularitet, snarare än ett verk som har en tillblivelsehistoria som inte grundar sig i andra verk. Men där är vi säkert alla överens.
 
