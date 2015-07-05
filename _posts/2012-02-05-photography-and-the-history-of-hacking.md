@@ -5,15 +5,7 @@ tags: english notswedish tldr
 summary: Book chapter I write for "The Reader - North/South, River Run" produced by The School of Photography at the University of Gothenburg.
 ---
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
+{% include _toc.html %}
 
 *This text is featured in "The Reader - North/South, River Run" produced by The School of Photography at the University of Gothenburg. The book is edited by Kerstin Hamilton and put together from lectures given at a course with the same name as the title of the book in the summer of 2011. It features among others: Annika von Hauswolff, Karl Palmås and a cartoon about Fredrik Svensk. My lecture on hacking and photography was held a sunny day in a park in Gothenburg* 
 

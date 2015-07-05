@@ -7,15 +7,7 @@ image:
  feature: harbour_narrow.jpg
 ---
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
+{% include _toc.html %}
 
 *Presentation about control, code, immaterialization and law and piracy as the disturbance of the flow of control at the "On the Move" conference.*
 

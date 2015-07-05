@@ -5,15 +5,7 @@ tags: english notswedish tldr
 summary: The relation between three tendencies in net politics and how they risk sabotaging for each other.
 ---
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
+{% include _toc.html %}
 
 I want to expand on a post at the Swedish blog Guldfiske (gold fishing) called [The Second Phase](http://guldfiske.motkraftblogg.net/2012/01/04/den-andra-fasen/). It deals with three tendencies that can be discerned in the response to the current economic crisis. These are called *alternative*, *defence* and *attack*. The key point of the article is that a counter force to the way the crisis is handled is most powerful when these three tendencies are reinforcing each other, but there is a danger that they are instead sabotaging and competing with each other, leading to dynamics that will weaken a counter-force. I will try here to relate the same model to net politics. First, a summary of the article of Guldfiske:
 

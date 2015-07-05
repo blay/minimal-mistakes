@@ -7,15 +7,7 @@ image:
  feature: thule_narrow.jpg
 ---
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
+{% include _toc.html %}
 
 *Insåg att jag inte bloggat sen i juni och panikpostar därför detta. Det är en fulöversättning av Telecomix-texten [The Apocryphal Machinery of Ciphernautics](The Apocryphal Machinery of Ciphernautics) gjord lagom till Korpen Koloni:s släpp av [Den cybernetiska hypotesen](http://korpenkoloni.se/aktuellt.html). Det är en i mångt och mycket fantastisk och vansinnig text. Håll till godo!*
 

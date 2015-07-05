@@ -7,15 +7,7 @@ image:
  feature: heta_narrow.jpg
 ---
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
+{% include _toc.html %}
 
 *Denna text är ytterligare en variant på en sammanställning av den research jag gjort kring heta linjen-upploppet den 17 september 1982. Tidigare versionen har hamnat i [Arbetaren Kultur](http://arbetaren.se/artiklar/heta-linjen-30-ar-senare/) och presenterats på [Make All](http://make-all.se/) på Tekniska Museet i Stockholm den 18 augusti.*
 
