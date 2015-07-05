@@ -19,7 +19,7 @@
     {% if page.image.feature contains 'http' %}
       "{{ page.image.feature }}"
     {% else %}
-      "/images/{{ page.image.feature }}"
+      "images/{{ page.image.feature }}"
     {% endif %}
   alt="{{ page.title }} feature image">
   {% if page.image.credit %}
@@ -37,7 +37,7 @@
       {% if page.link %}
         <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
       {% else %}
-        <h1><a href="{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+        <h1><a href="{{ page.url | remove_first:'/'}}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
   </div><!--/ .headline-wrap -->
     <div class="article-wrap">

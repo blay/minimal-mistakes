@@ -19,7 +19,7 @@
     {% if page.image.feature contains 'http' %}
       "{{ page.image.feature }}"
     {% else %}
-      "/images/{{ page.image.feature }}"
+      "images/{{ page.image.feature }}"
     {% endif %}
   alt="{{ page.title }} feature image">
   {% if page.image.credit %}
@@ -33,13 +33,13 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    <h3><a href="/archive.html">Recent Posts</a></h3>
+    <h3><a href="archive.html">Recent Posts</a></h3>
     {% for post in site.categories.tldr limit:5 %}
     <article>
       {% if post.link %}
-        <h2 class="link-post"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
+        <h2 class="link-post"><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
       {% else %}
-        <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <h2><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a></h2>
 {% if post.summary %}
 <p>{{ post.summary | strip_html | truncate: 160 }}</p>
 {% else %}
