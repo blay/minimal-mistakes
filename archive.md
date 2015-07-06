@@ -25,12 +25,14 @@ excerpt: "A List of Posts"
 <h2 class="link-post"><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
 {% else %}
 {% unless post.tags contains 'txt' %}
+{% unless post.tags contains 'secret' %}
 <h2><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a></h2>
 {% if post.summary %}
 <p>{{ post.summary | strip_html | truncate: 160 }}</p>
 {% else %}
 <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
 {% endif %}
+{% endunless %}
 {% endunless %}
 {% endif %}
 </article>
