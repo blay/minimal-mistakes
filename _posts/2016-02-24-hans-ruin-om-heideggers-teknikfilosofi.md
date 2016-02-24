@@ -18,7 +18,7 @@ Hans börjar med att nämna två böcker som sätter föreläsningen i ett samma
 
 Efter detta går Hans in på teknikfilosofins historia. När började man egentligen tala om teknik som en filosofisk fråga? Denna finns inte hos Hegel eller Kant. Marx är den som är tidigast ute med att skapa en slags teknikfilosofi. Han nämner änven Ernst Kapp som var tidigt ute med idén att teknik är en slags organ-förlängning; en idé som gjorts populär av Marshall McLuhan (McLuhan, 2001) men sågats till fotknölarna av Friedrich Kittler i en paragraf som är för bra för att inte citeras direkt:
 
-> In contrast to such an arch-catholic media cult [alltså idén om att medier är förlängningar av mänskliga förmågor], which simply confuses the Holy Spirit and Turing's machine, it is hopefully sufficient to point out that the development of all previous technical media, in the field of computers as well as optical technologies, was for purposes directly opposed to cosmic harmony -- namely, military purposes.
+> In contrast to such an arch-catholic media cult [alltså idén om att medier är förlängningar av mänskliga förmågor som skapar en" global village"], which simply confuses the Holy Spirit and Turing's machine, it is hopefully sufficient to point out that the development of all previous technical media, in the field of computers as well as optical technologies, was for purposes directly opposed to cosmic harmony -- namely, military purposes.
 >
 > (Kittler, 2010, p. 30)
 
