@@ -17,7 +17,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-*Insåg att jag inte bloggat sen i juni och panikpostar därför detta. Det är en fulöversättning av Telecomix-texten [The Apocryphal Machinery of Ciphernautics](The Apocryphal Machinery of Ciphernautics) gjord lagom till Korpen Koloni:s släpp av [Den cybernetiska hypotesen](http://korpenkoloni.se/aktuellt.html). Det är en i mångt och mycket fantastisk och vansinnig text. Håll till godo!*
+*Insåg att jag inte bloggat sen i juni och panikpostar därför detta. Det är en fulöversättning av Telecomix-texten "The Apocryphal Machinery of Ciphernautics" [PDF](http://telecomix.org/apocryphalmachineryofciphernautics.pdf) gjord lagom till Korpen Koloni:s släpp av [Den cybernetiska hypotesen](http://korpenkoloni.se/aktuellt.html). Det är en i mångt och mycket fantastisk och vansinnig text. Håll till godo!*
 
 # Det apokryfiska chiffernautikmaskineriet
 
