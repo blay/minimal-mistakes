@@ -252,7 +252,7 @@ task :np do
 	     file.puts "---"
 	  end
   end
-  `subl #{path}`
-  `rm -f #{path}`
+  `atom #{path}`
+  # `rm -f #{path}`
   exit 1
 end
