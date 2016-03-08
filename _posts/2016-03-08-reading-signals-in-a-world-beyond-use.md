@@ -2,12 +2,12 @@
 layout: post
 title: Reading Signals in a World beyond Use
 summary: 'A workshop for imagining the use of GPS signals in a world where its current uses do not exist '
-tags: english notswedish 
+tags: english notswedish
 image:
  feature: gps_narrow.png
 ---
 
-*Text and images made as part of a workshop by Christopher Peter Wood at the NSU Winter Symposium on "Appropriating Science and Technology for Societal Change" on the theme of ["DIY in the Anthropocene"](http://nordic.university/study-circles/appropriating-science-and-technology-for-societal-change/winter-symposium-program/). In the workshop we were asked to imagine alternative uses of the GPS satellite network in a world where its current uses didn't exist.*
+Text and images made as part of a workshop by Christopher Peter Wood at the NSU Winter Symposium on "Appropriating Science and Technology for Societal Change" on the theme of ["DIY in the Anthropocene"](http://nordic.university/study-circles/appropriating-science-and-technology-for-societal-change/winter-symposium-program/). In the workshop we were asked to imagine alternative uses of the GPS satellite network in a world where its current uses didn't exist.
 
 > I imagine that there has been a rift. A break between one civilization and the next. A great forgetting.
 >

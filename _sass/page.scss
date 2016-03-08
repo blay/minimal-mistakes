@@ -451,7 +451,7 @@ $button-size: 1.5rem;
 	// Dotted line underlines for links
 	p > a,
 	li > a {
-		text-decoration: underline;
+		border-bottom: 1px dotted #5d686f;
 	}
 }
 
@@ -746,4 +746,3 @@ $button-size: 1.5rem;
 	border-left: 8px solid #333332;
 
 }
-
