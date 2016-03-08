@@ -1,12 +1,13 @@
 # Site wide configuration
 
-title:            blay.se
+title:            ΩΞ
 locale:           en_US
-url:              http://www.blay.se
+url:             http://www.blay.se
 teaser: teaser.jpg
 
+
 # Jekyll configure
-permalink:   /:year/:month/:day/:title/
+permalink:   :year-:month-:day-:title.html
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -41,19 +42,20 @@ owner:
   avatar: bio-photo.jpg
   bio: "Internet and beyond. Pre-modern, post-human, para-academic."
   email: ok@blay.se
-  disqus-shortname: blay 
+  disqus-shortname:
   twitter: monki #username
   facebook: #username
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: blay #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
+  xing: #username
   instagram: #username
   lastfm: #username
   tumblr: #username
@@ -64,6 +66,7 @@ owner:
   youtube: #username
   soundcloud: #username
   zotero: magnu.se #username
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

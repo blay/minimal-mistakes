@@ -41,7 +41,7 @@ task :push, :message do |t, args|
   if branch.nil? or branch.empty?
     raise "Please add a branch."
   else
-    puts 'PUSHING MASTER TO BLAY AND GITHUB'
+    puts 'PUSHING MASTER TO OMXI AND GITHUB'
     system "git checkout #{branch}"
     system "git add ."
     system "git commit -m \"#{message}\""
@@ -63,7 +63,7 @@ task :pushdev, :message do |t, args|
   if branch.nil? or branch.empty?
     raise "Please add a branch."
   else
-    puts 'PUSHING DEV TO BLAY AND GITHUB'
+    puts 'PUSHING DEV TO OMXI AND GITHUB'
     system "git checkout #{branch}"
     system "git add ."
     system "git commit -m \"#{message}\""
@@ -242,13 +242,13 @@ task :np do
   ARGV.shift
   title = ARGV.join(' ')
 
-  path = "_posts/#{Date.today}-#{title.downcase.gsub(/[^[:alnum:]]+/, '-')}.markdown"
+  path = "_posts/#{Date.today}-#{title.downcase.gsub(/[^[:alnum:]]+/, '-')}.md"
 
   if File.exist?(path)
 	  puts "[WARN] File exists - skipping create"
   else
 	  File.open(path, "w") do |file|
-		 file.puts YAML.dump({'layout' => 'post', 'title' => title, 'categories' => 'english notswedish research tldr', 'summary' => ''})
+		 file.puts YAML.dump({'layout' => 'post', 'title' => title, 'tags' => 'english notswedish research tldr', 'summary' => ''})
 	     file.puts "---"
 	  end
   end

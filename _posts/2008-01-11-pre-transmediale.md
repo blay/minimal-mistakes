@@ -1,0 +1,41 @@
+--- 
+
+layout: post
+title: Pre-Transmediale 
+tags: english swedish tldr
+date: 2008-01-11 16:33:26 +01:00 
+
+---
+
+Ett inlägg skrivet efter en förhandsvisning av ett antal videoverk som ska visas på [Transmediale08](http://www.transmediale.de "Transmediale08"). Sammanställt en månad senare. I flera av verken som visades på förhandsvisningne i Malmö konsthall hade konstnären lånat uttryck, bilder, röster och gett sig på att direkt eller indirekt representera en verklighet utomstående konstverket. Därför kommer detta inlägget att handla om relationen mellan representation och licenser, d.v.s. att definiera videon som ett verk med allt vad det innebär samtidigt som annat material ingår. 
+
+I de tre fallen jag ska ta upp handlar det uteslutande om att representera och låna uttryck från fattigdom, misär och misslyckande på ett sätt som, genom att upphöjas till verk, får motsatta effekter för konstnären; inkomster, erkännande och framgång. Att infoga dessa röster och uttryck inom verket med copyright skapas en artificiell brist på konstnärens villkor och rösternas räckvidd styrs nu av dennes villkor. Trots att konsten uppmuntrar socialkritik får en konstnär idag passa sig hur man använder andras olycka i sitt verk.
+
+![](http://docs.google.com/File?id=df2vgdxk_144hp56sxvw)
+
+Under Construction av Zhenchen Liu: Bländande vacker sammansmältning av fotografipanorering och video i detta verk som handlar om hur man i Shanghai vill förnya stadens centrum genom att riva stora delar av den gamla stadskärnan. Varje år tvingas 100000 familjer flytta från rivningsområdena ut till ytterområden. Filmen rör sig över rivna stadsdelar och växlar till dokumentär video när vi får höra invånarnas förtvivlade berättelser om fattigdom, hot och misshandel när de tvingas bort från sina hem. Här får man ändå säga att konstnären kommer undan med kombinationen av estetiserande och misär. Estetiseringen bidrar till den kusliga stämningen och förhöjer känslan av närvaro. Rösterna från invånarna infogas i en helhet som kan sägas förstärka vad de ger uttryck för. Vackert och socialkritiskt. Bra betyg. 
+
+30 Seconds av Claudia Salamanca: Verket baseras på ett 30 sekunder långt tal av Tito, före detta borgmästare i en liten stad i Colombia, som under ett publikt möte 2003, där även Colombias president var närvarande, greppar mikrofonen och förkastar det korrupta politiska styret samt förutspår att han själv kommer att bli mördad av korrupta tjänstemän och hemliga polisstyrkor, vilket senare skedde. Detta drama använder konstnären genom en serie inzoomningar och slowmotion-klipp till att reflektera över hennes privata relation till döden och framförallt till hennes sjuka moder. En politiskt laddad verklighet om ett land drabbat av korruption vänds till en personlig reflektion om konstnärens privata relation till döden och till hennes mamma. Här ligger konstnären verkligen på gränsen. Verket i sig relaterar inte till kontexten där rösterna hämtats från utan den nonchaleras till förmån för individuellt reflekterande på tryggt avstånd. Intressant att notera var den "Creative Commons"-licens som sattes på just det här verket, det som var mest fokuserat på konstnärens privatliv fick ett medvetet val av licens, då man kan anta att de andras copyright-licenser snarare satts dit av vana. Det är oklart vilken typ av CC-licens det rörde sig om.
+
+![](http://docs.google.com/File?id=df2vgdxk_145g27jp6ck) The Three Failures av Michael Blum: Slutligen har vi en video som relaterar till sina lånade uttryck på ett helt annat sätt. The Three Failures föreställer konstnären själv klädd i pälsmössa, solglasögon och skrikigt färgade byxor som vandrar runt husknut efter husknut i ett ihopklipp av miljöer från Riga, Malmö och New York. Sanning och lögn blandas när den vandrande Michael berättar historien om kommunismens dåvarande, socialdemokratins nuvarande och kapitalismens framtida förfall. Nu rör det sig in om personer utan städer och primärt arkitekturen i dessa städer som representeras. Här sökes heller inte empati för deras sak, istället häcklas närmast städernas uttryck. Konstnären är iklädd en löjlig utstyrsel, bakgrundsscenariot upprepas om och om igen och vi får historier och teorier som gör narr av de tre städernas ambitioner. Sannerligen blir någon kränkt, som sig bör i detta fall då det endast drivs med sånt man får driva med inom konstvärlden.
+
+I det sista fallet tar konstnären för sig av sitt tolkningsföreträde på ett aktivt sätt och kommer undan med det. Under Construction försöker göra rättvisa och röst åt invånarnas tolkning och lika bra är det då mycket står på spel. 30 Seconds är då den som lyckas sämst då känsliga ämnen som fattigdom och korruption behandlas, men att konstnären ställer sin egen individ i vägen för dem.
+
+Det är inte lätt att vara konstnär dessa dagar. Det räcker inte att utropa konstnärens auktoritet och tolkningsföreträde för att rättfärdiga ett verk, utan en mängd hänsyn måste tas. [Subtopia](http://subtopia.blogspot.com/2007/11/squatter-imaginaries.html "Subtopia") har en artikel om representation av slumkvarter och börjar typiskt med "In my opinion, what is most important about any work of art is the actual effect it will have on culture and public perception."
+
+![](http://docs.google.com/File?id=df2vgdxk_146fdkg58cq)
+
+Artikeln tar upp digitalt redigerade fotografier av [Dionisio Gonzalez](http://www.collectionsocietegenerale.com/artistes-detail-111.html) som framställer en slags alternativ arkitektur eller en alternativ verklighet hos brasilianska favelas och diskuterar dem i förhållande till kritiskt nytänkande representationer av favelas till skillnad mot myndigheternas syn på dem samt i förhållande till den våg av ["slumsploitation"](http://www.metamute.org/en/Slumsploitation-Favela-on-Film-and-TV)-filmer som kommit fram ur brasiliens filmvärld (ivrigt påhejad av president Lula och Gilberto Gil som ser brasiliens kreativa industrier som framtidens främsta inkomstkälla).
+
+![](http://docs.google.com/File?id=df2vgdxk_148dv2mrkdp) gentrifiering och third worldization. 
+
+![](http://docs.google.com/File?id=df2vgdxk_147ddhwrdfd)
+
+Subtopia beskriver bilderna som "un-depressed, humanized space" och att perspektivet är ett slags vykortsperspektiv. Skönmålande av en bister verklighet eller emancipatoriska nyrepresentationer? Kanske en glimtning om hur världens växande slumstäder både betraktas som ett av de största humanitära problemen idag och ses som platser för en framväxande komplex uppfinningsrikedom och socialitet som kommer föda framtidens entreprenörer och världsledare. ![](http://docs.google.com/File?id=df2vgdxk_149crrm6wc9)
+
+Mest intressant blir bilderna om vi lämnar representationen åt sin egen konfliktfylldhet och istället ser vad bilderna kan säga om arkitektens roll ställd inför informella bosättningar. Rem Koolhaas har kritiserat arkitekturens språk och menar att arkitektens roll idag inte bara handlar om att skapa nytt. "Not just about adding things". Gonzales bilder framställer varken en realistisk bild av favelan idag eller ett tänkt nybygge. Bitar av den har klippt ut och omorganiserats samtidigt som den infogats i metropolens glasbyggen. Strukturerad organisering samsas med kaotiska påbyggdnader. Skjulbyggarna blir arkitektens ofrivilliga medarbetare som komplimenterar stadsplaneringen både genom integrations och dissonans. Arkitektens omorganisering både ger stöd åt och drar gränser för favelans dynamik, kväver den och ger den andningsutrymme om vartannat. Är de sporadiska glasbyggnaderna ett tecken på de fattigas integrering i samhällsekonomin eller en gentrifiering som knuffar informella bosättare ännu längre ut mot stadens kanter, en gräns mellan formalitet och informalitet som vidgas i en allt större sfär? Är det här den tidigare skarpa gränsen mellan utanförskap och inkludering upplöses i gråzoner eller är det organiserande rastret en mur skapad för att hindra fortsatt spridning av den informella byggnationen? 
+
+Helt klart är det en ny terräng för arkitekturen att navigera i som kräver ett nytt språk. Jag skulle inte kalla det en gråzon eftersom det ofta finns oerhört skarpa gränser mellan informella bosättningar av den här typen och de inhägnade bostadsområden som ofta gränsar till dem. Snarare är det en ny, mycket komplex men ändå binär, strukturering av dessa gränser som växer fram.
+
+
+

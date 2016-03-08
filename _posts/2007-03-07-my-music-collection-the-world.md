@@ -1,0 +1,16 @@
+--- 
+
+layout: post
+title: My Music Collection - The World 
+tags: english notswedish
+date: 2007-03-07 11:09:11 +01:00 
+
+---
+
+I don't own my music collection the way you own a physical record. I don't even know what's in there and it doesn't really matter. It's a large chunk of data and metadata that is more or less accessible to me at a given moment. In fact, all music in the world is a huge chunk of data and metadata that is more or less accessible to me at a given moment. Right now, the song that starts playing when i hit [WIN+X] is the most accessible, a little less if i have to open amarok with [WIN+P], filter my collection with a certain keyword and then play it. Some aren't properly tagged, that makes it even harder. Especially the ones called only "Track 1", "Track 2", etc. For some songs I have to plug in my external hard drive, located in another room. Sometimes even load a DVD, which I used for back-up before I got the drive. They are not very reliable, so I don't know which music is still there and which is gone. Sometimes I just delete tracks on purpose, whole albums or even whole genres, because I want to make fresh stuff the most accessible. Did you ever just destroy records because you felt like it? When I feel nostalgic I then have to ask a friend to send the track or look it up in a filesharing network. That usually ends up by me downloading lots of things I've never heard of before. I delete about 90% when I've listened through them. Some music just comes to me at random. I access them without knowing I wanted to. A forgotten song in my playlist that hasn't been shuffled for ages. A song streaming at a friends house, a club, the radio or TV. Streaming can be turned into downloads by USB, bluetooth, microphone, or (in case of horrible MySpace-streams) internal recording from your soundcard. That's a hassle, ask around instead, someone is bound to have it.
+
+Where does my music collection begin and end? Do I really own that DVD lying around with mp3s on it? I'm not really sure it was me who bought the record and burned the songs? MySpace is usually more accessible than my external drive, so is that more part of my music collection? And consider the new songbird media player that lets you que up mp3blogs as playlists, just like files on you hard drive. 
+
+Can we measure the collection by control? If I decide if a song is deleted or not, its in my collection. Ok, then MySpace and Mp3blogs are out of the question. But then again, so is malfunctioning DVDs. And to be frank, this computer doesn't really have en eternal lifespan, sometimes the hard drive makes an eerie noise. Let's measure inclusion in my music collection by measuring the risk of data being deleted without my authority. This gives a spectrum from the actual records I've bought (although they keep getting lost), via all my data storage devices, through stable web services and all my friends who never change listening habits to the most fragile but most dynamic archive of them all, the filesharing network. 
+
+The world is a huge chunk of data and metadata that is more or less accessible to me at a given moment. 

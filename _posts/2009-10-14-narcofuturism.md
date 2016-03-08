@@ -1,0 +1,18 @@
+--- 
+
+layout: post
+title: Narcofuturism 
+tags: english notswedish
+date: 2009-10-14 13:02:19 +02:00 
+
+---
+
+[The nobel prize winner Barack Obama](http://twitter.com/fffffat/status/4737434838) has at least done something during his presidential period. He finanzed a war in Mexico. The war on drugs. American dollars are financing the horrible and pointless battle that the mexican governement and military is waging against "the narcos". It's not an easy task. The narcos are well rooted in the mexican society. They build entire cities in the north. The only cities that can provide its citizens with functioning health care and infrastructure. They build their own super advanced mini-submarines and it wouldn't be surprising if they already built their own internet. Actually, narcos seem to be the only ones who can build something stable and functioning in the country. The rest is a series of failed attempts of privitisation therapy. The latest being the mexico city gas company which is now under siege by riot police since the president deemed it too ineffective (also following protests where the union of the electricity company thretened to cut electricity in the city). 
+
+//
+
+At a hacklab in Mexico City, a spanish guy from a hacklab in Madrid has arrived to organize a hackmeeting. Chairs are lined up on rows facing a stage in the small occupied basement. The room is too small to have any conversations without interrupting the speaker so everyone is forced to listen to them. The organiser himself is talking for two hours about his owns projects. He reads from a poster of rules for how to make a hackerspace. "...and a hackerspace must always...always be outside of the state". Rules for how to be an anarchist, rules for how to be radical. On the wall there are notices that everyone is encouraged to help with the dishes and to sleep over since the space values community, democracy and autonomy. The hackerspace is very careful with who is allowed to enter the space since they want to keep the autonomy. The mötley crew making up the newly formed wikiparty is not allowed since the space want to be independant from parties. Geraldines presentation of [F.A.T.](http://fffff.at/) is looked upon with sceptisism because it's not clear weather art is radical enough to be featured. After a while she is allowed to do the presentation with the outspoken reason that they need more female representation. 
+
+//
+
+"It's not a question of _if_ the narcos will win but which of the narcos that will win", someone said during a conversation. Even the government is of course filled with connections to the drug trade. They only pretend that they can institutionalize this greyzone economy. No, in mexico city you can't build formal institutions, not even if you call yourself an anarchist, a hacker, or a government. Mexico can forget about finding a plan to implement all throughout society. 60% of the economy is already an informal  greyzone economy. And despite that, or because of it, the city functions. As Geraldine says "we only have to make these greyzones THE PLAN instead of trying to come up with a new one." Maybe this requires that the narcos win the war. They have build a huge, advanced economy by living of these greyzones and learned to adapt to the rapidly changing and chaotic environment that is the life in mexico city. We only have to make them stop chopping peoples heads and leaving them outside schools... 
