@@ -1,7 +1,7 @@
 ---
 layout: post
 title: philoxiphy
-tags: secret
+tags: english
 summary: The philoxiphy of omxi.se
 ---
 
