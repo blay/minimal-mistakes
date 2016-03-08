@@ -19,8 +19,8 @@ image:
 
 I imagined a primitive civilization without a concept of advanced technology but that somehow was able to read the GPS signals. How would they relate to these endless strings of numbers? Perhaps they would see them as a malicious force radiating down at them from above and they would seek shelter whenever they encountered a strong signal. Or they would see it as a good sign and build a shrine at the location where they would make wishes. Perhaps they would not understand that it came from above but thought it indicated the presence of an invisible being and tried to capture it. Maybe they would try to interpret it as form a priesthood that had authority of reading a signal. Or maybe they would conclude that it was not a signal meant for humans but the rooster spoke its language.
 
-![](/img/gps_shelter.png)
-![](/img/gps_shrine.png)
-![](/img/gps_capture.png)
-![](/img/gps_priesthood.png)
-![](/img/animals.png)
+![](/images/gps_shelter.png)
+![](/images/gps_shrine.png)
+![](/images/gps_capture.png)
+![](/images/gps_priesthood.png)
+![](/images/gps_animals.png)

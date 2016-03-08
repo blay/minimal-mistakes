@@ -53,7 +53,7 @@ Efter föreläsningen ställde jag en fråga. Hans nämnde tidigt i föreläsnin
 =======
 Efter föreläsningen ställde jag en fråga. Hans nämnde tidigt i föreläsningen att teknikfilosofi var ett jättestort akademiskt fält idag med bland annat STS och jag kunde inte låta bli att plocka upp den tråden. Dessutom har jag alltid tyckt att det är tråkigt att man inom STS ofta avfärdar Heidegger med endast en kort anmärkning om att han minsann talar om Teknik i singularis medan man inom STS undersöker teknik empiriskt i dess fulla komplexitet.[^5] Jag ville ändå pröva att tänka in dem i hans filosofi. Så jag frågade hur han såg på den trend som finns idag inom STS (och även inom så kallad nymaterialism) att låta tekniken och naturen så att säga göra motstånd mot människan och bli handlande aktörer i sin egen rätt. Vänder de sig i första hand mot Heideggers uppdelning av Technē i tekniken och konstverket? Heidegger kan sägas lokalisera det icke-moderna i konstverket till skillnad mot den moderna teknikuppfattningen, men Latour kan sägas mena med "We have never been modern" (Latour, 1993) att det Heidegger finner i konstverket står att finna i all teknik och vetenskap om man bara tittar noga. Därav behövs avancerade empiriska studier och inte "armchair philosophy". Med rätt metod (ANT) går det att upptäcka att där den moderna människan trott att hon nyttjat naturen och gett den form har i själva verket en mängd mönster och hybrider skapats. Svaret jag fick på frågan var rätt dunkelt, får jag säga, men nyfiken på kommentarer på det här nedan.
 
-![](img/hansruin.jpg)
+![](/images/hansruin.jpg)
 
 *Hans Ruin föreläser om Heideggers teknikfilosofi och vägrar prata in i mikrofonen, till den bakre radens förtret.*
 
