@@ -1,9 +1,9 @@
---- 
+---
 
 layout: post
-title: Rapid Prototyping I - personlig tillverkning 
-tags: english swedish 
-date: 2009-03-13 17:55:16 +01:00 
+title: Rapid Prototyping I - personlig tillverkning
+tags:  swedish 
+date: 2009-03-13 17:55:16 +01:00
 
 ---
 
@@ -11,4 +11,4 @@ Hårdvara och digital information börjar närma sig varandra. 3d-skrivare stör
 
 > 2001 grundade en handfull professorer vid MIT (Massachusetts Institute > of Technology) Center for Bits and Atoms, CBA, med medel från National > Science Foundation. Centrets uppgift var och är att se vad som kommer > efter den digitala revolutionen. Vad de förutspår är en revolution > inom fabrikation, en förflyttning mot personlig tillverkning.
 
-Det står att läsa på hemsidan för [Fablab Sweden](http://www.fablab.se/) som ämnar öppna upp en serie FabLabs (fabrication labs såklart...) i Sverige i år, ett koncept som kommer från [MIT:s CBA](http://fab.cba.mit.edu/about/faq/). Tanken är att ge individer möjlighet att klampa in där och tillverka vad som helt genom rapid prototyping. Tanken är att FabLabs ska bli hubbarna som kan sätta igång revolutionen mot personlig tillverkning. Ännu är en laserskärare lite väl dyr för en enskild person, men startar företag upp tjänster där man köper tid/material antingen på plats eller på nätet så är det inte så svårt att få inköpskostnaderna att gå runt. Redan idag finns dock alternativ för hemmasnickaren. Den sexigaste maskinen av dem alla är [RepRap](http://dev.www.reprap.org/bin/view/Main/WebHome) som jag tänkte ägna ett eget inlägg till. Men låt oss bara säga att det är ett projekt (i beta-stadie får väl sägas) för att skapa en självreplikerande (den ska kunna tillverka alla sina delar) 3d-printer där materialkostnaden idag inte ligger på mer än 500 dollars. *Detta var en kort introduktion till koncepter. Del två kommer undersöka vilken inverkan maskiner som RepRap skulle kunna få* 
+Det står att läsa på hemsidan för [Fablab Sweden](http://www.fablab.se/) som ämnar öppna upp en serie FabLabs (fabrication labs såklart...) i Sverige i år, ett koncept som kommer från [MIT:s CBA](http://fab.cba.mit.edu/about/faq/). Tanken är att ge individer möjlighet att klampa in där och tillverka vad som helt genom rapid prototyping. Tanken är att FabLabs ska bli hubbarna som kan sätta igång revolutionen mot personlig tillverkning. Ännu är en laserskärare lite väl dyr för en enskild person, men startar företag upp tjänster där man köper tid/material antingen på plats eller på nätet så är det inte så svårt att få inköpskostnaderna att gå runt. Redan idag finns dock alternativ för hemmasnickaren. Den sexigaste maskinen av dem alla är [RepRap](http://dev.www.reprap.org/bin/view/Main/WebHome) som jag tänkte ägna ett eget inlägg till. Men låt oss bara säga att det är ett projekt (i beta-stadie får väl sägas) för att skapa en självreplikerande (den ska kunna tillverka alla sina delar) 3d-printer där materialkostnaden idag inte ligger på mer än 500 dollars. *Detta var en kort introduktion till koncepter. Del två kommer undersöka vilken inverkan maskiner som RepRap skulle kunna få*

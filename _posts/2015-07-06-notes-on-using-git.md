@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes on Using Git
-tags: txt
+tags: meta
 summary: This note explains how to work with git.
 image:
   feature: git_narrow.png

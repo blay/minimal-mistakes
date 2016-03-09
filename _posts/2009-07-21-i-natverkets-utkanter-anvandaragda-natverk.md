@@ -1,9 +1,9 @@
---- 
+---
 
 layout: post
-title: "I nätverkets utkanter: Användarägda nätverk" 
-tags: english swedish 
-date: 2009-07-21 14:01:18 +02:00 
+title: "I nätverkets utkanter: Användarägda nätverk"
+tags:  swedish 
+date: 2009-07-21 14:01:18 +02:00
 
 ---
 
@@ -11,8 +11,8 @@ Lås oss stanna kvar i Afrika, denna gång i Tanzania. Och låt oss stanna kvar 
 
 - Individuell vs. kollektiv tillgång - Datorutbredningen - Mobilens roll - Kostnaden för internet - Elektricitet - Reglering
 
-// Ett exempel på meshnätverk är Sengerema Telecenter som täcker ett stort område av Sengeremadistriktet med trådlöst nät (minns inga siffror på rak arm). Sengerema Telecenter försöker hitta affärsmöjligheter för att bli självförsörjande och bidragsoberoende och helt ägt av den lokala gemenskapen (det nämndes olika affärsmodeller som jag inte minns nu). Nätverksbyggandet är en integrerad det av den övriga sociala utvecklingen och integreras med annat community-byggande och utvecklingsprojekt. Att bygga användarägda trådlösa nätverk till låg kostnad gör också att man kan skala upp nätverket utan att behöva stora fasta investeringar. Det kan helt enkelt växa i takt med att efterfrågan ökar. 
+// Ett exempel på meshnätverk är Sengerema Telecenter som täcker ett stort område av Sengeremadistriktet med trådlöst nät (minns inga siffror på rak arm). Sengerema Telecenter försöker hitta affärsmöjligheter för att bli självförsörjande och bidragsoberoende och helt ägt av den lokala gemenskapen (det nämndes olika affärsmodeller som jag inte minns nu). Nätverksbyggandet är en integrerad det av den övriga sociala utvecklingen och integreras med annat community-byggande och utvecklingsprojekt. Att bygga användarägda trådlösa nätverk till låg kostnad gör också att man kan skala upp nätverket utan att behöva stora fasta investeringar. Det kan helt enkelt växa i takt med att efterfrågan ökar.
 
 //
 
-Sebastian menar att "european and african networks constitute edges of different kinds". Här i utkanterna finns massvis med utrymme för nytänk! Vi måste utforska de här kanterna på nätverket. Omformulera dem, utvidga dem, väva in dem i andra utvecklingar och relationer, experimentera med dem och öppna upp dem - omdefinierna var internet börjar och slutar. Nätverkets utkanter där mötet sker med InternetNoll! 
+Sebastian menar att "european and african networks constitute edges of different kinds". Här i utkanterna finns massvis med utrymme för nytänk! Vi måste utforska de här kanterna på nätverket. Omformulera dem, utvidga dem, väva in dem i andra utvecklingar och relationer, experimentera med dem och öppna upp dem - omdefinierna var internet börjar och slutar. Nätverkets utkanter där mötet sker med InternetNoll!

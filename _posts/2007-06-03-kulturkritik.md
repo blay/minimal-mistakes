@@ -2,7 +2,7 @@
 
 layout: post
 title: Kulturkritik
-tags: english swedish
+tags: swedish
 date: 2007-06-03 16:34:51 +02:00
 
 ---

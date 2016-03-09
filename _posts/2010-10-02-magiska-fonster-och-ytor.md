@@ -1,9 +1,9 @@
---- 
+---
 
 layout: post
-title: "Magiska fönster och ytor" 
-tags: english swedish 
-date: 2010-10-02 13:04:48 +02:00 
+title: "Magiska fönster och ytor"
+tags:  swedish 
+date: 2010-10-02 13:04:48 +02:00
 
 ---
 
@@ -25,5 +25,3 @@ För att förstå möjligheterna för kommunikationsteknologi att fungera på de
 För att förstå varför ipad har blivit en sån framgång måste man också förstå vad den möjliggör kroppsligt, som yta. Inte bara som fönster in till en app.
 
 Dessa ytor är ändå bara ett litet steg bort från laptopen. Idag finns möjligheten för datande att aktualiseras på helt andra sätt än genom skärmar och blinkande lampor. Mekanik, [såpbubblor](http://www.mcqn.com/weblog/who_or_what_is_bubblino) och [färgskiftningar i tyg](http://en.wikipedia.org/wiki/Thermochromism) går precis lika bra.
-
-

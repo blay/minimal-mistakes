@@ -280,6 +280,15 @@ $button-size: 1.5rem;
 				margin-bottom: 0px + $doc-line-height;
 				margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
 			}
+			&.tldr {
+				background-color: #FFFF88;
+			}
+			&.meta {
+				background-color: #E3E2E1;
+			}
+			&.english {
+				background-color: #E6E8FC;
+			}
 		}
 		p {
 			@include font-rem(14);

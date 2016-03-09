@@ -1,9 +1,9 @@
---- 
+---
 
 layout: post
-title: "En laptop som social förändring" 
-tags: english swedish 
-date: 2008-12-15 08:45:17 +01:00 
+title: "En laptop som social förändring"
+tags:  swedish 
+date: 2008-12-15 08:45:17 +01:00
 
 ---
 
@@ -13,4 +13,4 @@ Via [Masters of Media](http://mastersofmedia.hum.uva.nl/2008/12/13/gun-vs-olpc-c
 
 Kan man se reklamfilmen för OLPC som en naiv efterföljare till 90-talsidén om att Internet var en virtuell värld där gamla konventioner inte gällde, att den möjliggör för barnen att *lämna*sitt gamla liv? Utan att underskatta värdet av kommunikationsteknikens roll i social förändring går det istället att föreställa sig hur en OLPC-dator vävs in i den gamla världen och delvis blir en exterioritet till den men även kan verka friktionsfritt med den, exempelvis göra en barnsoldat mer effektiv. Varje förståelse av kommunikationsteknologi som etablerar den som en plats skiljd från den fysiska verkligheten kommer missa den komplexitet som sammansättningen teknologi och laddade sociala situationer innebär. Internet innebar inte en plats där skillnader i kön- och ras inte längre gällde utan öppnade istället nya möjligheter att [arbeta mot - eller skapa nya -](#) sådana skillnader.
 
-**[Skills: the right to education](http://www.dailymotion.com/swf/x7o505)** *by [olpcfoundation](http://www.dailymotion.com/olpcfoundation)* 
+**[Skills: the right to education](http://www.dailymotion.com/swf/x7o505)** *by [olpcfoundation](http://www.dailymotion.com/olpcfoundation)*

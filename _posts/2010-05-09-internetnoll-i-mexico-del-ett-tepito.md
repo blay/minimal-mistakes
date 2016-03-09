@@ -1,9 +1,9 @@
---- 
+---
 
 layout: post
-title: "InternetNoll i Mexico: Del ett - Tepito" 
-tags: english swedish 
-date: 2010-05-09 01:42:44 +02:00 
+title: "InternetNoll i Mexico: Del ett - Tepito"
+tags:  swedish 
+date: 2010-05-09 01:42:44 +02:00
 
 ---
 
@@ -25,4 +25,4 @@ För visst finns det många likheter mellan nätet och marknaden. Jag identifier
 1. *Prismodell a'la App-stor*e. 20 pesos är Tepitos 99 cents. En dvd, ett glas juice, underkläder, tamales, diverse krimskrams. Allt är 20 pesos. Det är det standardiserade baspriset som gör den allra minsta handeln väldigt enkel. Vid större kvantiteter och flashigare grejer tillkommer såklart prutningar och blåsningar (som "guerito" höll jag knäpptyst medan min Mexicanska flickvän förhandlade priset) 2. *Avsaknad av index*. Samma känsla som på internet. Det finns så mycket, så även om allt verkar vara skräp så ger det känslan av att den perfekta grejen finns lite längre bort. Och hittas den inte beror det på att man letat för dåligt, inte att den inte finns. Det finns ingen överblick över Tepito, inget index, ingen sökmotor. Samtidigt är det just den här browsing-känslan som gör Tepito så speciellt. Att vada genom all den här aktiviteten och upptäcka bisarra prylar man inte visste existerade. Mitt google var min flickvän som hade bra koll på området, men såklart inte heltäckande. 3. *Rickrolling*. Jo, vi blev rickrollade i Tepito. Någon började blasta Never Gonna Give You Up precis när vi passerade :) Men generellt så kändes känslan av random lulz som bara uppkommer i oorganiserade, distribuerade nätverk väldigt bekant.
 
 
-$ 
+$

@@ -1,9 +1,9 @@
---- 
+---
 
 layout: post
-title: "Det ytliga nätet" 
-tags: english swedish 
-date: 2010-07-28 12:31:47 +02:00 
+title: "Det ytliga nätet"
+tags:  swedish 
+date: 2010-07-28 12:31:47 +02:00
 
 ---
 
@@ -22,5 +22,3 @@ När diskussionen dök upp på IRC här om dagen menade jag att frågan inte lä
 // Frågan dök också upp om det är en slump att en slags "kulturell backlash" mot nätet sker samtidigt som ökade krav på censur och reglering av nätet. Min uppfattning är att det hör samman med en förmodan om att internet nu har blivit moget och hittat sin form. Då kommer kraven på att den formen ska passa in med massa andra former i samhället och sluta vara så uppstudsig. Men jag tror inte på detta. Internet har inte hittat sin form. Internets genombrott är mer radikalt än så, mer radikalt än bara ännu en medieform. Internet är den universella maskinen som går att programmera för att bli [bärare](2008-04-10-ett-ackompanjemang-till-good-old.html) till evigt nya former av media. Internet kommer alltså inte att stelna annat än tillfälligt och det finns fortfarande utrymme för nya internetrevolutioner. Vi måste bara hitta de former de kommer att ta och vilka situationer de kommer att ingripa i.
 
 Vi måste skapa internet på nytt hela tiden. Det var lite vad jag var ute efter när [jag talade i Italien tidigare i år](2010-03-31-fighting-the-3d-reptiles.html). Ingen tidigare teknologi har varit så konfigurerbar som denna. Internet kan göra hur lugnt och hur stressigt som helst. Hur fritt och hur kontrollerat som helst. Återigen. Utforskandet efter den rätta formen i rätt situation kvarstår!
-
-

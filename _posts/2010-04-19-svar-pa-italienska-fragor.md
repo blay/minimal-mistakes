@@ -1,9 +1,9 @@
---- 
+---
 
 layout: post
-title: "Svar på italienska frågor" 
-tags: english swedish 
-date: 2010-04-19 19:50:18 +02:00 
+title: "Svar på italienska frågor"
+tags: english  
+date: 2010-04-19 19:50:18 +02:00
 
 ---
 
@@ -20,5 +20,3 @@ I'm not too afraid of the resources of the web being used for business purposes.
 3) What is the future of TPB and how would you explane, in a few words, the success of the swedish pirate archipelago (the bay, the party, the embassy, etc).
 
 3) In sweden we are in a time now where the first-generation entities such as Piratbyrån and Pirate Bay occupy less space (this has mostly moved abroad) in favour of new names for entities, such as telecomix, the julia group and in a certain arena, the pirate party. This is because new areas have been opened up by the former. Looking at TPB you will see some familiar names popping up elsewhere as well (check the credits of the WikiLeaks video of the helicopter attack in Iraq...). So let's just say that the ecosystem of swedish pirate related activity is doing very well. And I think this broad ecosystem with fuzzy borders between organizations is the key. New ideas can get support easily and new problems gets discovered and tackled immediately. Around the pirate archipelago there is also a vast ocean of swedish internet life, from programmers to journalist who thanks to the web2.0 services like twitter are now in immediate contact with each other.
-
-

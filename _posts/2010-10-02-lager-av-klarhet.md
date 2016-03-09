@@ -1,9 +1,9 @@
---- 
+---
 
 layout: post
-title: Lager av klarhet 
-tags: english swedish 
-date: 2010-10-02 13:37:03 +02:00 
+title: Lager av klarhet
+tags:  swedish 
+date: 2010-10-02 13:37:03 +02:00
 
 ---
 
@@ -24,5 +24,3 @@ Alla som engagerat sig i skapandet några slags organisationer känner säkert i
 > Simplifying is hard: > In a lot of cases, removing complexity (or complication) from human > systems is difficult. Often systems will rather collapse, than > simplify. I think this is more a ‘human nature’ than ‘all of nature’ > issue. People see cutting back a budget as a failure, rather than a > success. They often see doing fewer things better as second to doing a > lot poorly (I know I’m in that category). Simplifying something is > harder than making it more complicated. I think all of these are as > true for human systems, as they are for computer systems. I hope in > the future to write a bit about how to manage these issues for people, > and code.
 
 Alla citat från: [Layers of Simplicity « Far McKon](http://www.farmckon.net/2010/04/layers-of-simplicity/)
-
-
