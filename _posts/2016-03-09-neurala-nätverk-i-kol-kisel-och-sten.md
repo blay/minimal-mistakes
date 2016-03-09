@@ -3,6 +3,8 @@ layout: post
 title: Neurala nätverk i kol, kisel och sten
 tags: swedish
 summary: 'Om Googles neurala nätverk DeepMind:s vinst mot  Lee Se-do'
+image:
+ feature: go_narrow.png
 ---
 
 [Googles program AlphaGo utvecklat ur deras neurala nätverk DeepMind har vunnit första matchen av fem mot Sydkoreanske Go-mästare Lee Se-dol](http://www.theverge.com/2016/3/9/11184362/google-alphago-go-deepmind-result). Det är första gången en artificiell intelligens har vunnit en Go-match mot en högt rankad mänsklig spelare.
