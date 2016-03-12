@@ -3,6 +3,8 @@ layout: post
 title: philoxiphy
 tags: english secret meta
 summary: The philoxiphy of omxi.se
+image:
+ feature: omxi_narrow.jpg
 ---
 
 ![](images/Untitled-4.png)

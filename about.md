@@ -9,6 +9,8 @@ image:
   feature: rijeka_narrow.png
 ---
 
+[CV](http://files.magnu.se/MagnusCV.pdf)
+
 I am a Phd candidate studying the relation between technology, law and society, currently living in Gothenburg, Sweden
 
 My PhD is a joint collaboration between the department of [Sociology of Law](http://www.soclaw.lu.se/magnus-eriksson) at Lund University, Sweden and [University of Macerata](http://www.unimc.it/en), Italy. The thesis is on the role of software in the regulation of urban space. It is an attempt to think digital technologies as material and spatial phenomena in order to better grasp the agency and normativity of emerging technologies that mediate between code and urban environments. I am especially interested in how urban space and physical activities are regulated and structured to ensure the functioning, capture and compliance with software systems.

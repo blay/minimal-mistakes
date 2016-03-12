@@ -176,49 +176,25 @@ end
 
 ## Creating Posts
 
-desc "give title as argument and create new post"
-# usage rake write["Post Title Goes Here",category]
-# category is optional
-task :write, [:title, :category] do |t, args|
-  filename = "#{Time.now.strftime('%Y-%m-%d')}-#{args.title.gsub(/\s/, '-').downcase}.md"
-  path = File.join("_posts", filename)
-  if File.exist? path; raise RuntimeError.new("Won't clobber #{path}"); end
-  File.open(path, 'w') do |file|
-    file.write <<-EOS
----
-layout: post
-title: #{args.title}
-date: #{Time.now.strftime('%Y-%m-%d %k:%M:%S')}
-tags:
-category: #{args.category}
----
-EOS
-    end
-    puts "Now opening #{path} in subl..."
-    system "subl #{path}"
-end
+desc "Create a new post with a title"
+task :np do
+  OptionParser.new.parse!
+  ARGV.shift
+  title = ARGV.join(' ')
 
-desc "give title as argument for draft post"
-# usage rake draft["Post Title Goes Here",category]
-# category is optional
-task :draft, [:title, :category] do |t, args|
-  filename = "#{Time.now.strftime('%Y-%m-d')}-#{args.title.gsub(/\s/, '-').downcase}.md"
-  path = File.join("_drafts", filename)
-  if File.exist? path; raise RuntimeError.new("Won't clobber #{path}"); end
-  File.open(path, 'w') do |file|
-    file.write <<-EOS
----
-layout: post
-title: #{args.title}
-date: #{Time.now.strftime('%Y-%m-d %k:%M:%S')}
-tags:
--
-category: #{args.category}
----
-EOS
-    end
-    puts "Now opening #{path} in subl..."
-    system "subl #{path}"
+  path = "_posts/#{Date.today}-#{title.downcase.gsub(/[^[:alnum:]]+/, '-')}.md"
+
+  if File.exist?(path)
+	  puts "[WARN] File exists - skipping create"
+  else
+	  File.open(path, "w") do |file|
+		 file.puts YAML.dump({'layout' => 'post', 'title' => title, 'tags' => 'english research tldr meta', 'summary' => '','image' => 'feature:'})
+	     file.puts "---"
+	  end
+  end
+  `atom #{path}`
+  # `rm -f #{path}`
+  exit 1
 end
 
 ## Isolating and Integrating
@@ -235,24 +211,4 @@ end
 desc "Move all stashed posts back into the posts directory, ready for site generation."
 task :integrate do
   FileUtils.mv Dir.glob("#{stash_dir}/*.*"), "#{posts_dir}/"
-end
-
-task :np do
-  OptionParser.new.parse!
-  ARGV.shift
-  title = ARGV.join(' ')
-
-  path = "_posts/#{Date.today}-#{title.downcase.gsub(/[^[:alnum:]]+/, '-')}.md"
-
-  if File.exist?(path)
-	  puts "[WARN] File exists - skipping create"
-  else
-	  File.open(path, "w") do |file|
-		 file.puts YAML.dump({'layout' => 'post', 'title' => title, 'tags' => 'english research tldr meta', 'summary' => ''})
-	     file.puts "---"
-	  end
-  end
-  `atom #{path}`
-  # `rm -f #{path}`
-  exit 1
 end
