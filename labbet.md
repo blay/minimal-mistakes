@@ -1,10 +1,14 @@
 ---
-layout: post
-title: Labbet utan egenskaper
+layout: page
+summary: Masteruppsats om materiella gemenskaper i hackerspacerörelsen
+title: Labbet utan egenskaper (2009)
+tags: swedish tldr
+image:
+ feature: kraftwerk_narrow.jpg
 ---
 
-* vad 
-{:toc}
+{% include _toc.html %}
+
 
 # Introduktion
 
