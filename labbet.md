@@ -1,7 +1,7 @@
 ---
 layout: page
 summary: Masteruppsats om materiella gemenskaper i hackerspacerörelsen
-title: Labbet utan egenskaper (2009)
+title: Labbet utan egenskaper (2011)
 tags: swedish tldr
 image:
  feature: kraftwerk_narrow.jpg
