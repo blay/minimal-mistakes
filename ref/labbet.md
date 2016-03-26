@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: labbet.html
 summary: Masteruppsats om materiella gemenskaper i hackerspacerörelsen
 title: Labbet utan egenskaper (2011)
 tags: swedish tldr
