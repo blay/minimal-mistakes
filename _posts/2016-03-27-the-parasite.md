@@ -9,7 +9,7 @@ image:
 
 In the Parasite (Serres, 2007), an infrastructure is a long chain of asymmetrical exchanges between incommensurable entities forming a passage (McGee, 2015). These are broken infrastructures producing [inconsistency, contingency, noise, and indeterminacy](2015-04-18-capture-all-parasitic-value.html). But they are also fractal, cascading, polyphonic, and resilient.
 
-The parasite form a "third space" between subject and object, infrastructure and user, signal and noise. No [anthropology of infrastructure](2016-03-26-the-anthropological-study-of-infrastructure.html) is complete without rats.
+The parasite forms a "third space" between subject and object, infrastructure and user, signal and noise. No [anthropology of infrastructure](2016-03-26-the-anthropological-study-of-infrastructure.html) is complete without rats.
 
 > A ghost ship, crewed by cannibal rats, is reported to be heading towards the British Isles. Really? Well, the mystery of the Lyubov Orlova cruise liner has become a news story that has been circulating online and splashed in newspapers. Just imagine it: a shadowy vessel silently docking in the dark of night, while cat-sized killer pirate rodents descend and scurry around our cities, brandishing their fangs ready to gnaw at your bones – yes it's the stuff of nightmares. And with each new headline the rats have become bigger and bigger, so to speak. We relish the opportunity to tell a good ghost story, don't we? But is it true?
 

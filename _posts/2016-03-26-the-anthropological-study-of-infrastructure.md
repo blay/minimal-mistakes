@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The Anthropological Study of Infrastructure
+summary: An introduction to infrastructure studies from anthropology
 tags: english tldr
-summary: 'An introduction to infrastructure studies from anthropology'
+title: The Anthropological Study of Infrastructure
 image:
-  feature: infrastructure_narrow.png
+  feature: 'infrastructure_narrow.png'
 ---
 
 {% include _toc.html %}
@@ -13,17 +13,19 @@ image:
 
 Anthropological study of infrastructure as part of the materialist and post-human turns and speaking to anthropology's engagement with revealing the structures underlying everyday life. Infrastructure studies have lately expanded to include both social arrangements and economic instruments.
 
-There is also a historical reason for why infrastructure talk is everywhere today. Infrastructure studies tend to highlight the breakdown of infrastructures and the precarity of the work keeping them alive. 35 years of neoliberal neglect of public infrastructures in the west have taken its toll on the great social foundations. A rapid post-colonial and post-hegemonical rise of Asia and the BRIC countries also provoke an interest in infrastructural expansion. The interest in finding an infrastructure for the anthropocene in the 21st century, expressed among others in the technocratic vision of the Smart City, is also a factor. Taking a broader perspective, Mattelart, sees infrastructures as a modern phenomena with roots in enlightenment ideas of universal free circulation of goods, ideas and people (Mattelart, 2000) and was seen as instrumental in bringing about the modern world (Bennett & Joyce, 2013). Also the study of infrastructures can be difficult to separate from their entangled history with modern ideals of social transformation.
+There is also a historical reason for why infrastructure talk is everywhere today. Infrastructure studies tend to highlight the breakdown of infrastructures and the precarity of the work keeping them alive. 35 years of neoliberal neglect of public infrastructures in the west have taken its toll on the great social foundations. A rapid post-colonial and post-hegemonical rise of Asia and the BRIC countries also provoke an interest in infrastructural expansion. The interest in finding an infrastructure for the anthropocene in the 21st century, expressed among others in the technocratic vision of the Smart City, is also a factor. Taking a broader perspective, Mattelart, sees infrastructures as a modern phenomena with roots in enlightenment ideas of universal free circulation of goods, ideas and people (Mattelart, 2000) and was seen as instrumental in bringing about the modern world (Bennett & Joyce, 2013). To be modern is to live in multiple scales through infrastructures, but empirical studies of infrastructures also reveal tensions in the separation of nature, culture and technology[^1] that they are supposed to uphold(Edwards, 2003; see also Latour, 1993).
 
-Anthropological work on infrastructures (including here STS work) can both be a challenge to anthropology's human-centeredness by showcasing the "missing masses" (Latour, 1992) or challenge the notion of the stable infrastructure by showing the human labour involved in maintaining it (Graham & Thrift, 2007). The works can both be mundane empirical description to speculative post-human challenges introducing new actors to anthropology. These approaches can require both a heightened technical understanding and a new poetic sensibility (Larkin, 2013).
+Anthropological work on infrastructures (including here STS work) can both be a challenge to anthropology's human-centeredness by showcasing the "missing masses" (Latour, 1992) or challenge the notion of the stable infrastructure by showing the human labour involved in maintaining it (Graham & Thrift, 2007). The works can both be mundane empirical description to speculative post-human challenges introducing new actors to anthropology. These approaches can require both a heightened technical understanding and a new poetic sensibility (Larkin, 2013). Infrastructure studies could also be seen as a response to counter the tendency of technology studies to focus on the new and rapidly changing high-tech, rather than the mundane mature infrastructural systems that make up society or even past technological systems that today are seen as self-evident (Edwards, 2003).
 
 # Defining Infrastructure
+
+The term infrastructure has military origins[^2] referring initially in the 1940s to the fixed facilities of NATO as opposed to the global mobility of the armed forces. Infrastructure still has this aura of security around it, for example with the term "critical infrastructures" which are defined by governments as being critical to the functioning of a society in a time of crisis and therefor require extra security measures[^3]. The term was adapted by urban planners in the 1970s referring to systems that were crucial for the operation of a city, but which were too critical and massive to be run for profit as private enterprises. At the same time it was taken up in international development where the best way to fight the spread of communism in the third world were considered to be to provide economic stability by providing the underlying necessities of life though massive infrastructure investments.
 
 Larkin defines infrastructures as physical networks that allows exchanges across space (Larkin, 2013). They are material forms though which *other* material forms are exchanged; things, but also the relation between things. They are things that can be observed, but also tend to disappear to foreground only the things they transport --- "computers not cables, light not electricity, taps and water but not pipes and sewers.". Infrastructures are the architectures of circulation and flow. Infrastructures can also be recursively linked such as that the electricity network is the infrastructure of computers but that computer networks is also the infrastructure allowing the electrical grid to operate --- one is the guest, or parasite, to the other (Serres, 2007). The same is the case for the production of raw materials, or of markets allowing the maintenance and exchanges of infrastructural systems. Hardware, software and wetware mutually rely on each other. Defining an infrastructure is therefore a categorizing act that breaks up heterogeneous networks and decides what should be studied as the foundation of something else and where the borders of that system are.
 
 The tradition of studying Large-Technical Systems following the historian Thomas Hughes (Bijker, Hughes, & Pinch, 1987; Hughes, 1983) sees all technologies as infrastructures such that the Edison light bulb cannot be understood without considering the simultaneous development of the Edison generator and other auxiliary technologies as well as the business and financial mechanisms that made the Edison system able to grow from a few unconnected technologies to the dominating technical standard. With this perspective, the system is foregrounded rather than individual technologies.
 
-At the same time, Larkin says that infrastructures can take of "fetisch-like aspects" apart from their technical function. This "poetics of infrastructure"[^1] --- where the form of infrastructural projects have a relative autonomy from their technical function --- point to infrastructures as tied up with collective fantasies, desires and subjectivities, where infrastructural projects allow nations and regions to join the club of modernity, but can also create sense of failure and disconnect between dreams and reality. The engineers of infrastructures can then become highly political nation-building actors and there are even examples where the evicted victims of modernizing projects support them because of the beauty they represent (Boeck, 2011). Thus, there is no linear progression from the stable, material infrastructures buried underground and the fleeting phenomenological world on the surface. According to Larkin, our current laissez-faire political economy rests on a techno-politics of infrastructures organizing the economy and society. Thus, studying infrastructures can reveal a lot about current political arrangements and governmentality (Larkin, 2013). Larkin refers to the research of Collier to link infrastructures to biopolitics.
+At the same time, Larkin says that infrastructures can take of "fetisch-like aspects" apart from their technical function. This "poetics of infrastructure"[^4] --- where the form of infrastructural projects have a relative autonomy from their technical function --- point to infrastructures as tied up with collective fantasies, desires and subjectivities, where infrastructural projects allow nations and regions to join the club of modernity, but can also create sense of failure and disconnect between dreams and reality. The engineers of infrastructures can then become highly political nation-building actors and there are even examples where the evicted victims of modernizing projects support them because of the beauty they represent (Boeck, 2011). Thus, there is no linear progression from the stable, material infrastructures buried underground and the fleeting phenomenological world on the surface. According to Larkin, our current laissez-faire political economy rests on a techno-politics of infrastructures organizing the economy and society. Thus, studying infrastructures can reveal a lot about current political arrangements and governmentality (Larkin, 2013). Larkin refers to the research of Collier to link infrastructures to biopolitics.
 
 > Here, I want to interrupt the article, showing poetics of infrastructure in a few commercials for the Mexican "Solidaridad" program from the early 1990's that built roads to rural areas but also provided credit for rural communities to build their own infrastructures. The examples highlight the role of infrastructures in nation building.
 
@@ -45,7 +47,7 @@ Star defines infrastructure relationally as when a system has the following prop
 -   *Becomes visible upon breakdown*.
 -   *Is fixed in modular increments*. Nobody is really in charge of bid, layered and complex infrastructure.
 
-The much repeated claim about infrastructures only becoming visible upon breakdown is contested by the examples of infrastructure as grand spectacles given by Larkin (2013). The (in)visibility *is* the politics of infrastructure. Graham and Thrift also challenges the view that breakdowns are anomalies and instead consider them the default state of infrastructures in constant need of repair and maintenance from both users and experts, and that breakdowns are often not catastrophic but rather opportunities for learning, adaption, and innovation that goes beyond mere restoration (Graham & Thrift, 2007).[^2] Graham and Thrift thus puts maintenance at the heart of being in a world fighting against constant entropic decay, and in contrast to a social theory that have tended to emphasize connection and assembly.
+The much repeated claim about infrastructures only becoming visible upon breakdown is contested by the examples of infrastructure as grand spectacles given by Larkin (2013). The (in)visibility *is* the politics of infrastructure. Graham and Thrift also challenges the view that breakdowns are anomalies and instead consider them the default state of infrastructures in constant need of repair and maintenance from both users and experts, and that breakdowns are often not catastrophic but rather opportunities for learning, adaption, and innovation that goes beyond mere restoration (Graham & Thrift, 2007).[^5] Graham and Thrift thus puts maintenance at the heart of being in a world fighting against constant entropic decay, and in contrast to a social theory that have tended to emphasize connection and assembly.
 
 In contrast to Larkins grand projects, Star begins by defining infrastructures as boring places filled with mundane technical standards and as an --- at the time --- understudied and under-appreciated field (Star, 1999). Star makes a distinction between the study of infrastructures and their effect on human organization and simply using ethnographic methods to studying peoples behavior online in what nowadays would be termed "digital humanities". Her article is written in 1999 and while she mentions cyberspace and MUDs, the question can be asked if this statement is as true in 2016 after over a decade of intense political debates over internet infrastructures. The infrastructures have come much closer to the users in todays debates over page rank algorithms, Facebook news feeds and NSA data captures.
 
@@ -71,7 +73,6 @@ Sometimes information systems needs to be worked around, other times they leave 
 
 Graham and Thrift follows Star in calling for studies that highlight the invisible work of repair and maintenance that add the vitality to infrastructures and enable them to function (Graham & Thrift, 2007). They also call attention to a politics of maintenance and repair in which the capability of doing such work is unevenly distributed and deliberately foreclosed. Such studies could then point to different technological arrangement altering the nature of tool-being where products could be designed to be easily repaired and recycled.
 
-
 # References
 
 Angelo, H., & Hentschel, C. (2015). Interactions with infrastructure as windows into social worlds: A method for critical urban studies: Introduction. *City*, *19*, 306–312.
@@ -86,6 +87,8 @@ Boeck, F. de. (2011). Inhabiting ocular ground: Kinshasa’s future in the light
 
 Dant, T. (2004). *Materiality And Society*. McGraw-Hill Education (UK).
 
+Edwards, P. N. (2003). Infrastructure and modernity: Force, time, and social organization in the history of sociotechnical systems. Modernity and Technology, 185–225.
+
 Graham, S., & Thrift, N. (2007). Out of order: understanding repair and maintenance. *Theory Culture and Society*, *24*.
 
 Hughes, T. P. (1983). *Networks of power: electrification in Western society, 1880-1930*. Baltimore: Johns Hopkins University Press.
@@ -98,6 +101,8 @@ Larkin, B. (2013). The politics and poetics of infrastructure. *Annual Review of
 
 Latour, B. (1992). Where are the missing masses? The sociology of a few mundane artifacts. *Shaping Technology/building Society: Studies in Sociotechnical Change*, 225–258.
 
+Latour, B. (1993). We have never been modern. Cambridge, Mass.: Harvard University Press.
+
 Mattelart, A. (2000). *Networking the World, 1794-2000*. U of Minnesota Press.
 
 Serres, M. (2007). The parasite. Baltimore: Johns Hopkins University Press.
@@ -108,6 +113,13 @@ Verbeek, P.-P. (2010). *What Things Do: Philosophical Reflections on Technology,
 
 # Footnotes
 
-[^1]: Poetics are defined through Jakobson (1960) as when the material qualities of the signifier is the determining function of a speech act.
 
-[^2]: Although these "normal accidents" differ from the cascading failures that can also ripple across interdependent infrastructural systems.
+[^1]: Such as regulating indoor climate separate from outdoors weather, separating clean and dirty water or separating the type of produce available in the supermarket from the current season.
+
+[^2]: Although it was imported from French where it was a railroad engineering term. [See this blog post for more on the etymology of the word](https://hakpaksak.wordpress.com/2008/09/22/the-etymology-of-infrastructure-and-the-infrastructure-of-the-internet/).
+
+[^3]: For example within the The European Programme for Critical Infrastructure Protection ([EPCIP](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=URISERV%3Al33260)) or the equivalent US Commission on Critical Infrastructure Protection (PCCIP).
+
+[^4]: Poetics are defined through Jakobson (1960) as when the material qualities of the signifier is the determining function of a speech act.
+
+[^5]: Although these "normal accidents" differ from the cascading failures that can also ripple across interdependent infrastructural systems.
