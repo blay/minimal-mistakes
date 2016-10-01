@@ -1,6 +1,6 @@
 ---
 layout: post-index
-permalink: txt.html
+permalink: meta.html
 title: Texts about Writing
 excerpt: "A collection of texts about writing texts"
 ---

@@ -19,7 +19,7 @@ An essay should have a strong thesis statement that answers the research questio
 
 # Do the math
 
-A paragraph in an academic text is roughly 150 words.
+A paragraph in an academic text is roughly 150 words [^1].
 
 The reason being that each paragraph is intended to make and substantiate 1 claim.
 Each paragraph should contain:
@@ -41,3 +41,7 @@ This means that we must learn to make one argument in 8 paragraphs, or 8 points.
 # Outline
 
 An outline should be done down to the level of the paragraph. The header level is too abstract and introduces weasel-arguments that present a false sense of flow. The devil is in the details and the details is in the paragraph as the basic unit of academic argument. Begin by doing the math and divide the total word count with 150 to get the number of paragraphs. Make one bullet for each paragraph. Take 10% of the paragraphs in the beginning and 10% in the end and wrap them in introduction and conclusion. For the remaining paragraphs you should provide a topic statement and the resources you will use to support your claim. It is recommended that you divide the body paragraphs into as many sub-sections as you have paragraphs in your introduction as this is how many arguments you will be making. However, these sub-headings often has to be removed in the final output.
+
+# Footnotes
+
+[^1]: [According to the University of Canberra](http://learnonline.canberra.edu.au/mod/book/view.php?id=178430&chapterid=281)
