@@ -11,9 +11,9 @@ image:
 
 This summer I have taken my time to re-think my note-taking system. I believe it was three years ago that I got serious with systematizing my note-taking by adopting a system based on plain text files inspired some writing that is not collected at zettelkasten.de.
 
-The term Zettelkasten comes from Luhmann's note-taking system. Luhmann used a filing archive of index cards that he put in slip boxes -- or in German, Zettelkasten. [This video shows his system](http://www.youtube.com/watch?v=7gxXkbEag6k).
+The term Zettelkasten comes from Luhmann's note-taking system. Luhmann used a filing archive of index cards that he put in slip boxes -- or in German, Zettelkasten. [This video shows his system](https://www.youtube.com/watch?v=mCFP5i_0ibE).
 
-{{ oembed http://www.youtube.com/watch?v=7gxXkbEag6k }}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mCFP5i_0ibE" frameborder="0" allowfullscreen></iframe>
 
 The core of the system is a collection of shorter notes with links between them. This can be implemented on [index cards](https://unclutterer.com/2014/06/17/the-pile-of-index-cards-poic-system/) or on a computer, preferably in a software-agnostic way, such as with plain text and customizable programming text editors. The for a computer implementation is to take the basis of an index card Zettelkasten and make it both human- *and* machine-readable. The philosophy is related to Markdown with its simple markup and emphasis on being readable by both humans and machines.
 
@@ -21,7 +21,7 @@ While being inspired by a paper-based index card system, a Zettelkasten is very 
 
 Unlike its name implies, a computers primary task is not to compute in the sense of doing calculations of mathematics, but it is to be a data handler. In this sense a computer, down to its very core, is nothing but a dumb but extremely fast file handling clerk. This comparison goes all the way up to the operating system that works with files -- pieces of data -- that has a name -- or an address -- and can contain content, and that are later placed in folders. [See this video where Richard Feynman explains computer heuristics](https://www.youtube.com/watch?v=EKWGGDXe5MA).
 
-{{ oembed https://www.youtube.com/watch?v=EKWGGDXe5MA }}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EKWGGDXe5MA" frameborder="0" allowfullscreen></iframe>
 
 Now this is not a historical lesson, although the story of how the filing cabinet became the computer is an incredibly fascinating one[^1]. Instead, I will go through how I use a Zettelkasten, or rather, how I *live* with a Zettelkasten.
 

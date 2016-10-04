@@ -12,7 +12,7 @@ excerpt: "A List of Posts"
 
 <h4><div class="foo" style="background-color:#E3E2E1;float: left;width: 20px;height: 20px;margin: 5px;margin-top:0px;border-width: 1px;border-style: solid;border-color: rgba(0,0,0,.2);"></div> <a href="meta.html"> Meta Posts.</a></h4>
 
-<h4><div class="foo" style="background-color:#E6E8FC;float: left;width: 20px;height: 20px;margin: 5px;margin-top:0px;border-width: 1px;border-style: solid;border-color: rgba(0,0,0,.2);"></div><a href="english.html"> English Short Posts.</a></h4>
+<h4><div class="foo" style="background-color:#E6E8FC;float: left;width: 20px;height: 20px;margin: 5px;margin-top:0px;border-width: 1px;border-style: solid;border-color: rgba(0,0,0,.2);"></div><a href="english.html"> English.</a></h4>
 
 
 {% for post in site.posts  %}

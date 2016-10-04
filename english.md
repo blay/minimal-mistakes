@@ -1,8 +1,8 @@
 ---
 layout: post-index
-permalink: meta.html
-title: Meta Posts
-excerpt: "A List of Meta Posts"
+permalink: english.html
+title: English Posts
+excerpt: "A List of English Posts"
 ---
 
 <div id="index">
@@ -14,7 +14,8 @@ excerpt: "A List of Meta Posts"
 
 <h4><div class="foo" style="background-color:#E6E8FC;float: left;width: 20px;height: 20px;margin: 5px;margin-top:0px;border-width: 1px;border-style: solid;border-color: rgba(0,0,0,.2);"></div><a href="english.html"> English.</a></h4>
 
-{% for post in site.tags.meta %}
+
+{% for post in site.tags.english %}
 {% unless post.next %}
 <h3>{{ post.date | date: '%Y' }}</h3>
 {% else %}
