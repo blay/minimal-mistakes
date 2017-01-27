@@ -15,6 +15,8 @@ Sök istället på valfri VST-synt och dina träffar kommer istället att bestå
 
 > Det här är ju exakt det preset som Gucci Mane/Aviici/Kanye West använder sig av!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_yuUn-v5zmo" frameborder="0" allowfullscreen></iframe>
+
 Ingen spelglädje så långt ögan når. Ingen konversation med musikinstrumentet. Det är ett verktyg för att få fram rätt ljud, inte en levande organism som talar med dig och de andra musikenheterna i en livfull konversation. Lustigt nog ligger iPad-musikerna närmare de analoga och gör själva ofta jamsessions med sina appar.
 
 Det kan finnas flera förklaringar till de här skillnaderna i beteenden som kan handla om olika musikkulturer som gör videoklippen, om att de analoga syntarna är begränsade i sina valmöjligheter och därmed inbjuder till en annan spelstil, och det kan handla om den totala avsaknaden av menyer i analogsyntarna. Det senare stämmer dock inte för vissa hybridinstrument som också tenderar att jammas med och visst går det att koppla en helt tangent- och rattbaserad enhet även till Serums VST och jamma loss. Ändå är det det eviga klickandet och presents från VST-gängets sida.
