@@ -2,7 +2,7 @@
 
 title:            ΩΞ
 locale:           en_US
-url:             http://www.omxi.se
+url:             http://www.blay.se
 teaser: teaser.jpg
 
 
@@ -13,7 +13,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
 
 kramdown:
@@ -32,15 +32,15 @@ transfer:
   command: rsync
   settings: -havz --delete
   source: _site/
-  destination: monki@omxi.se:www/omxi.se/www/
-  destination_dev: monki@omxi.se:www/dev.omxi.se/www/
+  destination: monki@blay.se:www/blay.se/
+  destination_dev: monki@blay.se:www/dev.blay.se/
 
 # Site owner
 owner:
   name: Magnus Eriksson
   avatar: bio-photo.jpg
   bio: "Internet and beyond. Pre-modern, post-human, para-academic."
-  email: ok@omxi.se
+  email: ok@blay.se
   disqus-shortname:
   twitter: monki #username
   facebook: #username
